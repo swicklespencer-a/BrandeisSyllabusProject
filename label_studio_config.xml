@@ -27,6 +27,7 @@
     <Label value="COMM" background="#14B8A6" />
     <Label value="SCHEDULE" background="#F97316" />
     <Label value="CONDUCT" background="#64748B" />
+    <Label value="DESCRIP" background="#06B6D4" />
   </Labels>
 
   <Text name="text" value="$text" granularity="word" />
