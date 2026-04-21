@@ -2,49 +2,47 @@
   Label Studio Labeling Config for Syllabus Topic Annotation
 
   Paste this into: Project Settings > Labeling Interface > Code editor
--->
-
-<View>
+--><View>
   <!-- METADATA HEADER -->
   <View style="background: #f0f4f8; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; font-family: monospace; font-size: 14px;">
-    <Text name="meta" value="$meta_display" />
+    <Text name="meta" value="$meta_display"/>
   </View>
 
   <!-- INSTRUCTIONS REMINDER -->
   <View style="background: #fffbe6; padding: 10px 14px; border-radius: 6px; margin-bottom: 16px; font-size: 13px; border: 1px solid #ffe58f;">
-    <Header value="Highlight spans of text and assign a label. Annotate based on meaning, not formatting." size="5" />
+    <Header value="Highlight spans of text and assign a label. Annotate based on meaning, not formatting." size="5"/>
   </View>
 
   <!-- LABELS + TEXT -->
   <Labels name="label" toName="text">
-    <Label value="ACCOM" background="#8B5CF6" />
-    <Label value="ATTEND" background="#3B82F6" />
-    <Label value="GRADE" background="#10B981" />
-    <Label value="ASSIGN" background="#F59E0B" />
-    <Label value="DEADLINE" background="#EF4444" />
-    <Label value="MATERIAL" background="#6366F1" />
-    <Label value="INTEGRITY" background="#EC4899" />
-    <Label value="COMM" background="#14B8A6" />
-    <Label value="SCHEDULE" background="#F97316" />
-    <Label value="CONDUCT" background="#64748B" />
-    <Label value="DESCRIP" background="#06B6D4" />
-  </Labels>
+    <Label value="ACCOM" background="#8B5CF6"/>
+    <Label value="ATTEND" background="#3B82F6"/>
+    <Label value="GRADE" background="#10B981"/>
+    <Label value="ASSIGN" background="#F59E0B"/>
 
-  <Text name="text" value="$text" granularity="word" />
+    <Label value="MATERIAL" background="#6366F1"/>
+    <Label value="INTEGRITY" background="#EC4899"/>
+
+    <Label value="SCHEDULE" background="#F97316"/>
+    <Label value="CONDUCT" background="#64748B"/>
+    <Label value="DESCRIP" background="#06B6D4"/>
+  <Label value="ADMIN" background="#FFA39E"/><Label value="CTF" background="#D4380D"/><Label value="LATE" background="#FFC069"/></Labels>
+
+  <Text name="text" value="$text" granularity="word"/>
 
   <!-- DOCUMENT VALIDITY FLAG -->
   <View style="margin-top: 20px; margin-bottom: 20px;">
-    <Header value="Document Validity" size="4" />
+    <Header value="Document Validity" size="4"/>
     <Choices name="validity" toName="text" choice="single" required="true">
-      <Choice value="Valid" />
-      <Choice value="Invalid - flag for review" />
+      <Choice value="Valid"/>
+      <Choice value="Invalid - flag for review"/>
     </Choices>
   </View>
 
   <!-- OPTIONAL NOTES -->
   <View style="margin-bottom: 20px;">
-    <Header value="Notes (optional)" size="4" />
-    <TextArea name="notes" toName="text" rows="3" maxSubmissions="1" placeholder="Any comments, edge case reasoning, or notes about flagged documents..." />
+    <Header value="Notes (optional)" size="4"/>
+    <TextArea name="notes" toName="text" rows="3" maxSubmissions="1" placeholder="Any comments, edge case reasoning, or notes about flagged documents..."/>
   </View>
 
 </View>
