@@ -32,7 +32,6 @@ Output:
   results/roberta_crf_confusion_matrix.png
 
 Run (after train_roberta.py has completed):
-  pip install pytorch-crf
   python train_roberta_crf.py
 """
 
