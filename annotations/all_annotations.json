@@ -4234,5 +4234,155 @@
     ],
     "validity": "Valid",
     "notes": ""
+  },
+  {
+    "doc_id": "261MATH 10B 2 Techniques of Calculus (b) Chloe Boatright",
+    "semester": "Spring Semester 2026 (261)",
+    "school": "School of Science, Engineering, and Technology",
+    "department": "Mathematics",
+    "course_name": "261MATH 10B 2 Techniques of Calculus (b) Chloe Boatright",
+    "annotator": "sam",
+    "spans": [
+      {
+        "start": 59,
+        "end": 431,
+        "text": "MATH 10b: Techniques of Calculus (b)\\nSpring 2026\\nSection 2\\nInstructor: Chlo¨e Boatright\\nOffice: Goldsmith 102\\ne-mail address: chloeboatright@brandeis.edu\\nMeeting Times & Recitations:\\nThis section will meet M / W 2:30 PM – 3:50 PM in Goldsmith 300. Recitations are required (used\\nfor assessment) and will also be held in-person. They are Friday 2:20-4:20 PM in Schwartz 112",
+        "label": "ADMIN"
+      },
+      {
+        "start": 433,
+        "end": 1533,
+        "text": "Calculus:\\nCalculus is one of the greatest intellectual achievements of humankind.\\nThe beautiful idea at the heart of this subject allows us to explore both\\nthe infinite and the infinitesimal. This gives us the tools to model and then\\nanalyze phenomena that change, i.e. pretty much anything!\\nLearning Goals for Math 10b:\\n1. Identify and apply key ideas and skills of Integral Calculus. This will\\nbe done by mastering the Outcomes detailed on the Moodle page. See\\nmore on “Mastery Grading” below.\\nFigure1: TheFourWords\\n2. Transfer familiar concepts to unfamiliar contexts. at the Heart of Calculus\\n(link)\\n3. Hone your problem solving skills.\\n4. Develop and leverage a learning community for math.\\nPrerequisite:\\nMath 10a, equivalent credit, or a satisfactory score on the math depart-\\nment’s calculus placement self-test:\\nhttps://communities.brandeis.edu/course/view.php?id=5563\\nWe want you to take the math class that is the best fit for you. We are happy to help you figure out\\nwhich class that is. Please contact the course coordinator, Becci Torrey (rtorrey@brandeis.edu), if you\\nhave any questions",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 1535,
+        "end": 2014,
+        "text": "Text:\\nCalculus,VolumeII,byGilbertStrang: https://openstax.org/details/books/calculus-volume-2\\nThetextbookisfreelyavailableonline, however, we will be reading it through Perusall (https:\\n//perusall.com/ – required). You will have to pay $10 to access the text through Perusall.\\nPlease note: this is a different text than we have used in past semesters.\\nBrandeis Moodle:\\nAll course materials will be available online on Brandeis Moodle: https://moodle.brandeis.edu/\\nmy/courses.php.\\n",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 2075,
+        "end": 5444,
+        "text": "Mastery Grading\\nWhat is Mastery Grading?\\nMastery Grading is a grading structure that is designed to maxi-\\nmize student learning. It rewards good study habits like hard work,\\npersistence, repeated practice, review and reflection.\\nHere’s how it works:\\nOurcoursehasalistofContent Outcomes–thesearemathemat-\\nical facts and skills that comprise the content we are learning in this\\nclass. (Content outcomes include things like “Evaluate trig functions\\nof special angles.” and “Solve a word problem that involves a log scale.” – see the end of this syllabus\\nfor a complete list.)\\nOur Friday Assessments give you the opportunity to demonstrate mastery of the content we have\\ncoveredsofarinthecourse. Problemswillbegradedonacredit/no-creditbasis. Yourworkwillbeheld\\nto a high standard: demonstrating clear mastery of the material as determined by the grader. If you\\ndemonstrate mastery on a particular outcome you no longer need to do those problems on subsequent\\nFAs.\\nRe-dos: If you do not earn credit on a particular outcome, it does not count against you. But this\\nmeans you need to review/study/practice that concept or skill further so you’re ready to try again on\\nthe next FA.\\nThis structure is known as “high-frequency, low-stakes” assessment: we have a high frequency\\nof tests (8 total) but they are low stakes because getting something wrong doesn’t count against you.\\nWiththisgradingstructure, youcanbeconfidentateverypointinthesemesterthatyouhavestrong\\nskills in all the outcomes you mastered, and you will know exactly which skills and ideas need more\\nwork.\\nWhy do we like it?\\nThere are so many reasons why we like this system better than a traditional grading structure. Here\\nare just a few:\\n1. Everyone can do well. There’s no curve, so there’s no limit on how many students can get A’s.\\nOur goal is for everyone to learn the material and succeed in the class. We believe you can do it\\nand we designed this course to help you succeed.\\n2. It avoids the “bad day” catastrophe. In a traditional low-frequency, high-stakes testing system,\\none bad day can tank your entire grade. In this system, you can make up for a bad day next time.\\n3. Studentscanlearnatdifferentpacesandstillsucceed. Ifyou’restrugglingwithaparticularconcept\\nand don’t get it right away but keep working on it, you’re rewarded for learning it eventually just\\nthe same as someone who learned it immediately. So keep working – persistence is rewarded.\\n4. Highstandards: thecredit/no-creditgradingmeansyouknowyouarebeingheldtohighstandards\\nand can (and should!) be really proud of each and every credit you earn.\\n5. Unveiling of hidden expectations: our Practice Assessments can help you prepare directly for each\\nOutcome even before they are first released but it is always possible that you may discover other\\nexpectations when first encountering a skill in a test environment. The re-do structure allows you\\nto learn from one test and apply those lessons to the next test to demonstrate your newfound\\nlearning.\\n6. Clarity about learning: In this system, you have a detailed list of all the things you will learn\\nthroughoutthecourse. AsyoumasterdifferentOutcomes, youhaveaclearunderstandingofwhat\\nyou have already learned and what you still need to work on.\\n7. This structure rewards good study habits, like regular practice, review of past work, and a focus\\non full understanding of the material.\\n2",
+        "label": "GRADE"
+      },
+      {
+        "start": 5505,
+        "end": 8588,
+        "text": "How to succeed in this course:\\nThis structure may be new to you. Succeeding may\\nrequire you to adjust your study habits. Since this\\nstructure rewards good study habits, we hope you\\nwill reflect on your approach and adjust as neces-\\nsary. This should help you to build better study\\nhabits that you can apply to future classes as well.\\nHere are some tips to get off to a great start:\\n1. Prepare for class. Read the sections in the book before class. Take notes, try problems and ask\\nquestions. Being prepared for class will help you to get the most out of our precious class time.\\n2. Attend class. This is essential. All learning is social and this is your primary opportunity to\\nmeet classmates with whom you can discuss the material both in and out of class. It is also your\\nbest opportunity to hear how the expert (your teacher) presents the material, ask questions in\\nreal time, set a routine, and keep up with the class.\\n3. Do your homework. Mathematical intuition is not inborn; you have to develop it. Homework\\nis a great way to do this. These assignments are designed to help you build that intuition. All\\nassignments have a series of easier problems that build up to harder problems so that you can\\nrecognize patterns and deeply ingrain your learning. The assignments also include challenging\\nproblems and problems that approach the material from different ways, so this is a great way to\\nprepare for the Challenge Outcomes.\\n4. Attend RAPS (Review, Advising and Preparation Stations). These will take place on\\nthe Fridays when we don’t have FAs. Review your past work, compare to our provided solutions,\\ntalk to your classmates and our staff to make sure you fully understand the concepts and the\\ntechniques. Then practice, practice, practice to ingrain that learning.\\n5. Talk to people. There is compelling research showing that students who form social groups\\naround academics are much more successful in college math classes than those who work alone.\\nYou will have opportunities to meet and talk to other students in class and RAPS, as well as in\\ntutoring and your instructor’s office hours. Utilize all these resources and form your own study\\ngroups.\\n6. Utilize office hours and tutoring. Upper class students and alum regularly regret not making\\nbetter use of resources like these. Add them to your calendar and attend regularly, even if you\\ndon’t have questions. These are great places to work on homework: they eliminate distractions\\nso you can focus and there’s an expert on hand if you get stuck or have questions. Check your\\nBrandeis Moodle page for details on instructor office hours.\\n7. Utilize Practice Assessments. These provide sample practice problems, grading rubric infor-\\nmation, and additional resources (usually videos and more practice problems) on the last page.\\n8. Review and reflect. Reflection is the foundation of learning. Reviewing past mistakes and\\nunderstandingwhatwentwrongisthekeytocorrectinganymisunderstandings, avoidingcommon\\nmistakes, and meeting expectations. We provide solutions to all FAs so you can compare your\\nwork to our solutions",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 8652,
+        "end": 10029,
+        "text": "Syllabus:\\nWe will cover the following sections from our textbook this semester:\\nNote: Some topics may be added or omitted as time permits.\\nSection Topic\\nInverse Functions & Derivatives of\\n1.1 Approximating Areas\\n1.2 The Definite Integral\\n1.3 Fundamental Theorem of Calculus\\n1.4 Integration Formulas and the Net Change Theorem\\n1.5 Substitution\\n1.6 Integrals involving exp & log functions\\n1.7 Integrals resulting in Inverse Trig Functions\\n2.1 Areas Between Curves\\n2.2 Determining Volumes by Slicing\\n3.1 Integration by Parts\\n3.4 Partial Fractions\\n3.7 Improper Integrals\\n4.1 Basics of Differential Equations\\n4.3 Separable Equations\\n5.1 Sequences\\n5.2 Infinite Series\\n5.3 Divergence and Integral Tests\\n5.4 Comparison Tests\\n5.5 Alternating Series\\n5.6 Ratio and Root Tests\\n6.1 Power Series and Functions\\n6.2 Properties of Power Series\\n6.3 Taylor and Maclaurin Series\\n6.4 Working with Taylor Series\\nText:\\nCalculus,VolumeII,byGilbertStrang: https://openstax.org/details/books/calculus-volume-2\\nThetextbookisfreelyavailableonline, however, we will be reading it through Perusall (https:\\n//perusall.com/). You will have to pay $10 to access the text through Perusall. This is\\nrequired.\\nIf this is a problem financially, please contact either the course coordinator (Becci Torrey, rtor-\\nrey@brandeis.edu) or Academic Services (https://www.brandeis.edu/academic-services/index.\\nhtml).\\nOVER →",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 10092,
+        "end": 11559,
+        "text": "Grades:\\nLetter Grade:\\nEach skill mastered on FAs counts toward either your Fundamental Outcomes (F’s) or General\\nOutcomes (G’s) score in the chart below. See the last page of this syllabus for a full list of Outcomes.\\n(There are also three General Outcomes that are cumulative: Homework, Participation and Practice\\nAssessments.)\\nAt the end of the semester, your letter grade will be calculated using the following table.\\nTotal\\nFundamental\\nLetter Grade Outcomes\\nOutcomes\\n(F’s + G’s)\\nA+ 10 43\\nA 10 40\\nA- 10 39\\nB+ 9 37\\nB 9 36\\nB- 9 35\\nC+ 8 33\\nC 8 32\\nC- 8 31\\nD+ 7 28\\nD 7 27\\nD- 7 26\\nMastery Grading App: Check how many Fundamental and General Outcomes you’ve mastered\\nso far on this app:\\nhttps://masterylearningapp.onrender.com/.\\nMinimums: You have to get both the Fundamental and Total Outcomes scores for any given grade.\\nIn particular, if you have 8 points on the Fundamental Outcomes, the highest grade you can earn is a\\nC+, even if your Total Outcomes score is higher than 33.\\nFailure to meet any of the D-range standards will result in an E.\\nNo exceptions: Your grade is determined by the chart above. We will not change your grade for\\nother considerations (e.g. applying for a competitive program or school, time spent studying, being\\nclose to a different grade, etc.).\\nExamples:\\nSome examples of using this grading scheme are shown below:\\nFundamental Final\\nStudent Total Outcomes\\nOutcomes Grade\\nAngela Davis 8 36 C+\\nLeonard Bernstein 10 32 C\\nThomas Friedman 9 26 D−",
+        "label": "GRADE"
+      },
+      {
+        "start": 12088,
+        "end": 12731,
+        "text": "Makeups for FAs: If you miss a particular FA, you may take the makeup for that FA, which\\nwill be held during the Friday recitation period following the regularly scheduled test (i.e., during\\nRAPS the following week). In this case, you can just show up to the makeup the following week\\n(no need to contact us in advance). If you took the regularly scheduled test, you may not take\\nthe corresponding makeup. You may take a maximum of 3 makeup tests during the semester.\\n(So don’t do this lightly; if you need to miss an FA because you’re sick, you’ll want to have this\\noption available.) See schedule later in the syllabus for precise details.\\n•",
+        "label": "LATE"
+      },
+      {
+        "start": 12732,
+        "end": 13542,
+        "text": "Regrade Requests: We are all human and sometimes make mistakes, so please check your test\\nand submit a regrade request on Gradescope if, e.g, you forgot to select a page or selected the\\nwrongpage; youthinkthegradermighthavemissedsomethingorclickedthewrongrubricbutton;\\nor if you don’t understand why you didn’t get credit. One of our instructors will take another look\\nat your work and will make a final decision on whether you earned credit on that problem. If you\\ndid not earn credit, the grader will try to provide additional feedback so you can better prepare\\nfor the next FA. The grader’s decision on your regrade request is final. Regrade requests are\\ndue by midnight on the Wednesday after you took the FA. Late regrades requests will\\nnot be considered; you can always try that problem on the next FA.\\n•",
+        "label": "ADMIN"
+      },
+      {
+        "start": 13543,
+        "end": 14114,
+        "text": "Final: We will hold a final during the registrar’s scheduled final exam period. The exact date\\nand time is determined by the registrar after the add/drop period. Please do not make end-of-\\nsemester travel plans until you know the final exam schedule.\\nOur final will consist of one additional FA. (It is not a traditional comprehensive final.)\\nThe final is the end of the semester. There is no extra credit or additional work after the final. All\\nhomework and participation assignments must be completed by the last deadline for your section\\nbut certainly before the final",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 11622,
+        "end": 12084,
+        "text": "Friday Assessments\\n• Closed Book, No Calculators, Provided Formula Sheet: TheFAsareclosedbook,meaning\\nthat no notes, books, or internet-connected devices are allowed during the FA. You are also not\\nallowed to use a calculator. However, we will include a formula sheet with some basic information\\nto help alleviate the burden of memorization and mistakes due to anxiety-induced blanking out.\\nYou will have the formula sheet ahead of time so you know what is on it",
+        "label": "GRADE"
+      },
+      {
+        "start": 14116,
+        "end": 14930,
+        "text": "Homework, Participation, and Practice Assessments:\\nThese are the last three General Outcomes. They are the only Outcomes that are not tested on FAs.\\nInstead, these are cumulative throughout the semester. You earn points for each assignment and these\\nare all added together (not averaged). You have to meet a certain minimum score to earn the point for\\neach of these two Outcomes.\\n• Homework (General Outcome #31):\\nYou will earn the point for this Outcome if you accumulate at least 200 HW points.\\nThere will be 25 homework assignments. Each assignment is worth 15 points: 5 points for com-\\npleting the assignment and 10 points for accuracy (we will grade 5 of the questions, each worth 2\\npoints). There is a total of 375 possible points; the threshold of 200 is a little more than half of\\nthe total possible points",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 14932,
+        "end": 15184,
+        "text": "Late HW Policy: If you submit your homework late (after the grader grades that set), you can\\nstill earn the completion points but not the accuracy points for the particular problems (i.e., you\\ncan earn at most 5 points out of 15 for that assignment).\\n•",
+        "label": "LATE"
+      },
+      {
+        "start": 15185,
+        "end": 15318,
+        "text": "Participation (General Outcome #32):\\nYou can earn the following points toward Participation:\\n– 24 Perusall assignments (2 points each",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 15382,
+        "end": 15939,
+        "text": "\\n– 26 class days – attendance (2 points each)\\nYou will earn the point for this Outcome if you accumulate at least 60 Participation points.\\n• Practice Assessments (General Outcome #33):\\nYouwillearnthepointforthisOutcomeifyouaccumulateatleast20points. Thereare40Practice\\nAssessment Assignments. Each assignment is worth 1 point for completing the assignment (all\\nthe Practice Problems). The deadlines are aligned with when the outcomes are released on the\\nFAs. You will still get full credit for late submissions but all submissions must be in before the\\nfinal",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 15941,
+        "end": 16039,
+        "text": "If you have questions about how this course is graded, please do not hesitate to reach out to me!\\n",
+        "label": "GRADE"
+      },
+      {
+        "start": 16039,
+        "end": 17689,
+        "text": "Resources to Help you Succeed\\nStudy Hours: Thursdays 2:30-3:30 PM or by appointment in Goldsmith 102\\nThis is time that I have set aside explicitly to help you do the homework, review course material,\\nand prepare for your Friday Assessments. Please make use of this resource! You don’t have to have\\nquestions prepared; you can just show up. If the above timing does not work (or if you need office hours\\nto be on Zoom), please email me to set up another meeting time.\\nPractice Assessments:\\nWe have Practice Assessments for each Content Outcome to help you prepare for the Friday As-\\nsessments. Complete solutions are provided and many files also have helpful videos and/or links to\\nadditional problems. These practice assessments are optional (but strongly recommended!) and are for\\nyour use only. They have no effect on your grade.\\nPast FAs and Solutions:\\nPast FAs and Solutions will be posted here so you can compare your work with our solutions.\\nReview, Advising and Preparation Stations (RAPS): Staff will be on hand to help you review\\nyour last FA, prepare for the next one and develop optimal study strategies. We’re here to help you\\nidentify mistakes, correct misunderstandings, and make a plan to prepare for the next FA.\\nTutoring:\\nThe department provides some drop-in tutoring at no cost. The tutors are math graduate students\\nor advanced undergrads. Please take advantage of this excellent resource!\\nOther Course Information\\nCalculators:\\nCalculators are not allowed during quizzes or Friday Assessments. You should have access to a\\nscientific calculator for homework (you can use a free online one), but you do not need a graphing\\ncalculator",
+        "label": "ADMIN"
+      },
+      {
+        "start": 17691,
+        "end": 18280,
+        "text": "Academic Honesty:\\nYou are expected to be familiar with, and to follow, the University’s policies on academic integrity.\\nYou are expected to be honest in all of your academic work. Please consult Brandeis University Rights\\nand Responsibilities for all policies and procedures related to academic integrity. Allegations of alleged\\nacademic dishonesty will be forwarded to Student Rights and Community Standards. Sanctions for\\nacademic dishonesty can include failing grades and/or suspension from the university. Citation and\\nresearch assistance can be found on the university library website",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 18344,
+        "end": 18477,
+        "text": "If you have any questions, please contact Alex Rosett (arossett@brandeis.edu), Assistant Dean,\\nStudent Rights and Community Standards",
+        "label": "ADMIN"
+      },
+      {
+        "start": 18479,
+        "end": 19354,
+        "text": "Accommodations:\\nBrandeis seeks to create a learning environment that is welcoming and inclusive of\\nall students, and I want to support you in your learning. If you think you may require\\ndisability accommodations, you will need to work with Student Accessibility Support\\n(SAS). You can contact them at 781-736-3470, email them at access@brandeis.edu, or\\nvisit the Student Accessibility Support home page. You can find helpful student FAQs\\nand other resources on the SAS website, including guidance on how to know whether you\\nmight be eligible for support from SAS.\\nIf you already have an accommodation letter from SAS, please provide me with a copy as soon as\\nyou can so that I can ensure effective implementation of accommodations for this class. In order to\\ncoordinate exam accommodations, ideally you should provide the accommodation letter at least 48\\nhours before an exam",
+        "label": "ACCOM"
+      },
+      {
+        "start": 19356,
+        "end": 20799,
+        "text": "Expectations for student contributions to coursework:\\nSuccess in this four-credit course is based on the expectation that students will contribute at least 9\\nhours of study time per week in preparation for class.\\nTimely communication:\\nUse your Brandeis email to reach out to me. I am usually able to respond quickly to most messages,\\nwithin 24 hours, although during the weekends and over holidays it could take me longer. If I reach\\nout to you, with a query or comment or in response to an email from you, I would appreciate it if you\\nwould acknowledge receipt of my message and/or respond with 24 hours, unless it’s during weekend or\\nover a holiday. Note that we will use your Brandeis email address, so you need to check it regularly.\\nAll course announcements can be found in the Course News & Announcements page on Moodle.\\nAvailable Resources:\\nMany resources are available to help with the academic and non-academic factors that contribute to\\nstudent success (finances, health, food supply, housing, mental health counseling, academic advising,\\nphysical and social activities, etc.). Please explore the links on the Support at Brandeis to find out\\nmore about the resources that the University provides to help you and your classmates achieve success.\\nName/Pronouns:\\nIf your name and/or pronouns differ from those in your official Brandeis records, please let me know.\\nThanks!\\nCourse coordinator:\\nProfessor Becci Torrey rtorrey@brandeis.edu",
+        "label": "ADMIN"
+      },
+      {
+        "start": 20863,
+        "end": 22442,
+        "text": "Friday Schedule for the Semester:\\nOur Friday meetings will alternate between:\\n• Friday Assessments (FAs): Opportunities to demonstrate mastery on material covered so far\\nin the course, and\\n• Review, Advising and Preparation Stations (RAPS): Staff will be on hand to help you\\nreview your last FA, prepare for the next one and develop optimal study strategies.\\nMakeups for FAs: If you need to miss an FA, you can take a makeup on the following Friday (but\\nyou have to miss the RAPS session). Note that:\\n1. You can take a maximum of 3 makeups for the semester. (So don’t do this lightly; if you need to\\nmiss an FA because you’re sick, you’ll want to have this option available.)\\n2. You cannot take a makeup if you took the regular FA.\\n3. There is no makeup for the makeup: if you miss the regular FA and its corresponding makeup,\\nyou just reset and move on to the next FA.\\n4. Notes on particular FAs/Makeups:\\n• There is no makeup for FA #1. If you miss FA #1, you’ll just start on FA #2.\\n• The makeup for FA #7 is on the Study Day (Thursday, Apr 30).\\n• FA #3 is the Friday before February break.\\n• FA #6 is the Friday at the end of Passover break (first day back after that break).\\nDate Activities Outcomes Released\\nJan 16 RAPS & Course Intro\\nJan 23 FA #1 F1-F5, G1-G4\\nJan 30 FA #2 F6, G5\\nFeb 6 RAPS\\nFeb 13 FA #3 F7, G6-G9\\nFeb 20 No classes / No FA\\nFeb 27 RAPS\\nMar 6 FA #4 F8-F9, G10-G17\\nMar 13 RAPS\\nMar 20 FA #5 F10, G18-G20\\nMar 27 RAPS\\nApr 3 No classes / No FA\\nApr 10 FA #6 G21-G25\\nApr 17 RAPS\\nApr 24 FA #7 G26-G30\\nApr 30 (Thu) RAPS (Study Day)\\nTBD by registrar FA #8 (final FA)\\n9",
+        "label": "SCHEDULE"
+      },
+      {
+        "start": 22539,
+        "end": 25448,
+        "text": "F1 Compute derivatives of functions.\\nF2 Compute antiderivatives of functions.\\nF3 Evaluate limits.\\nF4 Evaluate a limit using L’Hospital’s rule.\\nF5 Add or subtract rational expressions and simplify.\\nF6 Evaluate an integral using only basic techniques (power rule, trig rules, etc.)\\nF7 Evaluate an integral using substitution.\\nF8 Evaluate an integral using integration by parts.\\nF9 Find the general solution to a separable differential equation.\\nF10 Evaluate a geometric series.\\nsemoctuO\\nlareneG\\nG1 Evaluate inverse trig functions.\\nG2 Use a finite summation to approximate the area under a curve.\\nG3 Demonstrate an understanding of the underlying concept of an integral.\\nG4 Calculate a definite integral using the Riemann Sum.\\nG5 Calculate a derivative using FTC.\\nG6 Set up an integral to compute the area between curves.\\nG7 Set up an integral to compute volume using the disk method.\\nG8 Set up an integral to compute volume using the washer method.\\nG9 Solve a challenging problem that combines different skills and/or presents material\\nfrom Chapters 1-2 + Pre-Reqs in a different way.\\nG10 Evaluate an integral using basic partial fractions.\\nG11 Identify and apply a proper method(s) to evaluate an integral when not given a\\nspecific method.\\nG12 Solve a word problem on Chapter 3 material.\\nG13 Determine whether an improper integral over an infinite interval converges or di-\\nverges, and evaluate if possible.\\nG14 Determinewhetheranimproperintegralwithadiscontinuousintegrandconvergesor\\ndiverges, and evaluate if possible.\\nG15 Solve a challenging problem that combines different skills and/or presents material\\nfrom Chapters 1-3 + Pre-Reqs in a different way.\\nG16 Find the particular solution to a separable differential equation.\\nG17 Solve a word problem involving a differential equation.\\nG18 Demonstrate an understanding of the definition of an infinite series.\\nG19 Use the integral test to determine the convergence of a series.\\nG20 Use the divergence test to determine the divergence of a series.\\nG21 Use the direct comparison test to determine the convergence of a series.\\nG22 Use the alternating series test to determine the convergence of a series.\\nG23 Use the ratio test to determine the convergence of a series.\\nG24 Identify and apply a proper method to determine the convergence of a series when\\nnot given a specific method.\\nG25 Solve a challenging problem that combines different skills and/or presents material\\nfrom Chapters 1-5 + Pre-Reqs in a different way.\\nG26 Determine the radius of convergence of a power series.\\nG27 Determine the interval of convergence of a power series.\\nG28 Compute terms of a Taylor series using differentiation or integration.\\nG29 Compute a Taylor series from a known series.\\nG30 Solve a challenging problem that combines different skills and/or presents material\\nfrom Chapters 1-6 + Pre-Reqs in a different way.\\nG31 Homework\\nG32 Participation\\nG33 Practice Assessments\\n10",
+        "label": "SCHEDULE"
+      }
+    ],
+    "validity": "Valid",
+    "notes": ""
   }
 ]
