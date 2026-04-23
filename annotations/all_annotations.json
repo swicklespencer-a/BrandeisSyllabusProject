@@ -2950,5 +2950,1793 @@
     ],
     "validity": "Valid",
     "notes": ""
+  },
+  {
+    "doc_id": "261FREN 32A 1 Intermediate French Conversation Loic Lerme",
+    "semester": "Spring Semester 2026 (261)",
+    "school": "School of Arts, Humanities, and Culture",
+    "department": "French and Francophone Studies",
+    "course_name": "261FREN 32A 1 Intermediate French Conversation Loic Lerme",
+    "annotator": "spencer",
+    "spans": [
+      {
+        "start": 152,
+        "end": 306,
+        "text": "Professor: Loïc Lerme\\nEmail: llerme@brandeis.edu\\nOffice: Rabb 339a\\nStudent Hours: Monday & Wednesday 1:20pm-2:15pm, and by appointment (Zoom or in\\nperson)",
+        "label": "ADMIN"
+      },
+      {
+        "start": 307,
+        "end": 530,
+        "text": "Class communication: I will communicate important course updates through MOODLE or\\nBrandeis email. Sign-ups for interviews will be organized on a Shared Google Doc. Please be sure\\nto check your email every day before class.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 531,
+        "end": 615,
+        "text": "BUGS TUTOR: The French tutor will be Naomi Stephenson (naomistephenson@brandeis.edu)",
+        "label": "ADMIN"
+      },
+      {
+        "start": 616,
+        "end": 760,
+        "text": "Inclement weather policy: If there is a campus closure/snow day/delayed start/early closing, class\\nmay be cancelled, so please check your email.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 761,
+        "end": 951,
+        "text": "Section A: Monday, Wednesday, Thursday, Friday 11:15-12:05pm in Shiffman 122\\nSection B: - Monday, Wednesday, Thursday: 12:20pm-1:10pm in Shiffman 202\\n- Friday: 12:45pm-1:35pm in Shiffman 202",
+        "label": "ADMIN"
+      },
+      {
+        "start": 952,
+        "end": 1095,
+        "text": "Remote attendance is not possible for this class. There is no substitute for attendance and class participation.\\nThis is a program-wide policy.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 1096,
+        "end": 1250,
+        "text": "In this course, I aim to ensure a safe, fair environment for all. Please email me\\nat any point if you have suggestions regarding equity or accommodations.",
+        "label": "ACCOM"
+      },
+      {
+        "start": 1252,
+        "end": 1303,
+        "text": "Final Written Exam:\\nFriday, May 1 - Tuesday, May 12",
+        "label": "ADMIN"
+      },
+      {
+        "start": 1304,
+        "end": 1694,
+        "text": "Laptop computer and cell phone use\\nLaptop and cell phone use during a language class is a distraction. I rely on your maturity to keep your\\ndevices turned off and put away for the duration of class. Using devices during class time or leaving class to\\nuse them in the halls will result in a lowered participation grade. Please refer to the Participation Grading\\nRubric on Moodle for details.",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 1695,
+        "end": 2006,
+        "text": "During class, you will be asked to communicate in French to the best of your abilities. Do not be\\ndiscouraged by errors, challenges, or corrections – this is an important part of the process. Indeed, if you\\nare not making mistakes and are already speaking in perfect French, this is not the right class for you!",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 2007,
+        "end": 2112,
+        "text": "If you\\nfind that you have questions about placement, please do not hesitate to speak to me about options.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 2113,
+        "end": 3156,
+        "text": "Course Description:\\nFrench 32 is designed to help students improve their command of French, specifically to develop their\\nspeaking skills and to enrich their knowledge of Francophone society, boosting them to the ACTFL\\nintermediate level. The class will work on all skill areas (speaking, listening, writing, reading, culture) while\\naddressing themes pertinent to the modern Francophone world that generate discussion or controversy,\\nsuch as the role of artificial intelligence in our lives, gender identity, racial identity, and a variety of cultural\\nand historical topics. Using a variety of authentic French language media, we will work on your ability to\\ndiscuss personal and social topics, support ideas and opinions with facts and personal experience, read\\nshort cultural and literary texts, participate in class discussions, and express your opinions in writing.\\nAssessment is based on daily homework assignments, a series of oral and written exams/ projects, a record\\nof attendance and participation, and a series of final assignments.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 3157,
+        "end": 3724,
+        "text": "Please note that in this class, called “Controverses,” we will learn vocabulary and grammar structures that\\nallow you to engage in healthy debate with francophone peers. As does Brandeis, I consider the diversity\\nthat students bring to the course an invaluable resource. I will present materials and activities that are\\nrespectful of diversity: gender, sexuality, physical ability, age, socioeconomic status, ethnicity, race, and\\nculture. Each day, we view images and read texts that may reflect other realities and worldviews, which is the\\npurpose of the humanities.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 3725,
+        "end": 4562,
+        "text": "Learning Goals:\\nThis semester you will\\n- develop analytic tools to examine and better understand francophone culture, particularly issues of\\ncontroversy that concern young adults (see above).\\n-improve your confidence in using spoken French in informal and formal situations.\\n-expand your vocabulary and grammar skills to communicate effectively in different situations while\\nreviewing “Novice” vocabulary topics, such as family, home, and food.\\n-improve your pronunciation by focusing on the most difficult sounds of the language (/r/, nasals, etc.).\\n-express your ideas about past, present, and future events and your opinions and beliefs in a clear, concise,\\nand persuasive manner in written and oral forms.\\n-read, analyze, and discuss short literary works, images, films, advertisements, and articles at an intermediate\\nlow-mid level.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 4564,
+        "end": 4996,
+        "text": "Learning Outcomes:\\nWe will measure your ability to reach the above goals by requiring you to\\n-incorporate pertinent cultural material into class presentations, writings, projects, and exams.\\n-present phonetically and grammatically accurate verbal reports and conversations.\\n-manipulate new and old vocabulary and grammar in different modalities (written and oral).\\n-compose short reports, posters, reactions, opinions, and analyses.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 4997,
+        "end": 5617,
+        "text": "Social justice, attitudes, and behaviors: Learning French will enable you to gain a deeper understanding of\\ndifferent regions of the francophone world and support your participation as informed citizens in a global\\nsociety.\\nThis course will specifically\\n• expand your knowledge and awareness of traditions and artistic expressions of different\\nfrancophone cultures.\\n• encourage you to reflect on your culture, and weigh its similarities and differences with those of\\nother cultures.\\n• better understand what connects people worldwide – linguistically, culturally, and otherwise –\\nthrough study of texts, film, and music.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 5618,
+        "end": 5824,
+        "text": "Credit Hours: Success in this four-credit course is based on the expectation that students will spend a\\nminimum of nine hours of study time per week in preparation for class, not including exam preparation.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 5825,
+        "end": 6207,
+        "text": "Course Materials: All course materials are found on the course Moodle page.\\n-Controverses, Cahier d’activités, Didier Bertrand, Janet Solberg. Cengage, 2016, Third edition: All\\nexercises are available on the Moodle page.\\n- Answer key to the workbook\\n- Readings, films, podcasts, Slides\\n*Use www.wordreference.com or linguee.fr (online bilingual dictionaries) – not Google Translate.",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 6208,
+        "end": 6907,
+        "text": "Course Requirements\\nHomework Assignments\\n“Cahier d’activités” = “Student activities manual”): You must complete and correct the grammar exercises in\\nthe workbook (scanned for you on Moodle) for the date indicated. Corrections should be made in a\\ndifferent color. Because you have the corrections on Moodle, we will not spend time reviewing all the\\nexercises in class, but we will discuss those that were difficult for you. If you do not ask questions about the\\nworkbook assignments in class, I will assume that you completely understand the material. All workbook\\nexercises assigned for the chapter will be submitted on the final day of the chapter as a single document,\\neither on paper or as a pdf.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 6908,
+        "end": 7206,
+        "text": "Late work policy: All homework will be due on Moodle on fixed dates. Each day (24 hours) that an\\nassignment is late or missing will incur a late penalty of 10%. A missed in-person assessment (ex. a chapter\\ntest, quiz, presentation, interview) without notice will not be rescheduled at a later date.",
+        "label": "LATE"
+      },
+      {
+        "start": 7208,
+        "end": 7472,
+        "text": "Participation and Attendance\\nBecause language is a social and interactive phenomenon, attendance and participation are essential to your\\nsuccess in this class. Learning to speak another language demands in-class engagement. Participation is\\nnoted on a daily basis.",
+        "label": "ATTEND"
+      },
+      {
+        "start": 7473,
+        "end": 7524,
+        "text": "Your attendance counts for 10% of your final grade.",
+        "label": "GRADE"
+      },
+      {
+        "start": 7525,
+        "end": 8418,
+        "text": "You are allowed four absences\\nfor any reason; no justification or explanation will be required. Three tardy arrivals/ early departures for\\nclass equal one absence. Each absence that exceeds the allowed number will result in a lower grade in two\\nways: specifically, each additional absence will result both a lowered attendance grade and 1% subtracted\\nfrom the final course grade. Eight or more absences will result in a discussion with your professor and the\\nDirector of Languages to ascertain whether you can continue in the class, and it may result in a failing\\ncourse grade. Students in situations that will require them to be absent for an extended period should\\ncontact their Academic Advisor; the Advisor will contact your professor about excused absences. If you\\nmiss the first two classes of the semester with no official accommodation, you may be automatically\\ndropped from the class.",
+        "label": "ATTEND"
+      },
+      {
+        "start": 8419,
+        "end": 8764,
+        "text": "*Absences due to sports activities, pertinent accommodations as determined by SAS, or religious\\nobligations will be considered separately. If you must be absent from class for those reasons, please let me\\nknow in advance when possible. In the event that you will miss an in-class assignment or test, please let me\\nknow at once 1 week in advance.",
+        "label": "ATTEND"
+      },
+      {
+        "start": 8765,
+        "end": 9020,
+        "text": "Distribution of Grades\\n• Attendance 10%\\n• Participation 10%\\n• Homework 10%\\n• 3 written chapter tests 20%\\n• 2 oral chapter tests (1 in person, 1 film project) 15%\\n• 1 Extracurricular Activity + follow-up 10%\\n• Final oral exam 10 %\\n• Final written exam 15 %",
+        "label": "GRADE"
+      },
+      {
+        "start": 9021,
+        "end": 9148,
+        "text": "Grading Scale\\nA 100-93 C+ 79-77 D- 62-60\\nA- 92-90 C 76-73 Fail 59 and below\\nB+ 89-87 C- 72-70\\nB 86-83 D+ 69-67\\nB- 82-80 D 66-63",
+        "label": "GRADE"
+      },
+      {
+        "start": 9149,
+        "end": 9367,
+        "text": "MAJORING OR MINORING IN FRENCH AND FRANCOPHONE STUDIES\\nIf you are thinking about pursuing a major or minor in French and Francophone Studies, please don’t\\nhesitate to speak with me to discuss this exciting opportunity.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 9368,
+        "end": 10230,
+        "text": "New this semester! Proficiency in Language Transcript Notation after\\ncompleting two courses beyond the language requirement (FREN 32)\\n• Successful completion of FREN 105 (or your course, if appropriate) entitles you to receive\\n\\nthe Proficiency in Language Transcript Notation, which is a note on your transcript that\\nformally documents your achievement in language learning at Brandeis.\\n• The Notation explicitly recognizes your success at demonstrating an Intermediate-High level\\nof language proficiency and cultural understanding in French beyond the Brandeis Core\\nrequirement, and it officially commends you on your efforts to expand and maintain your\\nmultilingualism.\\n• If you are interested in the Transcript Notation, please contact Prof. Harder\\n(harder@brandeis.edu), the Director of the language program in French. She will register\\nyou for the notation.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 10231,
+        "end": 10635,
+        "text": "STUDY ABROAD\\nWe enthusiastically encourage all students to find out about opportunities for study abroad in France and\\nfrancophone countries. Students who study abroad have a much deeper knowledge of French language and\\nfrancophone culture, and they have a chance to develop personally and intellectually. Students who want to\\nfind out more about programs should contact me or the Office of Study Abroad.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 10712,
+        "end": 11863,
+        "text": "Essential Resources at Brandeis: Info on all Brandeis syllabi\\nAccommodations\\nBrandeis seeks to create a learning environment that is welcoming and inclusive of all students, and I want\\nto support you in your learning. Live auto transcription is available for any meetings or classes hosted on\\nZoom and you can turn it on or off to support your learning. Please check for Zoom updates to take\\nadvantage of this new feature. To learn more, visit the Zoom Live Transcription webpage. For questions,\\ncontact help@brandeis.edu. If you think you may require disability accommodations, you will need to work\\nwith Student Accessibility Support (SAS) (781-736-3470, access@brandeis.edu). You can find helpful\\nstudent FAQs and other resources on the SAS website, including guidance on how to know whether you\\nmight be eligible for support from SAS.\\nIf you already have an accommodation letter from SAS, please provide me with a copy as soon as you can\\nso that I can ensure effective implementation of accommodations for this class. In order to coordinate exam\\naccommodations, ideally you should provide the accommodation letter at least 48 hours before an exam.",
+        "label": "ACCOM"
+      },
+      {
+        "start": 12169,
+        "end": 13179,
+        "text": "Academic Integrity\\nEvery member of the University community is expected to maintain the highest standards of academic\\nintegrity. A student shall not submit work that is falsified or is not the result of the student's own effort.\\nUsing phrases, ideas, or even fragments from undocumented Internet sources, native speakers, ChatGPT\\n\\nother A.I., or other “helpers” is not a reflection of your abilities and will not end up helping you learn the\\nmaterial.\\nPlease consult Brandeis University Rights and Responsibilities for all policies and procedures related to\\nacademic integrity. A student who is in doubt regarding standards of academic honesty as they apply to a\\nspecific course or assignment should consult the faculty member responsible for that course or assignment\\nbefore submitting the work. Allegations of alleged academic dishonesty will be forwarded to the\\nDepartment of Student Rights and Community Standards. Citation and research assistance can be found at\\nBrandeis Library Guides - Citing Sources .",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 13180,
+        "end": 13734,
+        "text": "Privacy\\nTo protect your privacy when this course involves online student work outside of Brandeis password\\nprotected spaces, you may choose to use a pseudonym/alias. You must share the pseudonym/alias with me\\nas needed. Alternatively, with prior consultation, you may submit such work directly to me. Apps and\\nwebsites: we will use the free learning site Quizlet for vocabulary and Edpuzzle for some video assignments;\\nwe will also use the Kahoot! quiz platform. You will rely on Moodle for most assignments and will submit\\nsome through Google classroom.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 13735,
+        "end": 14356,
+        "text": "Student Support\\nBrandeis University is committed to supporting all our students so they can thrive. If a student, faculty, or\\nstaff member wants to learn more about support resources, the Support at Brandeis webpage offers a\\ncomprehensive list that includes these staff colleagues you can consult, along with other support resources:\\n• The Care Team\\n• Academic Services (undergraduate)\\n• Graduate Student Affairs\\n• Directors of Graduate Studies in each department, School of Arts & Sciences\\n• Program Administrators for the Heller School and International Business School\\n• University Ombuds\\n• Office of Equal Opportunity",
+        "label": "ADMIN"
+      }
+    ],
+    "validity": "Valid",
+    "notes": ""
+  },
+  {
+    "doc_id": "253FREN 126B 1 La place de la nature dans le monde culturel francophone Hollie Harder",
+    "semester": "Fall Semester 2025 (253)",
+    "school": "College of Arts and Sciences",
+    "department": "French and Francophone Studies",
+    "course_name": "253FREN 126B 1 La place de la nature dans le monde culturel francophone Hollie Harder",
+    "annotator": "spencer",
+    "spans": [
+      {
+        "start": 118,
+        "end": 189,
+        "text": "Room TBA\\nMonday, Wednesday, Thursday 11:15 a.m. -12:05 p.m.\\n(in person)",
+        "label": "ADMIN"
+      },
+      {
+        "start": 228,
+        "end": 1193,
+        "text": "In this course, you will deepen your knowledge and understanding of the role of nature in the\\nFrancophone world by examining some of the cultural, political, literary, and artistic\\nprinciples that contributed to creating its unique place in the world.\\nFor example, we will discover how, during the Renaissance, the purpose of nature seemed\\nlimited to satisfying the needs, desires and pleasures of human beings. We will try to make\\nsense of what drove French culture to popularize the notion of le jardin français with its\\nconical trees and geometrical shrubbery, we will explore what made people around the\\nFrancophone world withdraw into nature as though it were a protective haven, and\\nsubsequently abuse it, especially in the former French colonies in the Caribbean and in\\nWestern Africa, for the purpose of productivity and profit. You will examine your own\\n0\\n\\nattitudes toward nature and how your \"culture of nature\" compares to that of the\\nFrancophone world.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 1194,
+        "end": 1717,
+        "text": "Contact Details\\nProfessor: Hollie Harder\\nE-mail: harder@brandeis.edu (this is the best means by which to contact me)\\nResponse time to e-mails: I read e-mail regularly during business hours (* 8 a.m. to 5 p.m.)\\nand less frequently after 5 p.m. Normally I respond to messages within 24 hours and\\nusually much sooner.\\nOAice location: ShiPman 106\\nStudent hours (oPice hours): Monday, Wednesday, and Thursday, 10:10 to 11:00 a.m. in\\nperson or on Zoom, and by appointment.\\nPlease contact me in advance for an appointment on Zoom.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 1718,
+        "end": 2314,
+        "text": "Why come to student hours? I encourage you to come and talk to\\nme during student hours! Even a conversation of 10-15 minutes can\\nhelp you:\\n• better understand what we are doing in class and what course\\nexpectations are\\n• establish a connection with me that will help you during this course and in the future\\nwhen you need letters of recommendation, for example\\n• feel more at ease in class: students who come to student hours tend to speak more\\nfrequently and longer in class and feel more confident in class.\\nZoom link:\\nhttps://brandeis.zoom.us/j/94892970041?pwd=1IVj2vISZHHAH5npY7it2BN3ArLEXO.1",
+        "label": "ADMIN"
+      },
+      {
+        "start": 2315,
+        "end": 2718,
+        "text": "Class communication\\nWhen I need to contact you, I will send an e-mail to your\\nBrandeis address, either to the entire class on Moodle (\"News and Announcements\") or\\nto you individually. For those reasons, you will need to check your Brandeis e-mail\\nregullarly.\\nI will respond to e-mail within 24 hours (and usually much more quickly). To maintain a\\ngood pathway of communication, I expect the same of you.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 2720,
+        "end": 2907,
+        "text": "Required books and other materials\\nThe materials for this course are free and posted on the course Moodle page. You will need\\naccess to a computer and to a high-speed internet connection.",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 2908,
+        "end": 3113,
+        "text": "Course prerequisite\\nFREN 126B is designed for students who have completed FREN 105, FREN 106, or the\\nequivalent. If you have questions about whether this course is the right one for you, please\\ncontact me.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 3114,
+        "end": 3852,
+        "text": "Learning Goals and Outcomes\\nCore skills\\nSpecific learning goals and outcomes for each unit are outlined on Moodle. By the end of the\\nsemester, you will be able to\\n• communicate ePectively with others about concrete and abstract topics that you\\nhave explored or researched (interpersonal communication), exchanging ideas with\\nothers without mistakes that impede understanding and transmission;\\n• present information and express your thoughts to others in written and spoken French\\n(presentational communication) without mistakes that impede communication;\\nand\\n• quickly understand main ideas and arguments when reading and listening and\\nexplain key supporting information that clarifies larger cultural notions (interpretive\\ncommunication)",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 3853,
+        "end": 4634,
+        "text": "Knowledge\\nSpecific learning goals and outcomes for each unit are outlined on Moodle.\\nBy the end of the semester, you will know\\n• about more complex intellectual, social, political, artistic, and cultural aspects of the\\nFrench-speaking world (intercultural investigation), for example\\n-- current policies and practices that are emblematic of the role that nature plays\\nin French-speaking cultures\\n--the evolution of thought and the development of practices that have led to current\\nnotions about nature and the environment\\n\\n--the culturally unique ways in which attitudes toward nature and the environment\\nhave progressed in the Francophone world during the twenty-first century\\n• how to interact appropriately in nuanced situations with French speakers\\n(intercultural interaction).",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 4635,
+        "end": 5937,
+        "text": "Global Engagement and Social Justice through World Languages\\nand Cultures at Brandeis\\nFREN 126B contributes to the Brandeis Core curriculum through its role in\\nthe Global Engagement / World Languages and Cultures requirement.\\nProficiency in another language is a cornerstone of global citizenship, and\\nit is essential for ePective communications and collaboration among\\npeople of diPerent cultures. Learning another language also plays a\\ncentral role in cultivating a sense of social justice and in deepening and\\nbroadening sensitivity to issues of inclusion and exclusion.\\nThe process of learning another language inspires open-mindedness and adaptability,\\nawakens curiosity and creativity, fosters innovative paths of inquiry and discovery, and\\nbuilds a deeper understanding of yourself and others.\\nThis course will help you to develop and test your ability to think critically. Through the\\nanalysis and evaluation of texts, situations, films, and images, and you will piece together\\nmeaning from your examination of the products, practices, perspectives, and power\\nstructures you find in Francophone cultures. This process of reflection will challenge you to\\nidentify your own social, cultural, and political traditions and assumptions, and it may\\nprompt you to reevaluate your own ways of thinking.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 5974,
+        "end": 6252,
+        "text": "Attendance and participation 10%\\n(including meetings about written work)\\n2 Mini Presentations 15%\\nHomework, quizzes, in-class work 10%\\nRéflexions 12.5%\\n2 Oral assessments 15%\\n2 Written assessments 20%\\nFinal oral project (oral and written) 15%\\nAlbertine French Film Festival 2.5%",
+        "label": "GRADE"
+      },
+      {
+        "start": 6254,
+        "end": 6381,
+        "text": "Grading Scale\\nA 100-93 C+ 79-77 D- 62-60\\nA- 92-90 C 76-73 Fail 59 and below\\nB+ 89-87 C- 72-70\\nB 86-83 D+ 69-67\\nB- 82-80 D 66-63",
+        "label": "GRADE"
+      },
+      {
+        "start": 6382,
+        "end": 6642,
+        "text": "I encourage you to keep track of your grades throughout the semester so that you have a\\nsense of how you are doing in the class. I do not use the Gradebook function in Moodle, but I\\nwould be happy to discuss your grade with you at any time during the semester.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 6643,
+        "end": 6828,
+        "text": "Your responsibilities in this course\\nEngagement and preparation\\nYour learning will be more ePective if you are prepared for\\neach class and engage with your peers about course\\nmaterials.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 6829,
+        "end": 7151,
+        "text": "Attendance and participation\\nYou are expected to attend class every day and to participate actively in class discussions\\nand in group work. Learning to speak another language requires in-person exchanges! Now\\nmore than ever, work will be done during class and students who are absent will not be able\\nto make up that work.",
+        "label": "ATTEND"
+      },
+      {
+        "start": 7152,
+        "end": 7227,
+        "text": "Your attendance and participation count for 10% of your final course grade.",
+        "label": "GRADE"
+      },
+      {
+        "start": 7228,
+        "end": 7758,
+        "text": "• You are permitted three absences for any reason, and no justification or explanation\\nwill be required or accepted.\\n• Absences due to sports activities, religious obligations, and accommodations will be\\nconsidered separately. If you will be absent from class for those reasons, please let\\nme know in advance.\\n• Three late arrivals or three early departures will equal one absence.\\n• Any work assigned on the three (permitted) days must still be submitted to me.\\nPlease contact me so that we can agree on a schedule for this work.",
+        "label": "ATTEND"
+      },
+      {
+        "start": 7759,
+        "end": 8347,
+        "text": "Each absence that exceeds the allowed number of absences (3) will result in a lower\\ngrade in two ways:\\n• a lowered attendance and participation grade:\\n4 absences = B+\\n5 absences = B-\\n6 absences = C+\\n7 absences = C-\\n\\n8 absences = D+\\n9 absences = D-\\n10 absences = Fail\\n• one percentage point for each absence over 3 deducted from your final course grade\\nat the end of the semester.\\nNine (9) or more absences will result in a discussion with the Chair of Romance Studies to\\ndetermine whether you can continue in the class, and your attendance grade may lead to a\\nfailing grade in the course.",
+        "label": "ATTEND"
+      },
+      {
+        "start": 8348,
+        "end": 8824,
+        "text": "Cell phones, laptops, and social media: Unless you have an accommodation, please keep\\nyour laptop and cell phone put away and out of sight. Please silence your cell phone before\\ncoming to class. If you are asked to use your phone or laptop in class, please close all social\\nmedia applications and limit your use of technology to class-related activities.\\nI strongly urge you to talk to your classmates in French before the start of class instead of\\nlooking at your cell phone.",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 8825,
+        "end": 8908,
+        "text": "Homework:\\nHomework must be completed and submitted on Moodle before\\nclass meetings.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 8909,
+        "end": 9057,
+        "text": "Late homework will not be accepted without prior approval.\\nWork for this course that is missed because of an unexcused\\nabsence will not be accepted.",
+        "label": "LATE"
+      },
+      {
+        "start": 9058,
+        "end": 9444,
+        "text": "Even if you have not had time to prepare adequately, you should\\nstill attend class. You risk falling behind and earning a low grade if\\nyou do not attend class regularly.\\nIn class, we will use the work you have prepared, and we will discuss any activities that were\\ndiPicult for you. If you do not ask questions about the assignments, I will assume that you\\nhave understood the material.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 9445,
+        "end": 9602,
+        "text": "Mini presentations:\\nDuring the course of the semester, students will make two\\nshort presentations as part of the Oral Communications\\ncomponent of this class.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 9604,
+        "end": 10130,
+        "text": "Festival de film Villa Albertine: Fall 2025\\nThis semester, the French and Francophone Studies\\nprogram at Brandeis will be showing three recent (2023-\\n2024) French films at Wasserman Cinematheque on\\ncampus.\\nThe dates and time will be announced in class, but it is a\\nfantastic opportunity to bring yourself up-to-date with\\nwhat is going on in contemporary cinema in the French and Francophone world.\\nYou will be required to attend at least one film during the semester and write two\\nparagraphs about your thoughts and reactions.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 10131,
+        "end": 10181,
+        "text": "This component is worth 2.5% of your course\\ngrade.",
+        "label": "GRADE"
+      },
+      {
+        "start": 10182,
+        "end": 10370,
+        "text": "***If you attend more than one movie, you will have the possibility of replacing a missed\\nhomework assignment or a class absence (up to a limit of two absences and two missed\\nassignments).",
+        "label": "LATE"
+      },
+      {
+        "start": 10371,
+        "end": 10510,
+        "text": "Réflexions:\\nDuring each unit, students will write in class about personal thoughts\\nand conclusions drawn from the readings and discussions.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 10511,
+        "end": 10632,
+        "text": "2 Oral evaluations:\\nStudents will take individual oral exams (assessments) in my oPice at\\nthe end of the first two units.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 10634,
+        "end": 10714,
+        "text": "2 Written assessments:\\nStudents will take have two in-class written assessments.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 10715,
+        "end": 10883,
+        "text": "Final project:\\nAt the end of the third unit, students will prepare a final project with an oral\\nand a written component. These will take place during the finals period.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 10884,
+        "end": 10998,
+        "text": "Please do not make plans to leave campus before these times and dates are\\nannounced by the OPice of the Registrar.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 10999,
+        "end": 11950,
+        "text": "Teaching and Learning Strategies in FREN 126B\\nThis course is student-centered and depends on learner engagement, interaction, and\\nparticipation.\\nIn a traditional classroom, the teacher is often the center of the learning experience and\\ntakes the \"active\" role, while the students assume a more \"passive\" or receptive role.\\nIn this course, you will take an active role every day in your learning, interacting with\\nfellow students and your professor in order to build an intellectual community.\\nThis course is based on a flipped-classroom model.\\nYou will often interact with new information first as homework. We will use class time to\\ndiscuss any questions you have about the new material and then put the new (and already-\\nfamiliar) components into practice. This hands-on experience in class enables you to focus\\non the processing part of learning (synthesizing, analyzing, applying, evaluating, etc.) as you\\nuse language to question and communicate.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 11952,
+        "end": 12748,
+        "text": "Financial Help Available\\nIf you are having diPiculty accessing course materials or a reliable, high-\\nspeed Internet connection, please make an appointment with a Student\\nFinancial Services advisor (https://www.brandeis.edu/student-financial-\\nservices/) or with your Academic Services advisor\\n(https://www.brandeis.edu/academic-services/advising/people/index.html)\\nto discuss possible funding options or other solutions.\\nPlease note, too, that Brandeis University has an emergency fund\\n(https://www.brandeis.edu/student-financial-services/financial-aid/brandeis-emergency-\\nfund.html) available to currently active undergraduate and graduate students experiencing\\nan unexpected financial emergency, typically aPecting their ability to complete their studies,\\nwhen other resources are not available.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 12749,
+        "end": 14233,
+        "text": "Academic Integrity and Generative AI\\nTaking a course in a language other than English requires a\\nspecial commitment to academic integrity. Our goal in this\\ncourse is for you to improve your skills in speaking, reading,\\nlistening, and writing in French; using AI tools in the form of\\nChatGPT and translation tools where you outsource the work\\nof this course prevents you from mastering French.\\nEAective learning requires you to work through diAiculties\\nthat you may have in expressing your ideas and in understanding what you hear and\\nread. EAective learning requires you to use resources to figure out solutions to better\\ninternalize them so you can mentally retrieve them and use them in the future.\\nAll the work you do in this course must be your own. It is not acceptable to ask that an entity\\n(such as a tutor, a fellow student, a friend, a relative, or an AI model) help you to edit,\\ncorrect, translate, or write any part of an assignment.\\nRepresenting work generated by artificial intelligence as one's own work is academically\\ndishonest. Please properly cite any sources that you use.\\nAssignments that are partially or completely written by an AI model will not be accepted, and\\nthey will be treated as plagiarism.\\nThe goal of this course is for you to enhance your learning and understanding. ChatGPT and\\nother AI tools are not a replacement for your own critical thinking and original ideas, and\\ninappropriate use of them will prevent you from making progress in this course.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 14237,
+        "end": 16050,
+        "text": "Brandeis Academic Integrity Code for oral and written tasks in a foreign-language class\\nAcademic work in language classes requires you to use\\nlanguage creatively to express your thoughts and opinions.\\nThe language you use must be verifiably your own.\\nI encourage you to:\\n● use class materials as a source of language models (culturally and linguistically\\nappropriate ways of expressing ideas);\\n• use dictionaries and grammar tables (including digital resources) to check forms\\n(such as verb endings, adjectives, etc.), spelling, and meanings;\\n● search authentic sources to identify expressions and phrases you may need for your\\nown writing;\\n● proofread your own work; read it aloud and hear how it sounds as well as how it looks.\\nI encourage you to use class materials and dictionaries in preparing the drafts and final\\nversions of your essays. However, please do not:\\n• consult native speakers or others about your work\\n• use Al models or translators (such as Google Translate) while composing or\\ncorrecting your work.\\nEssays that in style, syntactic, and lexical complexity do not correspond to your level of\\nlanguage proficiency will stand out as being suspect, and you will be asked to provide an\\nexplanation.\\nPLEASE TAKE NOTE: DOCUMENT THE HELP YOU GET ON ASSIGNMENTS\\nIf you consult outside sources to complete an assignment, please indicate the type and\\nsource of help you received. For example:\\n• I used the online Larousse French-English dictionary [www.larousse.fr] to find “to\\nexpect,” “lighthouse,” “to challenge,” and “with regard to” for this exercise;\\n• I used the Wikipédia site on “greetings in French”\\n[https://en.wikipedia.org/wiki/Salutation] to help me explain my ideas.\\n• Please use the Brandeis Library Guide when you are citing AI for this course:\\nhttps://guides.library.brandeis.edu/citeai",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 16052,
+        "end": 16846,
+        "text": "Accommodations\\nBrandeis seeks to create a learning environment that is welcoming and\\ninclusive of all students, and I want to support you in your learning.\\n• If you think you may require accommodations, you will need to\\nwork with Student Accessibility Support (SAS) (781-736-3470,\\naccess@brandeis.edu). You can find helpful student FAQs and other\\nresources on the SAS website, including guidance on how to know whether you might\\nbe eligible for support from SAS.\\n• If you already have an accommodation letter from SAS, please provide me with a\\ncopy as soon as you can so that I can ensure ePective implementation of\\naccommodations for this class. In order to coordinate accommodations, please\\nprovide me with the letter at least 48 hours before an assignment where you will need\\naccommodations.",
+        "label": "ACCOM"
+      },
+      {
+        "start": 16847,
+        "end": 16977,
+        "text": "Need help?\\nPlease do not wait until problems pile up to ask for help. You can come\\nto me for help at any time during the semester.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 16978,
+        "end": 17627,
+        "text": "Study Abroad\\nWe enthusiastically encourage you to find out about opportunities for\\nstudy abroad in France or in a Francophone country. Students who study\\nabroad gain a much deeper knowledge of the French language and of\\nFrancophone culture, and they have many opportunities to develop\\npersonally and intellectually.\\nStudents who want to find out more about spending a semester, a summer\\nor a year abroad should contact the OPice of Study Abroad, Gerstenzang 136, 781-736-\\n3483, www.brandeis.edu/abroad.\\nYou can also consult Professor Niehaus (sophianiehaus@brandeis.edu) for more\\ninformation about study abroad and about transferring course credits.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 17631,
+        "end": 17866,
+        "text": "Majoring or Minoring in French and Francophone Studies\\nIf you are thinking about pursuing a major or a minor in French and Francophone Studies,\\nplease contact Undergraduate Advising Head, Professor Niehaus\\n(sophianiehaus@brandeis.edu).",
+        "label": "ADMIN"
+      },
+      {
+        "start": 17867,
+        "end": 18880,
+        "text": "Calendar of key dates during the semester\\nThe purpose of this calendar is to give you a sense of when major assignments will be due.\\nThese dates are subject to change.\\nYou will find a detailed account of day-to-day work on Moodle; for the most up-to-date\\ninformation, please consult the Moodle page for this course.\\nUnité 1: La place de la nature dans le monde francophone aujourd’hui: où en sommes-\\nnous? (du 27 août au 11 septembre)\\nDevoir écrit 1 en classe: 11 septembre\\nInterview oral 1: 10-11septembre dans mon bureau\\nUnité 2: La place de la nature dans le monde francophone: comment est-ce que nous y\\nsommes arrivé.e.s? (du 15 septembre au 30 octobre)\\nDevoir écrit 2: 30 octobre\\nInterview oral 2: 29-30 octobre dans mon bureau\\nUnité 3: La place de la nature dans le monde francophone: comment faire face à cette\\ncrise écologique? (du 3 novembre au 11 décembre)\\nLe devoir écrit et la présentation orale de fin de semestre auront lieu pendant la période des\\nexamens de fin de semestre (les dates à déterminer)",
+        "label": "SCHEDULE"
+      },
+      {
+        "start": 18881,
+        "end": 20019,
+        "text": "University-wide Policies and Resources\\nAcademic Integrity\\n\\nEvery member of the University community is expected to maintain the highest standards of\\nacademic integrity. A student shall not submit work that is falsified or is not the result of the\\nstudent's own ePort. Infringement of academic integrity by a student subjects that student\\nto serious penalties, which may include failure on the assignment, failure in the course,\\nsuspension from the University or other sanctions. Please consult Brandeis University\\nRights and Responsibilities for all policies and procedures related to academic integrity.\\nStudents may be required to submit work via TurnItIn.com or similar software to verify\\noriginality. A student who is in doubt regarding standards of academic integrity as they apply\\nto a specific course or assignment should consult the faculty member responsible for that\\ncourse or assignment before submitting the work. Allegations of alleged academic\\ndishonesty will be forwarded to the Department of Student Rights and Community\\nStandards. Citation and research assistance can be found at Brandeis Library Guides - Citing\\nSources.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 20020,
+        "end": 20452,
+        "text": "Classroom Health and Safety\\n• Register for the Brandeis Emergency Notification System. Students who receive an\\nemergency notification while attending class should notify their instructor immediately.\\nIn the case of a life-threatening emergency, call 911. As a precaution, review this active\\nshooter information sheet.\\n• Brandeis provides this shuttle service for traveling across campus or to downtown\\nWaltham, Cambridge and Boston.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 20453,
+        "end": 20839,
+        "text": "Library\\nThe Brandeis Library collections and staP oPer resources and services to support Brandeis\\nstudents, faculty and staP. Librarians and Specialists from Research & Instructional\\nServices, Public Services, Archives & Special Collections, Sound & Image Media Studios,\\nMakerLab, AutomationLab, and Digital Scholarship Lab are available to help you through\\nconsultations and workshops.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 20840,
+        "end": 21106,
+        "text": "• Success in this four-credit course is based on the expectation that students will\\nspend a minimum of nine hours of study time per week in preparation for class\\n(readings, written assignments, listening comprehension activities, oral and written\\nassessments, etc.).",
+        "label": "ADMIN"
+      },
+      {
+        "start": 21107,
+        "end": 21411,
+        "text": "Privacy\\nTo protect your privacy in any case where this course involves online student work outside of\\nBrandeis password-protected spaces, you may choose to use a pseudonym/alias. You must\\nshare the pseudonym/ alias with me. Alternatively, with prior consultation, you may submit\\nsuch work directly to me.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 21412,
+        "end": 22029,
+        "text": "Student Support\\nBrandeis University is committed to supporting all our students so they can thrive. If a\\nstudent, faculty, or staP member wants to learn more about support resources, the Support\\n\\nat Brandeis webpage oPers a comprehensive list that includes these staP colleagues you\\ncan consult, along with other support resources:\\n• The Care Team\\n• Academic Services (undergraduate)\\n• Graduate Student APairs\\n• Directors of Graduate Studies in each department, School of Arts & Sciences\\n• Program Administrators for the Heller School and International Business School\\n• University Ombuds\\n• OPice of Equal Opportunity",
+        "label": "ADMIN"
+      }
+    ],
+    "validity": "Valid",
+    "notes": ""
+  },
+  {
+    "doc_id": "261FIN 181A 1 Banks and Financial Stability Carol Osler",
+    "semester": "Spring Semester 2026 (261)",
+    "school": "School of Business and Economics",
+    "department": "Finance",
+    "course_name": "261FIN 181A 1 Banks and Financial Stability Carol Osler",
+    "annotator": "spencer",
+    "spans": [
+      {
+        "start": 41,
+        "end": 56,
+        "text": "Professor Osler",
+        "label": "ADMIN"
+      },
+      {
+        "start": 112,
+        "end": 153,
+        "text": "Mondays & Wednesdays, 2:30-3:50, Lee Hall",
+        "label": "ADMIN"
+      },
+      {
+        "start": 233,
+        "end": 332,
+        "text": "cosler@brandeis.edu Office hours: Wednesdays, 10:30-12:00\\nPersonal website: here Office: Sachar 205",
+        "label": "ADMIN"
+      },
+      {
+        "start": 409,
+        "end": 1806,
+        "text": "OVERVIEW\\nBanks have been the beating heart of world commerce for over 500 years. A sound banking\\nsystem is essential for robust economic growth. By investing depositor funds wisely, banks\\nhelp individuals increase their wealth and reduce their risk. Bank profits reflect the expertise of\\nbankers in assessing and managing risk. They are good at identifying potential deadbeat\\nborrowers, for example, and they know how derivatives can protect a bank from interest-rate\\nswings.\\nThe banking industry is inherently unstable due to the risk of bank runs and fraud. The failure\\nof a single US bank in 2023, Silicon Valley Bank, triggered a massive contraction in the start-\\nup sector. The failure of a single dominant bank can stop an entire economy in its tracks, as the\\nDominican Republic learned in 2003-2004. Because the banking industry is so economically\\nimportant and so unstable, it is more regulated than any other industry. The best way to regulate\\nbanks is hotly disputed, however.\\nThis course introduces you banks and the banking industry. We’ll discuss the structure of a\\nnormal bank, the risks it faces, and how it manages those risks. We’ll also discuss why the\\nbanking industry is potentially unstable, why and how it is regulated by governments, and why\\nsome regulatory strategies are controversial. More broadly, we’ll study the origins of banking\\ncrises and why they occur frequently.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 1807,
+        "end": 2030,
+        "text": "Prerequisites: Financial Management (Fin 103) or Financial Economics (ECON 171a) and\\nBUS 6a, Financial Accounting (neither finance nor accounting can be taken concurrently with\\nthis course). Comfort with basic Excel skills.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 2106,
+        "end": 2777,
+        "text": "LEARNING GOALS\\n1. Understanding of a bank’s balance sheet and bank performance is measured.\\n2. Understanding of the risks facing a bank and how they manage those risks.\\n• Credit risk  Interest-rate risk\\n• Liquidity risk  Currency risk\\n3. Understanding of the inherent instability of fractional-reserve banking systems.\\n• Retail and wholesale bank runs  Fraud\\n4. Understanding of how and why banks are regulated and the risks that arise when banks are\\nnot properly regulated. Familiarity with associated controversies.\\n• Deposit insurance  Bank equity as an option\\n• Capital adequacy  Gamble for resurrection\\n\\n• Loan-loss reserves  Bank charters\\n• Liquidity reserves",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 2854,
+        "end": 3786,
+        "text": "COURSE OUTLINE\\nTopic Further Information\\n3 classes Bank: Essential for growth and stability Why did SVB Fail? Moodle\\n3 classes Balance sheet basics K & M Ch. 3 pp. 67-82\\n2 classes Evaluating bank performance K & M Ch. 3 pp. 82-136\\n3 classes Interest-rate risk: Measurement and management K & M Ch. 7, 8, 9\\n2 class Noninterest income & nontraditional banks K & M Ch. 4, 5\\n1 class Midterm review\\nIn-class midterm\\nLiquidity risk: Management, regulation, deposit K & M Ch. 10, 11\\n2 classes\\ninsurance Reflections on Northern Rock\\nCredit risk; Evaluating loan requests, managing\\n2 classes K & M Ch 13, 14, 15\\ncredit risk\\n2 classes Investment portfolio: Management, regulation K & M Ch 16\\nFinancial service firms: organizational structure,\\n1 class K & M Ch 1\\nregulation\\nBrookings: Rise, Fall, and\\n1 class Bank runs & bank fraud; Iceland 2007\\nResurrection of Iceland\\nK & M Ch.2, 12\\n3 classes Regulating banks\\nCan I speak to your Supervisor?",
+        "label": "SCHEDULE"
+      },
+      {
+        "start": 3787,
+        "end": 3987,
+        "text": "CLASS DATES (NC = No Class; MT = Midterm exam)\\nM W M W M W M W M W\\nJanuary 12 14 NC 21 26 28\\nFebruary 2 4 9 11 16-NC 18-NC 24 26\\nMarch 2 4 9 11 MT 16 18 23 25 30\\nApril 1-NC 6-NC 8-NC 13 15 20 22 27 29",
+        "label": "SCHEDULE"
+      },
+      {
+        "start": 4063,
+        "end": 4154,
+        "text": "COURSE BASICS\\nTEXTBOOK: Bank Management, 8th edition. Koch and MacDonald. Cengage Learning.",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 4155,
+        "end": 4449,
+        "text": "WORKLOAD: Success in this course should involve a minimum of nine hours of work per week outside of\\nclass. Those nine hours will be spent analyzing banks with guidance from the lecture notes and the text,\\nstudying banking crises, reading debates about bank regulations, and preparing for exams.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 4450,
+        "end": 4595,
+        "text": "REQUIRED WORK AND GRADING WEIGHTS\\nClass participation 5% Class presentation 10%\\nAssignments 20% Final project 10%\\nMidterm exam 25% Final exam 30%",
+        "label": "GRADE"
+      },
+      {
+        "start": 4596,
+        "end": 4845,
+        "text": "COURSEWORK\\n1. Class participation\\n Attendance: This is an in-person class; attendance will be taken.\\n You can miss at most two of the semester’s 26 classes without penalty. If you are ill, let me\\nknow in advance so I can try to set up a Zoom link.",
+        "label": "ATTEND"
+      },
+      {
+        "start": 4846,
+        "end": 5589,
+        "text": "2. Assignments: Practice is essential for developing any skill, including the skills involved in bank risk\\nmanagement. At least once each week you will practice using the concepts just covered in class.\\nGuidance for assignments is provided via examples or detailed instructions.\\n Each assignment is designed for you to practice using specific analytical tools and methods\\ndemonstrated in class. Success thus depends on studying the text or lecture notes while\\nworking on the assignments. No credit will be given when the lecture notes are ignored.\\n The single most helpful suggestion for doing well in this course is to study the lecture\\nnotes while doing the assignments. The surest way to do poorly is to assume you can do\\nthese otherwise.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 5590,
+        "end": 5898,
+        "text": " Your own work: You may not rely on AI or classmates. You must explain everything in your\\nown words and do the calculations on your own. If not, the assignment gets zero credit.\\n You are welcome to work with others to understand the problems or to master Excel techniques\\n(but not to write up the answers).",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 5899,
+        "end": 6068,
+        "text": "3. Quizzes: There will be a 5-10 minute quiz at the beginning of each class. Most question will cover\\nthe most recent class; other questions will cover earlier material.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 6069,
+        "end": 6249,
+        "text": "4. Team Bank Analysis: You and another student will analyze a bank of your choice.\\n Further information on the bank analysis is provided at the end of this syllabus and on Moodle.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 6250,
+        "end": 6298,
+        "text": "5. Midterm exam: Wednesday March 11. Closed book",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 6299,
+        "end": 6372,
+        "text": "6. Final exam: At the Registrar’s date and time. Closed book, cumulative.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 6373,
+        "end": 6413,
+        "text": "No exceptions except health\\nemergencies.",
+        "label": "LATE"
+      },
+      {
+        "start": 6488,
+        "end": 7530,
+        "text": "ACADEMIC INTEGRITY: You, as a member of the University community, must maintain the highest\\nstandards of academic integrity. You will not submit work that is falsified, that copies anyone else’s text\\nfor any reason unless it is in quotations and cited (plagiarism), that is the result of someone else’s effort.\\nYou may not use AI for any purpose except polishing your prose. You will cite your sources, including\\nany AI for polishing prose, and provide complete, verifiable references. If you violate this or the\\nUniversity standards for academic integrity the assignment will get zero credit. In addition, you could fail\\nthe course or be suspended from the University (see Brandeis University Rights and Responsibilities). I do\\n\\nnot hesitate to forward potential instances of academic dishonesty to the Department of Student Rights and\\nCommunity Standards.\\nPlease reach out to me before submitting a given assignment if you are unsure about integrity standards.\\nGuidelines for citations and references are provided on the course Moodle site.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 7531,
+        "end": 8140,
+        "text": "STANDARDS OF BEHAVIOR: Your behavior towards everyone in this class community must be\\nconsistently constructive, kind, respectful, and curious.\\nBrandeis University is committed to providing its students, faculty and staff with an environment\\nconducive to learning and working, where all people are treated with respect and dignity. You must refrain\\nfrom any behavior toward members of our Brandeis community, including students, faculty, staff, and\\nguests, that intimidates, threatens, harasses, or bullies. [Brandeis Business Conduct Policy p. 2, 2020. (2)\\nStudent Rights & Responsibilities, p. 11, 2020 ed.]",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 8141,
+        "end": 8407,
+        "text": "DISABILITIES: I am happy to accommodate documented disabilities. To ensure I can provide such\\naccommodation by 26 January 2026 I must receive your accommodation letter from Student Accessibility\\nSupport and you must specify your choices for exams (quiet room, etc.).",
+        "label": "ACCOM"
+      },
+      {
+        "start": 8408,
+        "end": 8632,
+        "text": "STUDENT SUPPORT: Brandeis University is committed to supporting all our students so they can thrive.\\nSupport resources for you include:\\n• Support at Brandeis • University Ombuds\\n• The Care Team • Office of Equal Opportunity.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 8633,
+        "end": 8832,
+        "text": "RECORDING OF CLASSES: You may not record classes on your own without my express permission.\\nIf the class is recorded you may not share the URL and/or password to anyone unaffiliated with this\\ncourse.",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 8907,
+        "end": 9284,
+        "text": "PROJECT DETAILS\\nI. 4-Minute Presentation\\nYou will introduce your classmates to an important type of bank asset, liability, customer\\ntype, or regulatory body. You will provide the following:\\n Definition\\n Function and importance for the banking industry\\n Brief history: Origins and past growth, current size measures\\n Something intriguing – Scandal? A recent dramatic change?",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 9285,
+        "end": 9461,
+        "text": "II. Team Bank Analysis\\nYou a partner will choose a bank and analyze it throughout the semester.\\n• Everything you need to know is on Moodle under “Guidelines for Bank Analysis.”",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 9462,
+        "end": 9806,
+        "text": "• EVERYTHING you submit must be your own words. In this course it is not permissible to\\nuse someone else’s words or AI-sourced content. This prohibition holds regardless of\\nwhether quotation marks or citations are provided.\\n• You must cite your sources and provide complete, verifiable references, including whether\\nyou used AI to polish prose.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 9807,
+        "end": 10245,
+        "text": "Timeline\\n• During the first week of class: Submit Assignment #1 (tell me about yourself)\\n• Submission portal is on Moodle.\\n\\n• January 21 (Wednesday): Teams are notified\\n• February 4 (Wednesday): Declare bank choice\\n• Multiple teams can choose a given bank.\\n• April 27 (Monday): Submit report\\n• Analyze your bank using the analytical tools provided this semester such as ROE analysis.\\n• More information will be provided over the semester.",
+        "label": "SCHEDULE"
+      }
+    ],
+    "validity": "Valid",
+    "notes": ""
+  },
+  {
+    "doc_id": "253RUS 30A 1 Intermediate Russian I Irina Dubinina",
+    "semester": "Fall Semester 2025 (253)",
+    "school": "College of Arts and Sciences",
+    "department": "Russian Studies",
+    "course_name": "253RUS 30A 1 Intermediate Russian I Irina Dubinina",
+    "annotator": "spencer",
+    "spans": [
+      {
+        "start": 114,
+        "end": 372,
+        "text": "Class meetings\\nMonday, Wednesday, Thursday 10:10-11:00, Tuesday 10:00 – 10:50\\nПреподаватель Контактная информация Консультации\\nИрина Евгеньевна Дубинина Офис: Shiffman 206\\nE-mail: idubinin@brandeis.edu Понедельники и среды:\\n1:00 – 2:00\\nЧетверги: 12:30 – 1:30",
+        "label": "ADMIN"
+      },
+      {
+        "start": 373,
+        "end": 1072,
+        "text": "Course Description\\nCongratulations—you have made it to the next level! Russian 30 will launch you into a much higher\\norbit within the language universe and open new horizons for you! While continuing to develop your\\nability to communicate effectively and accurately in Russian and to explore Russian culture, you will\\nexpand your vocabulary, sharpen your pragmatic skills, and complete your understanding of the\\nRussian grammatical system.\\nRussian 30 is the first semester of the two-semester sequence of Intermediate Russian. Although Brandeis\\nrequires only three semesters of a foreign language, we strongly encourage you to complete this sequence\\nand take Russian 40 when it is offered next year!",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 1073,
+        "end": 2091,
+        "text": "Course Goals and Learning Outcomes\\nThis course is designed to propel you to the next level of proficiency (Intermediate-Mid) in speaking,\\nlistening, reading, and writing, as defined by the American Council of the Teaching of Foreign\\nLanguages. More specifically, you will be able to:\\n• express thoughts in strings of sentences approaching paragraph in length;\\n• engage in a conversation in a clearly participatory manner in a way that is culturally\\nappropriate for the Russian speakers;\\n• ask a variety of questions to obtain nuanced information;\\n• expand your ability to express preferences, feelings, or opinions;\\n• state your viewpoint with supporting evidence;\\n• present on familiar and researched topics;\\n• make comparisons between different cultural products and practices, in order to\\nunderstand different cultural perspectives;\\n• recognize differences between your own worldview and that of Russian-language\\nspeakers and identify your own cultural rules and biases, as compared to those of the\\nRussian culture.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 2092,
+        "end": 2731,
+        "text": "Required Materials\\n1\\n\\nBrandeis University, GRALL Intermediate Russian 30A\\nFall 2025\\nFor the first few weeks, we will continue using the textbook Russian Stage One: Live from Moscow:\\nVolume II (your textbook from Russian 20) and the accompanying workbook, as we still need to finish\\nchapters 11, 12 and 13. Then we will start working with a new textbook—Этажи: Intermediate Russian\\nby S. Nazarova and E. Dengub (Georgetown University Press 2021).\\nYou will find all the unit plans, homework assignments, links to instructional videos, readings, study\\nguides, and other materials related to the course on the Russian 30 course page on Moodle.",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 2732,
+        "end": 3395,
+        "text": "Your responsibilities\\nStatement on Brandeis academic integrity\\nAcademic integrity is central to the mission of educational excellence at Brandeis University. Each\\nstudent is expected to turn in work completed independently, except when assignments\\nspecifically authorize collaborative effort. Violations of University policies on academic integrity,\\ndescribed in Section Three of Rights and Responsibilities, may result in failure of the course or on\\nthe assignment, or in suspension or dismissal from the University. If you are in doubt about the\\ninstructions for any assignment in this course, it is your responsibility to ask your instructor for\\nclarification.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 3396,
+        "end": 3520,
+        "text": "Engagement, participation, and punctuality\\nYou are expected to contribute to a respectful and positive learning environment.",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 3521,
+        "end": 3869,
+        "text": "Cell phones and social media\\nI rely on your maturity to know that any use of cell phones and social media sites during our class\\nmeetings is disrespectful and distracting. Phones should be turned off and out of sight, while class\\nis in session. Likewise, please close down all social media applications and turn off notifications on\\nyour computers.",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 3870,
+        "end": 4564,
+        "text": "Group dynamics\\nThis class relies heavily on all of you working together. Some of you are faster at grasping new\\ngrammatical concepts and memorizing new vocabulary, while others require more time to\\nprocess language-related information. Personality types also play a significant role in how people\\nlearn languages: some may be reluctant to speak in front of other people, while others are more\\noutgoing and will not hesitate to experiment. Please be patient with each other and always remain\\npolite! It is important to keep in mind that you NEED each other to activate what you have learned\\nin class and at home—so, please be grateful for having your classmates, who can help you with\\nthis task!",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 4565,
+        "end": 5089,
+        "text": "Notice of accommodation\\nBrandeis seeks to welcome and include all students. If you are a student who needs\\naccommodations as outlined in an accommodations letter, please talk with me and present your\\nletter of accommodation as soon as you can. In order to provide accommodations during a test, I\\nmust see the letter more than 48 hours in advance. If you have any questions about documenting a\\ndisability or requesting accommodations, please contact Student Accessibility Support (SAS) at\\n781.736.3470 or access@brandeis.edu.",
+        "label": "ACCOM"
+      },
+      {
+        "start": 5090,
+        "end": 5103,
+        "text": "Communication",
+        "label": "ADMIN"
+      },
+      {
+        "start": 5169,
+        "end": 5588,
+        "text": "Please make sure your Brandeis e-mail address is active and check it frequently! I will communicate a lot\\nof important information about the course to you via the Course Announcement function on our Moodle\\npage or by directly e-mailing you.\\nYou can always contact me by e-mail with questions related to the course. I will try to respond within 24\\nhours. Please note that I will not check my e-mail after 10:00 p.m. EST!",
+        "label": "ADMIN"
+      },
+      {
+        "start": 5589,
+        "end": 6159,
+        "text": "Evaluation Structure\\nYour final grade will be calculated as follows:\\n• Class participation\\no 46 classes out of 50 possible x 5 points each = 230 points\\n• Recitation participation\\no 10 recitations out of 12 possible x 5 points each = 50 points\\n• Homework = 240 points total\\no daily homework: 44 out of 48 possible x 5 points each = 220 points\\n• Weekly quizzes = 100 points total\\no grammar and vocabulary quizzes: 10 out of 13 possible x 10 points each = 100 points\\n• Unit tests (4) x 50 points each = 200 points\\n• Final Exam/Task = 100 points\\n• Final Project = 100 points",
+        "label": "GRADE"
+      },
+      {
+        "start": 6160,
+        "end": 6302,
+        "text": "Grading Scale for the Final Course Grade\\nLetter Grade Percentage\\nA 94-100%\\nA- 90-93%\\nB+ 87-89%\\nB 84-86%\\nB- 80-83%\\nC+ 77-79%\\nC 74-76%\\nC- 70-73%",
+        "label": "GRADE"
+      },
+      {
+        "start": 6303,
+        "end": 6587,
+        "text": "Components of Course Work Explained\\nParticipation (230 points)\\nYour participation will be marked on a very simple scale:\\n5 points – you are on time, prepared (i.e., you have done your homework and are prepared to\\nwork with new material in class), and actively participate in classwork",
+        "label": "GRADE"
+      },
+      {
+        "start": 6653,
+        "end": 6932,
+        "text": "0 points – you are not prepared (i.e., you have not done your homework and, as a result, your\\nparticipation in classwork is limited)\\nPlease note that you are allowed to miss up to 4 classes for any reason without penalty—the total\\nscore for participation takes this into account!",
+        "label": "GRADE"
+      },
+      {
+        "start": 6933,
+        "end": 6960,
+        "text": "Recitation hour (50 points)",
+        "label": "GRADE"
+      },
+      {
+        "start": 6961,
+        "end": 7944,
+        "text": "This course requires that you meet with an instructor for one additional hour per week. It is called the\\n“Recitation Hour,” which in a language-learning course means that you will practice phonetics, do\\nselected homework exercises together, practice conversation, prepare for oral exams, and have an extra\\nopportunity to work with authentic language and culture materials. Recitations will also be reserved for\\nshort weekly vocabulary quizzes.\\nThe exact meeting times for the recitations will be scheduled at the beginning of the semester by common\\nconsent. Recitations will start in the 2nd week of the semester. There will be a total of 12 recitations. You\\nmust participate in at least 10 recitations, in order to receive a full credit for this portion of your final\\ngrade.\\nPlease note that your participation in the Recitation Hour is mandatory! It is as important as your\\nattendance of our regular class sessions, and it is subject to the same participation and classroom policy!",
+        "label": "ATTEND"
+      },
+      {
+        "start": 7945,
+        "end": 8308,
+        "text": "Making up for Missed Classes\\nWhile you are expected to actively participate in each class and recitation session, we recognize the\\ninherent uncertainties of real life. If you have to miss a class for a legitimate reason and want to make up\\nfor it, you need to contact your instructor. You will be expected to complete the list of tasks provided by\\nthe instructor.",
+        "label": "ATTEND"
+      },
+      {
+        "start": 8331,
+        "end": 8778,
+        "text": "Textbook/workbook homework must be submitted on the day it is due. If you are not able to make it to\\nclass, you should still submit your homework on time, in order to receive a full credit. The expectations\\nfor your homework are as follows: it has to be complete (i.e., all the assignments should be done), it has to\\nbe at least 90% correct, and it should not contain any systematic errors indicating that re-learning and re-\\nfocusing is required.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 8309,
+        "end": 8330,
+        "text": "Homework (220 points)",
+        "label": "GRADE"
+      },
+      {
+        "start": 8779,
+        "end": 9542,
+        "text": "There are three possible scores you may receive for your homework:\\n• full credit – 5 points (if your work meets the expectations outlined above)\\n• no credit – 0 points (if the homework was submitted more than a week after the date it was due or\\nif it does not meet the expectations of being at least 90% correct and complete)\\n• partial credit (if your homework does not meet the expectations outlined above, you will have the\\noption of correcting all circled mistakes and resubmitting the work NO LATER THAN BY THE END\\nOF THE UNIT. A full credit of 5 points will be given only when all corrections had been made and\\nthe work was resubmitted. If you do not submit your corrections, you will receive a partial credit.\\nOnly one resubmission per homework is allowed.)",
+        "label": "GRADE"
+      },
+      {
+        "start": 9543,
+        "end": 9749,
+        "text": "Please note:\\nIf your homework was submitted more than a week late, it will be accepted and checked for\\nerrors, but you will NOT receive any credit for it. No resubmissions will be allowed for late homework.",
+        "label": "LATE"
+      },
+      {
+        "start": 9815,
+        "end": 10025,
+        "text": "Corrections/resubmissions must be received by the last day of the unit (usually, the unit-test day).\\nHomework resubmitted after the unit test will be accepted, but you will only receive a partial credit for it.",
+        "label": "LATE"
+      },
+      {
+        "start": 10026,
+        "end": 10272,
+        "text": "This 4-credit-hour course is based on the expectation that students will study on a\\nregular basis and spend 10 to 12 hours per week preparing for classes (including\\nwritten homework, instructional videos, preparation for quizzes and exams, etc.).",
+        "label": "ADMIN"
+      },
+      {
+        "start": 10273,
+        "end": 10316,
+        "text": "Vocabulary and grammar quizzes (100 points)",
+        "label": "GRADE"
+      },
+      {
+        "start": 10317,
+        "end": 10600,
+        "text": "Every week, you will have grammar and vocabulary quizzes. Vocabulary quizzes will mostly take place\\nduring the recitations. Grammar quizzes will take place in class. You should expect to be quizzed on any\\nlexical and grammatical material that will have been covered until that point.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 10601,
+        "end": 10978,
+        "text": "There are three possible scores you may receive on a quiz:\\n• full credit – 10 points (if your work meets the expectations of being at least 90% correct)\\n• partial credit (if your work is below expectations, but still has some substance and is more\\nthan 80% correct)\\n• no credit – 0 points (for missed quizzes and for work that has little substance and is less than\\n80% correct)",
+        "label": "GRADE"
+      },
+      {
+        "start": 10979,
+        "end": 11002,
+        "text": "Unit tests (200 points)",
+        "label": "GRADE"
+      },
+      {
+        "start": 11003,
+        "end": 11124,
+        "text": "Tests will be scheduled at the end of each unit. You will receive specific instructions on how to prepare for\\nsuch tests.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 11125,
+        "end": 11148,
+        "text": "Final exam (100 points)",
+        "label": "GRADE"
+      },
+      {
+        "start": 11149,
+        "end": 11314,
+        "text": "There will be a final task due at the end of the semester during the Finals Week. The format of this final\\nproject will be determined in collaboration with students.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 11315,
+        "end": 11334,
+        "text": "Final Project (100)",
+        "label": "GRADE"
+      },
+      {
+        "start": 11335,
+        "end": 11947,
+        "text": "Starting in the middle of September, every Thursday class will be held on zoom—we will be meeting\\nwith students from the Pedagogical University in Yaroslavl, Russia, and chatting with them (in Russian!)\\nabout various subjects. These conversations will be part of our regular class activities—we will prepare\\nfor them together, you will receive homework and other assignments for these meetings, and your final\\nproject will also be based on the information that you will have obtained in the course of these\\nencounters. You will be provided with detailed instructions for your final project early in the semester.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 11948,
+        "end": 12422,
+        "text": "Please be advised that the Moodle gradebook provides you with a fairly\\naccurate but still approximate calculation of your grade. The instructor\\nreserves the right to adjust the total number of points and the grade at the end\\nof the semester. I invite you to think more about developing your proficiency\\nin the language rather than focusing on the mechanics of how the grade is\\ncalculated—the ultimate goal for you is to gain an ability to communicate\\neffectively in Russian!",
+        "label": "ADMIN"
+      },
+      {
+        "start": 12488,
+        "end": 13193,
+        "text": "What to Do if You Need Extra Help\\nPlease do not wait until problems start piling up! There are three people in the Russian Language\\nProgram you can turn to for help: your instructor and/or a BUGS tutor. You can come to either of us with\\nyour questions, but it also may be helpful to differentiate your sources of support:\\no If you need another explanation of a particular concept or want to practice vocabulary,\\npronunciation, conversation, seek help from your instructor (Ирина Евгеньевна\\nДубинина) during office hours or by appointment;\\no If you would like extra practice of grammar, vocabulary or conversation, sign up to meet\\nwith Matvey Agronovskiy, BUGS tutor for Russian, magranovskiy@brandeis.edu.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 13194,
+        "end": 13880,
+        "text": "Other Useful Contacts\\nThe Russian Program’s Undergraduate Representatives for the 2024-25 academic year are Zoe Potolsky\\n(zoepotolsky@brandeis.edu) and Isabella Seemann (isabellaseemann@brandeis.edu) – note that\\nIsabella is away on a study-abroad in the fall. They can be a wonderful resource not only for your\\nquestions about majoring/minoring in Russian, but also about Russian literature, studying habits, or\\nsuccessful language-learning strategies.\\nThe undergraduate advisor for the Russian Language Program is Professor David Powelstock\\n(pstock@brandeis.edu). He will help you plan out your Russian Studies major or minor and guide you in\\nquestions related to study-abroad credits.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 13881,
+        "end": 14523,
+        "text": "Statement on Success\\nYour academic success in this course depends heavily on your personal health and wellbeing. Stress is a\\ncommon part of the college experience, and it often can be compounded by unexpected setbacks or life\\nchanges outside the classroom. Your other professors and I strongly encourage you to view challenges as\\nunavoidable pathways to success. Reflect on your role in taking care of yourself throughout the academic\\nyear, before the pressure over exams and projects begins to mount. Please feel free to reach out to me\\nabout any difficulty you may be facing, if you think that it may impact your performance in this course.",
+        "label": "ADMIN"
+      }
+    ],
+    "validity": "Valid",
+    "notes": ""
+  },
+  {
+    "doc_id": "252AMST MUS 35A 1 Rock, Country, and Hip Hop History of American Popular Music Taylor Ackley",
+    "semester": "Summer Semester 2025 (252)",
+    "school": "College of Arts and Sciences",
+    "department": "American Studies and Music",
+    "course_name": "252AMST MUS 35A 1 Rock, Country, and Hip Hop History of American Popular Music Taylor Ackley",
+    "annotator": "spencer",
+    "spans": [
+      {
+        "start": 70,
+        "end": 162,
+        "text": "Contact Details\\nTaylor Ackley Office location: Slosberg 224\\nEmail: taylorackley@brandeis.edu",
+        "label": "ADMIN"
+      },
+      {
+        "start": 163,
+        "end": 382,
+        "text": "Communication\\nPlease email the professor for all class correspondence. I will do my best to respond within 48 hours\\nMonday-Friday. Emails received over the weekend will be responded to at the beginning of the next week.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 383,
+        "end": 493,
+        "text": "Meeting Times/Locations\\nClasses\\nThis class is held entirely asynchronously. All materials are posted on Moodle",
+        "label": "ADMIN"
+      },
+      {
+        "start": 494,
+        "end": 753,
+        "text": "Student Hours\\nOffice hours are available by appointment. Before meeting please email me to let me know when you\\nwould like to meet and how I can help you. This way I can prepare accordingly and avoid multiple students\\ntrying to meet via zoom at the same time.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 754,
+        "end": 1073,
+        "text": "Course Description\\nCourse Prerequisite(s):\\nMUS 35a, The History of American Popular Music, has no prerequisites, but does involve a good amount of\\nreading and writing. While students will be primarily evaluated for their ideas and understanding,\\nproficiency in writing will aid the successful completion of this course.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 1074,
+        "end": 2546,
+        "text": "Learning Goals:\\nIn this course students will examine the historical context, stylistic development, and cultural significance\\nof rock and roll and other closely related genres, spanning from the birth of America popular music\\nthrough the present. Close attention will be paid to how political and social changes have interacted with\\ntechnological innovations through commercial music to challenge, affirm and shape ideas of race, gender,\\nclass and sexuality in the United States. Ultimately the goal of this course is to provide students with the\\nvocabulary, analytical tools and historical background to understand the music they listen to encounter\\nas people in the 21st century. While the course is structure as a lecture, class sessions will be participatory\\nand will provide space for students to reflect on the music they hear and study in order to share their\\npersonal experiences and observations. By the end of the course students will be able to:\\n• Engage in detail with the core musical characteristics of rock by analyzing its constituent elements\\n(rhythm, form, pitch structure, instrumental texture, and vocal style).\\n• Recognize and identify important musical styles and artists by ear.\\n• Contextualize the role of rock music within U.S. history and society.\\n\\n• Demonstrate knowledge of relationships among subcultures and subgenres within the rock music\\ntradition.\\n• Build skills in effective writing about rock music and in appropriate modes of listening.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 2547,
+        "end": 2793,
+        "text": "Credit Hours:\\nSuccess in this four-credit course is based on the expectation that students will spend a minimum of nine\\nhours of study time per week in preparation for class (readings, papers, discussion sections, preparation\\nfor the exams, etc.)",
+        "label": "ADMIN"
+      },
+      {
+        "start": 2794,
+        "end": 3265,
+        "text": "Course Requirements\\nTextbook\\nAll students will need to acquire a copy of the eBook 6th edition American Popular Music by Larry Starr\\nand Waterman. There will be assigned reading from this text as well as articles and videos shared via\\nLATTE. All listening will be provided as a Spotify Playlist. Because of the online nature of this course,\\nassigned reading and listening make up a substantial portion of the course materials. Lectures are\\nsupplemental to this materials.",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 3266,
+        "end": 3472,
+        "text": "Participation/Attendance\\nThis course is asynchronous so there is no required attendance at specific times. Instead students earn\\ntheir participation grade by commenting on weekly musical discussion threads.",
+        "label": "ATTEND"
+      },
+      {
+        "start": 3473,
+        "end": 4024,
+        "text": "Assignments\\nThis class will involve regular assignments in two broad categories: Written Assignments and Discussion\\nPrompts. These assignments will provide the opportunity for students to demonstrate their knowledge\\nand understanding of class materials while reflecting their personal experiences with music. Most weeks\\nwill have one of these smaller assignments. Written Assignments will be short responses to listening\\nassignments and out of class activities. Discussion Prompts will be based on course readings will be\\nsubmitted on LATTE in Forums.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 4025,
+        "end": 4259,
+        "text": "Larger Projects\\nIn addition to regular assignments there will be two larger projects spread throughout the course. These\\nwill consist of a Listening Guide and a Final Project. Detailed instructions for these will be provided on\\nLATTE.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 4260,
+        "end": 5349,
+        "text": "Accommodations\\nBrandeis seeks to create a learning environment that is welcoming and inclusive of all students, and I\\nwant to support you in your learning. Live auto transcription is available for all meetings or classes hosted\\non Zoom and you can turn it on or off to support your learning. Please check for Zoom updates to take\\nadvantage of this new feature. To learn more, visit the Zoom Live Transcription webpage. For questions,\\ncontact help@brandeis.edu\\nIf you think you may require disability accommodations, you will need to work with Student Accessibility\\nSupport (SAS) (781-736-3470, access@brandeis.edu). You can find helpful student FAQs and other\\nresources on the SAS website, including guidance on how to know whether you might be eligible for\\n\\nsupport from SAS. If you already have an accommodation letter from SAS, please provide me with a copy\\nas soon as you can so that I can ensure effective implementation of accommodations for this class. In\\norder to coordinate exam accommodations, ideally you should provide the accommodation letter at least\\n48 hours before an exam.",
+        "label": "ACCOM"
+      },
+      {
+        "start": 5350,
+        "end": 5644,
+        "text": "Evaluation and Grading\\nStudent performance will be evaluated in five categories shown below. For specifics see Course\\nRequirements or ask the professor:\\nClass Element Grade Percentage\\nWritten Assignments 30%\\nDiscussion Prompts 20%\\nListening Guide Project 15%\\nFinal Project 15%\\nParticipation 20%",
+        "label": "GRADE"
+      },
+      {
+        "start": 5645,
+        "end": 7546,
+        "text": "Course Plan\\nThe basic plan for the “semester” is found below. Our course is divided into Units, focusing on a specific\\ntime period or stylist development. Detailed reading instructions along with any Supplemental Articles\\nwill be provided at the beginning of each Unit. Because we are covering a great deal of material this\\nschedule may change to accommodate the needs of the class as a whole:\\nReadings from Starr and Waterman’s American Popular Music - abbreviated APM\\n(Except where otherwise noted)\\nUNIT 1 6/2-6: APM Ch 1-4 Introduction and The Birth of American Popular Music\\nDiscussion Prompt 1 Labeling Popular Music? – Due 6/6\\nUNIT 2 6/9-13: APM Ch 5-6 Race Records and Hillbilly Music\\nWritten Assignment 1 What Music Represents You? – Due 6/13\\nUNIT 3 6/16-20: APM Ch 7 American Music after World War 2\\nSupplemental: Brown “‘Miss Rhythm’ Speaks Out: Ruth Brown, on R&B and Covers”\\nDiscussion Prompt 2 Covers – Due 6/20\\nUNIT 4 6/23-27: APM Ch 8 Rock and Roll\\nListening Guide Project – Due 6/27\\nUNIT 5 6/30-7/4: APM Ch 9 The 1960s and the British Invasion\\nSupplemental: Williams, “Understanding Dylan,”\\nDiscussion Prompt 3 Bob Dylan’s Poetry – Due 7/4\\nUNIT 6 7/7-11: APM Ch 10 The Counterculture: Soul and Rock in the Late 1960s\\n\\nSupplemental: Brian Eno, “The Studio as Compositional Tool”\\nDiscussion Prompt 4 The Studio as Compositional Tool – Due 7/11\\nUNIT 7 7/14-18: APM Ch 11 Mainstream Music in the 1970s\\nWritten Assignment 2 The Album – Due 7/18\\nUNIT 8 7/21-25: APM Ch 12 Outsider Music\\nFinal Project Proposal – Due 7/21 (note - this is the beginning of the week!)\\nUNIT 9 7/28-8/1: APM Ch 13-14 Popular Music in the 1980s\\nWritten Assignment 3 Interview – Due 8/1\\nUNIT 10 8/4-8: APM Ch 15 Popular Music and the Internet\\nSupplemental: Hyden, “It’s Time to Stop Using Rock as a Catch-All Term…”\\nDiscussion Prompt 5 What’s in a Name? – Due 8/4 (the beginning of the week)\\nFinal Project – Due 8/8",
+        "label": "SCHEDULE"
+      },
+      {
+        "start": 7547,
+        "end": 8679,
+        "text": "Important Policies and Resources\\nAcademic Integrity\\nEvery member of the University community is expected to maintain the highest standards of academic\\nintegrity. A student shall not submit work that is falsified or is not the result of the student's own effort.\\nInfringement of academic integrity by a student subjects that student to serious penalties, which may\\ninclude failure on the assignment, failure in the course, suspension from the University or other\\nsanctions. Please consult Brandeis University Rights and Responsibilities for all policies and procedures\\nrelated to academic integrity. Students may be required to submit work via TurnItIn.com or similar\\nsoftware to verify originality. A student who is in doubt regarding standards of academic integrity as they\\napply to a specific course or assignment should consult the faculty member responsible for that course or\\nassignment before submitting the work. Allegations of alleged academic dishonesty will be forwarded to\\nthe Department of Student Rights and Community Standards. Citation and research assistance can be\\nfound at Brandeis Library Guides - Citing Sources.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 8680,
+        "end": 8970,
+        "text": "Course Materials/Books/Apps/Equipment\\nIf you are having difficulty purchasing course materials, please make an appointment with your Student\\nFinancial Services or Academic Services advisor to discuss possible funding options, including vouchers for\\npurchases made at the Brandeis Bookstore.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 8971,
+        "end": 9114,
+        "text": "Moodle\\nMoodle is the Brandeis learning management system. Login using your UNET ID and password. For\\nMoodle help, contact Library@brandeis.edu.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 9115,
+        "end": 9504,
+        "text": "Library\\nThe Brandeis Library collections and staff offer resources and services to support Brandeis students, faculty\\nand staff. Librarians and Specialists from Research & Instructional Services, Public Services, Archives & Special\\nCollections, Sound & Image Media Studios, MakerLab, AutomationLab, and Digital Scholarship Lab are\\navailable to help you through consultations and workshops.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 9506,
+        "end": 9848,
+        "text": "Privacy\\nTo protect your privacy in any case where this course involves online student work outside of Brandeis\\npassword-protected spaces, you may choose to use a pseudonym/alias. You must share the pseudonym/\\nalias with me and any teaching assistants as needed. Alternatively, with prior consultation, you may\\nsubmit such work directly to me.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 9849,
+        "end": 10471,
+        "text": "Student Support\\nBrandeis University is committed to supporting all our students so they can thrive. If a student, faculty, or\\nstaff member wants to learn more about support resources, the Support at Brandeis webpage offers a\\ncomprehensive list that includes these staff colleagues you can consult, along with other support\\nresources:\\n• The Care Team\\n• Academic Services (undergraduate)\\n• Graduate Student Affairs\\n• Directors of Graduate Studies in each department, School of Arts & Sciences\\n• Program Administrators for the Heller School and International Business School\\n• University Ombuds\\n• Office of Equal Opportunity.",
+        "label": "ADMIN"
+      }
+    ],
+    "validity": "Valid",
+    "notes": ""
+  },
+  {
+    "doc_id": "261BUS 216F 1 Python and Applications to Business Analytics II Shubhranshu Shekhar",
+    "semester": "Spring Semester 2026 (261)",
+    "school": "School of Business and Economics",
+    "department": "Business",
+    "course_name": "261BUS 216F 1 Python and Applications to Business Analytics II Shubhranshu Shekhar",
+    "annotator": "spencer",
+    "spans": [
+      {
+        "start": 61,
+        "end": 166,
+        "text": "Contact Details\\nShubhranshu Shekhar Office location: S-214A\\nEmail: sshekhar@brandeis.edu Telephone: 62012",
+        "label": "ADMIN"
+      },
+      {
+        "start": 167,
+        "end": 312,
+        "text": "Communication\\nThe most efficient way to reach me is by email with subject line mentioning [BUS 216F]. I’ll do my best to\\nrespond within 24 hours.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 313,
+        "end": 634,
+        "text": "Continuity\\nIn case of a class cancellation, or any campus closure (snow days, or other disruptions), I will send an email\\nout through the Moodle system. I will provide information on whether class will be cancelled or if we will\\nswitch to remote for that day. All remote classes will be recorded and available for review.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 635,
+        "end": 799,
+        "text": "Meeting Times/Locations\\nClasses\\nMon/Wed | 2:30 PM – 3:50 PM Sachar: 116\\nStudent Hours\\nShubhranshu Shekhar (Instructor): Wed 9:30AM and Fri 11:45 AM (by appointment)",
+        "label": "ADMIN"
+      },
+      {
+        "start": 800,
+        "end": 1888,
+        "text": "Accommodations\\nBrandeis seeks to create a learning environment that is welcoming and inclusive of all students, and I\\nwant to support you in your learning. Live auto transcription is available for all meetings or classes hosted\\non Zoom and you can turn it on or off to support your learning. Please check for Zoom updates to take\\nadvantage of this new feature. To learn more, visit the Zoom Live Transcription webpage. For questions,\\ncontact help@brandeis.edu\\nIf you think you may require disability accommodations, you will need to work with Student Accessibility\\nSupport (SAS) (781-736-3470, access@brandeis.edu). You can find helpful student FAQs and other\\nresources on the SAS website, including guidance on how to know whether you might be eligible for\\nsupport from SAS. If you already have an accommodation letter from SAS, please provide me with a copy\\nas soon as you can so that I can ensure effective implementation of accommodations for this class. In\\norder to coordinate exam accommodations, ideally you should provide the accommodation letter at least\\n48 hours before an exam.",
+        "label": "ACCOM"
+      },
+      {
+        "start": 1890,
+        "end": 2181,
+        "text": "Course Description\\nCourse Prerequisite(s)\\nIt is expected that students have completed BUS 215, Python and Applications to Business Analytics or FIN\\n215, Python and Applications to Finance. No exceptions can be made because the course builds on the\\ncore competencies built within that course.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 2182,
+        "end": 3026,
+        "text": "Overview\\nPython is a one of the leading programming languages; developers use it for full-stack application\\ndevelopment. To create an application, a programmer needs to design, code, and test a front-end (if\\nrequired), a data model, and some business algorithms to make the application work. In business, these\\napplications help address real world problems.\\nThis course is designed for business students who want to learn how to use Python to build applications.\\nStudents will learn how to design a product, set up a coding environment, (optionally) develop test cases,\\nweb-apps using python backend, apply business analytics with custom and library algorithms, follow\\ncoding best practices.\\nThe applications created in this course will help business analytics students who want to build\\napplications focused on analytics in the business world.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 3027,
+        "end": 3323,
+        "text": "Learning Goals\\nAt the end of this course, the student should be able to design, code, test, and build applications. Specific\\ngoals include:\\n• End-to-end application design\\n• Develop skillsets that are used in the life cycle of application development\\n• Enhance a student’s Python coding abilities",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 3324,
+        "end": 3551,
+        "text": "Credit Hours\\nSuccess in this course is based on the expectation that students will spend a minimum of seven hours of\\nstudy time per week in preparation for class (readings, discussion sections, preparation for the exams,\\netc.).",
+        "label": "ADMIN"
+      },
+      {
+        "start": 3552,
+        "end": 3958,
+        "text": "Course Reference Materials\\nMandatory\\n1. None\\nRecommended\\n1. Severance, C. Python for Everybody. Online at https://www.py4e.com/book.php [Lessons]\\n2. Web Scraping with Python by Ryan Mitchell. Online via Brandeis O’Reilly Library\\n3. Generative AI with LangChain by Ben Auffarth. Online via Brandeis O’Reilly Library\\n4. Streamlitopedia. https://pmbaumgartner.github.io/streamlitopedia/front/introduction.html",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 3960,
+        "end": 4437,
+        "text": "Course Requirements\\nAttendance\\nYou are expected to attend all the classes. I will allow up to two class absences, no questions asked. Any\\nmore absences must be communicated in advance via email. Note that the text and course video captures\\ncannot replace what you miss if you are absent, particularly when a session is devoted to case analysis. It\\nis your responsibility to catch up on any material you miss by reading the course material and borrowing\\nclass-notes from others.",
+        "label": "ATTEND"
+      },
+      {
+        "start": 4438,
+        "end": 4818,
+        "text": "Assignments\\nThere will be 2 programming assignments. Assignments will be posted on Moodle, and the submission is\\nalso through Moodle. All deadlines are at 11:59pm of the submission day.\\nGetting help: You can visit the instructor and the TAs during student hours as well as set up an\\nappointment over email. Regarding help from fellow students, see the note on collaboration below.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 4819,
+        "end": 4875,
+        "text": "Exams/Quizzes\\nThere will be a Final exam for the course.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 4876,
+        "end": 5642,
+        "text": "There will be no make up for missed exams.\\nNote on Assignments and Exams: Midterm exams are comprehensive and cumulative. Last\\nminute conflicts and illnesses will be handled by rearranging the weights of the assignments to\\nreflect the missed work. (Weights will be moved to the other assignments ONLY for illnesses or\\nother unanticipated conflicts. Missing a homework/case assignment or quiz (without any reason)\\nwill lead to zero credit for that part and the weight will not be shifted). You cannot skip midterm\\nexams – if you do you will get zero for the exam– the weight from the exam will not be moved to\\nthe other components. There will be no makeup exams or assignments for this course, except\\nonly under extraordinary circumstances, such as natural disasters.",
+        "label": "LATE"
+      },
+      {
+        "start": 5643,
+        "end": 6460,
+        "text": "Project\\nBy second week of classes, you’ll choose a team and work on a course project. You will select a\\nbusiness problem of your interest, and write a python application to solve the business problem you\\nhave identified.\\nCheck-in: You’ll check-in with instructor in the mid of the module to show the progress. This should be\\nan in-person meeting.\\nEvaluation: You’ll prepare a 5 minute presentation and a demo to showcase your project. It will be\\nevaluated by weighted voting by instructor and the class.\\nTeams: The Case Study can be done in groups of 2-3 students. We do not recommend single-member\\nteams given the amount of workload. You will sign up for groups through shared spreadsheet.\\nSubmitting: You are asked to submit a single zip file, composed of all your code on or before university\\nscheduled final exam.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 6462,
+        "end": 6937,
+        "text": "Participation\\nEach class will typically have a lecture component along with in-class activities such as mini case studies or\\nquizzes. Attending classes is highly beneficial, as active participation enhances the learning experience by\\nfacilitating real-time interaction, discussions, and engagement with course material. Moreover, you get\\nclass participation points (10% of your grade), rewarding students who consistently contribute to the\\ncollaborative learning environment.",
+        "label": "GRADE"
+      },
+      {
+        "start": 6938,
+        "end": 8434,
+        "text": "Course Plan\\n**Topics and the lecture dates are tentative. I will make changes or adaptations as necessary throughout\\nthe semester. The assignment due dates and midterm exam dates will remain the same as below. Any\\nchanges to this syllabus will be updated on Moodle, and announced in class.\\nWork to\\nConcepts\\nSubmit\\nPython application development cycle\\nCourse structure, and objectives, python project structure (data acquisition,\\n1 HW0\\nprocessing, visualization, deployment). Intro to argparse and CLI script for execution\\nflow\\nDesign Patterns\\n2 MVC separation of concerns, Basics of object oriented programming, defining model,\\nview, controller classes\\nWeb Messaging Basics of web messaging. Creating and consuming web based\\n3\\nmessages.\\nWeb scraping\\n4 Basics of scraping. Working with static and dynamic pages. Working with DOM and HW1\\nXPath. Bs4 and scrapy\\nVectorization and Scientific Computing\\n5\\nRefresher to Numpy, Vectorized computation\\nData Models. Focus on need to store data and retrieve data. Pandas refresher and\\n6\\nintro to relational databases sqllite db.\\nUser Interface\\n7 Basics of markdown, web application dashboarding, streamlit with separation of\\nconcerns\\nDesign Patterns and Debugging\\n8\\nTesting, mocking, logging\\nApplication Development\\n9\\nLLM primer, LLM based application development. LangChain etc.\\nDeployment and Projects\\n10 Deployment mechanisms, live dashboard vs standalone application, HW2\\npyinstaller/docker. Project checklist.\\n11 Class Presentation of the course project",
+        "label": "SCHEDULE"
+      },
+      {
+        "start": 8436,
+        "end": 8561,
+        "text": "Evaluation and Grading\\nClass Element Grade Percentage\\nIn-class participation/Quizzes 10%\\nProject 30%\\nAssignments 40%\\nExam 20%",
+        "label": "GRADE"
+      },
+      {
+        "start": 8562,
+        "end": 9666,
+        "text": "Important Policies and Resources\\nLate Assignment Policy\\n• No delay penalties, for medical/family/etc. emergencies (with written documentation, like\\ndoctor's note).\\n• Each student is given ‘2 slip days’ total for the whole course duration, to accommodate for\\ncoinciding deadlines/interviews/etc. That is, no questions asked, if the total delay is 2 days or less.\\no You can use the extension on any assignment during the course (unless otherwise stated).\\nFor instance, you can hand in one assignment 2 days late, or 2 different assignments 1 day\\nlate each.\\no Late days are rounded up to the nearest integer. For example, a submission that is 4\\nhours late will count as 1 day late.\\no After you have used up your slip days, any assignment handed in late will be marked off\\n25% per day of delay.\\n• To use slip days:\\no upload your solutions on Moodle to mark the time of submission\\no You can upload your modified files multiple times at different points in time. However,\\nplease note that we will use your latest upload date as the date of submission, even if you\\nhave modified only a small part of your files.",
+        "label": "LATE"
+      },
+      {
+        "start": 9667,
+        "end": 10258,
+        "text": "Collaboration Policy\\nYou are encouraged to discuss assignment problems with your fellow students. However, the work you\\nsubmit must be your own. You must acknowledge in your submission any help received on your\\nassignments. That is, you must include a comment in your homework submission that clearly states the\\nname of the student, book, or online reference from which you received assistance.\\nSubmissions that fail to properly acknowledge any help from other students or non-class sources will\\nreceive NO credit. Copied work will receive NO credit. Any and all violations will be reported.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 10259,
+        "end": 10951,
+        "text": "Using Generative AI: I strongly recommend collaborating with fellow students when approaching\\nassignments, as opposed to exclusively depending on resources like ChatGPT, Gemini, or similar services.\\n\\nWhile these tools can offer assistance, they cannot replicate the valuable learning journey that comes\\nfrom engaging directly with your assignments. If you find it necessary to utilize such tools, then you must\\nincorporate both the questions/prompts you posed to the AI agent and the corresponding responses as\\nan appendix to your assignment solution. This will greatly assist me in comprehending the progress of\\nyour analytical reasoning as it develops throughout the duration of the course.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 10952,
+        "end": 11406,
+        "text": "Class recordings: Class sessions will be recorded for educational purposes. You may decline to be\\nrecorded; if so, please contact me to identify suitable alternatives for class participation. If you can be\\npersonally identified in a recording, no other use is permitted without your formal permission. You may\\nnot record classes on your own without my express permission, and may not share the URL and/or\\npassword to anyone unaffiliated with this course.",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 11407,
+        "end": 11966,
+        "text": "Your behavior in these recordings, and in this class as a\\nwhole, must fulfill Brandeis standards:\\nBrandeis University is committed to providing its students, faculty and staff with an environment\\nconducive to learning and working, where all people are treated with respect and dignity [Brandeis\\nBusiness Conduct Policy p. 2, 2020]. You must refrain from any behavior toward members of our\\nBrandeis community, including students, faculty, staff, and guests, that intimidates, threatens,\\nharasses, or bullies [Student Rights & Responsibilities, p. 11, 2020 ed.]",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 11967,
+        "end": 13066,
+        "text": "Academic Integrity\\nEvery member of the University community is expected to maintain the highest standards of academic\\nintegrity. A student shall not submit work that is falsified or is not the result of the student's own effort.\\nInfringement of academic integrity by a student subjects that student to serious penalties, which may\\ninclude failure on the assignment, failure in the course, suspension from the University or other\\nsanctions. Please consult Brandeis University Rights and Responsibilities for all policies and procedures\\nrelated to academic integrity. Students may be required to submit work via TurnItIn.com or similar\\nsoftware to verify originality. A student who is in doubt regarding standards of academic integrity as they\\napply to a specific course or assignment should consult the faculty member responsible for that course or\\nassignment before submitting the work. Allegations of alleged academic dishonesty will be forwarded to\\nthe Department of Student Rights and Community Standards. Citation and research assistance can be\\nfound at Brandeis Library Guides - Citing Sources.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 13067,
+        "end": 13790,
+        "text": "Classroom Health and Safety\\n• Register for the Brandeis Emergency Notification System. Students who receive an emergency\\nnotification while attending class should notify their instructor immediately. In the case of a life-\\nthreatening emergency, call 911. As a precaution, review this active shooter information sheet.\\n• Brandeis provides this shuttle service for traveling across campus or to downtown Waltham,\\nCambridge and Boston.\\n• On the Brandeis campus, all students, faculty, staff and guests are required to observe the university's\\npolicies on physical distancing and mask-wearing to support the health and safety of all classroom\\nparticipants. Review up to date COVID-related health and safety policies regularly.",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 13792,
+        "end": 14082,
+        "text": "Course Materials/Books/Apps/Equipment\\nIf you are having difficulty purchasing course materials, please make an appointment with your Student\\nFinancial Services or Academic Services advisor to discuss possible funding options, including vouchers for\\npurchases made at the Brandeis Bookstore.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 14083,
+        "end": 14226,
+        "text": "Moodle\\nMoodle is the Brandeis learning management system. Login using your UNET ID and password. For\\nMoodle help, contact Library@brandeis.edu.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 14227,
+        "end": 14616,
+        "text": "Library\\nThe Brandeis Library collections and staff offer resources and services to support Brandeis students, faculty\\nand staff. Librarians and Specialists from Research & Instructional Services, Public Services, Archives & Special\\nCollections, Sound & Image Media Studios, MakerLab, AutomationLab, and Digital Scholarship Lab are\\navailable to help you through consultations and workshops.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 14617,
+        "end": 14959,
+        "text": "Privacy\\nTo protect your privacy in any case where this course involves online student work outside of Brandeis\\npassword-protected spaces, you may choose to use a pseudonym/alias. You must share the pseudonym/\\nalias with me and any teaching assistants as needed. Alternatively, with prior consultation, you may\\nsubmit such work directly to me.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 14960,
+        "end": 15582,
+        "text": "Student Support\\nBrandeis University is committed to supporting all our students so they can thrive. If a student, faculty, or\\nstaff member wants to learn more about support resources, the Support at Brandeis webpage offers a\\ncomprehensive list that includes these staff colleagues you can consult, along with other support\\nresources:\\n• The Care Team\\n• Academic Services (undergraduate)\\n• Graduate Student Affairs\\n• Directors of Graduate Studies in each department, School of Arts & Sciences\\n• Program Administrators for the Heller School and International Business School\\n• University Ombuds\\n• Office of Equal Opportunity.",
+        "label": "ADMIN"
+      }
+    ],
+    "validity": "Valid",
+    "notes": ""
+  },
+  {
+    "doc_id": "261FREN 10A 1 Beginning French Loic Lerme",
+    "semester": "Spring Semester 2026 (261)",
+    "school": "School of Arts, Humanities, and Culture",
+    "department": "French and Francophone Studies",
+    "course_name": "261FREN 10A 1 Beginning French Loic Lerme",
+    "annotator": "spencer",
+    "spans": [
+      {
+        "start": 70,
+        "end": 211,
+        "text": "Prof. Lerme\\nMonday, Wednesday, Thursday\\n10:10AM – 11AM\\nFriday\\n10AM – 10:50AM\\nShiffman 122\\nFinal Written Exam:\\nFriday, May 1 - Tuesday, May 12",
+        "label": "ADMIN"
+      },
+      {
+        "start": 212,
+        "end": 1342,
+        "text": "Bienvenue en Français 10 ! Welcome to French 10!\\nWelcome to your Beginning French class. This course will introduce\\nyou to the basics of a language rich in history, spoken on all five\\ncontinents, and now one of the fastest-growing languages in the world.\\nAs of 2022, there are reportedly around 321 million speakers of\\nFrench worldwide.1 Learning French will introduce you to a number of\\nforeign cultures and also broaden your range of real-world, practical\\nskills: French is an official working language of many international\\ninstitutions such as the United Nations, the European Union, and\\nFIFA – just to name a few.\\nIn this course, you will learn about many French-speaking\\ncultures around the globe through music, cinema, dialogues,\\nand of course, the written word.\\nOur hope is that the skills that you develop in this course will stay with\\nyou for years to come. Whether you are learning French to travel and\\nexplore different corners of the world, to read texts and understand\\nfilms in their original versions, or to communicate with a broader range\\nof people, this course will help establish the foundation of your\\njourney.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 1420,
+        "end": 2048,
+        "text": "CONTACT INFORMATION\\nProfessor: Loïc Lerme\\nEmail: llerme@brandeis.edu\\nOffice: Rabb 339a\\nStudent Hours: Monday & Wednesday 1:20pm-2:15pm, and by appointment (Zoom or in person)\\nClass communication: I will communicate important course updates through MOODLE or\\nBrandeis email. Sign-ups for interviews will be organized on a Shared Google Doc. Please be sure\\nto check your email every day before class.\\nBUGS TUTOR: The French tutor will be Naomi Stephenson (naomistephenson@brandeis.edu)\\nInclement weather policy: If there is a campus closure/snow day/delayed start/early closing, class\\nmay be cancelled, so please check your email.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 2049,
+        "end": 2285,
+        "text": "COURSE MATERIAL\\n-Textbook (electronic): Promenades (see instructions below on how to buy the textbook along with\\nthe workbook and how to access the “supersite”/electronic platform)\\n-Documents, videos, worksheets, links posted on MOODLE.",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 2286,
+        "end": 2493,
+        "text": "If you have difficulty purchasing course materials, please make an appointment with your Student\\nFinancial Services or Academic Services advisor to discuss possible funding options and alternative\\nsolutions.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 2494,
+        "end": 2897,
+        "text": "MOODLE\\nIt is essential that you consult MOODLE regularly for the following resources:\\n1. weekly schedule (“Programme”) of deadlines for homework, assignments, assessments, readings\\n2. PDFs and links to various assignments\\n3. announcements from your professor\\n4. any other information deemed necessary for this course and the benefit of your learning process\\n(such as cultural events you can/must attend)",
+        "label": "ADMIN"
+      },
+      {
+        "start": 2898,
+        "end": 4789,
+        "text": "LEARNING GOALS\\nGoals: Core Skills\\nThis course is designed to help you learn French at a basic, survival level and to introduce you to\\ndifferent countries and cultures. You will speak and write in French to express yourself in\\ninterpersonal situations (where you are exchanging information with other people) and in\\npresentational situations (where you are delivering information to others). You will also be able to\\nexplain main ideas and key words in French materials that you read and hear (interpretive\\ncommunication). You will explore cultural aspects of the French-speaking world (intercultural\\n2\\n\\ninvestigation) and learn to interact appropriately in basic situations with French speakers\\n(intercultural interaction).\\nDuring class, you will be asked to communicate in French to the best of your\\nabilities. Do not be discouraged by errors, challenges, or corrections – this is an\\nimportant part of the process. It is expected that you will make mistakes, and\\nindeed, if you are not making mistakes and speaking in perfect French, this is not\\nthe right class for you!\\nBy the end of the course, you will be able to:\\n• greet others and introduce yourself in a culturally appropriate manner.\\n• ask simple questions to clarify information given to you.\\n• describe your daily habits, hobbies, and interests, and ask questions to others about the\\nsame.\\n• recognize and produce fundamental sounds of French phonetics, pronunciation.\\n• understand the main ideas and some short parts of dialogue in movies.\\n• identify key words and verb tenses used in song lyrics.\\n• express yourself by writing and speaking in short, simple sentences.\\nYou will also be able to perform essential everyday tasks, such as:\\no extend, accept, and refuse social invitations.\\no order a meal at a restaurant.\\no go shopping for clothes.\\no pay for groceries.\\no discuss the weather.\\no describe past events in general terms.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 4790,
+        "end": 5664,
+        "text": "Goals: Knowledge\\nYou will come to be familiar with targeted elements of the French\\nspeaking world, including:\\n• cultural customs and expectations in everyday situations\\n• key points in the history of France and former French colonies\\n• French and Francophone personalities including visual artists, musicians, entrepreneurs,\\npoliticians, and chefs.\\nWe want your knowledge to last for years and remain relevant to your goals and interests. The\\nknowledge and skills you gain in this course can enrich your academic pursuits in history,\\nliterature, music, anthropology, or film. Learning French can also support your career goals,\\nwhether they are related to the arts, to public service, politics, or to science. Or you may become a\\nlife-long fan of French or Francophone cinema or music! Whatever path you choose, your\\nknowledge of French can open many exciting possibilities.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 5668,
+        "end": 6307,
+        "text": "Social justice, attitudes, and behaviors\\nLearning a foreign language such as French will enable you to gain a deeper\\nunderstanding of different regions of the world and support your participation as\\ninformed citizens in a global society.\\nThis course will specifically:\\n• expand your knowledge and awareness of traditions and artistic expressions of French and\\nFrancophone cultures.\\n• encourage you to reflect on your culture and weigh its similarities and differences against those\\nof other cultures.\\n• better understand what connects people worldwide – linguistically, culturally, and otherwise –\\nthrough study of texts, films, and music.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 6308,
+        "end": 6723,
+        "text": "COURSE STRUCTURE\\nWe will cover the first seven chapters of Promenades. At the end of every 2 chapters, there will be\\none oral and one written assessment.\\nSuccess in this four-credit course is based on the expectation that students will spend a minimum\\nof nine hours of study time per week in preparation for class (flash cards, grammar activities,\\nreading and listening comprehension activities, discussion boards).",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 6724,
+        "end": 7882,
+        "text": "ATTENDANCE\\nLearning to speak another language demands regular in-class participation. Your attendance counts\\nfor 10% of your final grade. You are allowed four absences for any reason* (this includes sick\\ndays); no justification or explanation will be required. However, each absence that exceeds the\\nallowed number will result in a lower grade in two ways: specifically, each additional absence will\\nresult both a lowered attendance grade (-10% of the attendance grade per absence over four) and\\n1% subtracted from the final course grade. Eight or more absences will result in a meeting with\\nyour professor and the Director of Languages to ascertain whether you can continue in the class,\\nand it may result in a failing course grade.\\nStudents in situations that will require them to be absent for an extended period (more than the\\nallowed number of absences) should contact their Academic Adviser; the Adviser will contact your\\nprofessor about excused absences.\\n*Absence due to accommodations, sports activities or religious obligations will be considered\\nseparately. If you must be absent from class for those reasons, please let me know in advance.\\nMerci !",
+        "label": "ATTEND"
+      },
+      {
+        "start": 7886,
+        "end": 8833,
+        "text": "PARTICIPATION\\nYour class participation, preparation and engagement are crucial to your success in this course. In-\\nclass participation grading factors include:\\n- Do you arrive to class on time and ready to start work? (*phones put away during class time)\\n- Do you speak in French to the best of your ability during class activities? (*frequently used\\nquestions memorized)\\n- Are you engaged throughout class, or do you leave for extended periods of time?\\nOut-of-class participation grading factors include:\\n-Do you prepare homework so that you are familiar with new vocabulary and grammar?\\n-Do you complete cultural readings/watch videos and prepare comments in French about them?\\n-Do you reach out to your instructor with questions, are you proactive when absent from class?\\n-Did you attend a French-related campus activity?\\nI will give you a participation grade out of 10 at the end of each week and will average these at the\\nend of the semester.",
+        "label": "ATTEND"
+      },
+      {
+        "start": 8834,
+        "end": 10222,
+        "text": "HOMEWORK\\nDaily homework is posted on MOODLE.\\nThere will be 2 types of homework in this class:\\n1) daily homework to complete BEFORE coming to class, usually consisting in some reading\\nalongside some activities to complete. Each reading for class is not particularly lengthy BUT\\nrequires 2 things: a) some consistent effort to commit words and concepts to memory, and b)\\nwillingness to work on pronunciation (speaking out loud). Practicing with a classmate, tutor, or\\nfriend will also help immensely.\\nThis course is based on a flipped-classroom model. You will interact with new information first as\\nhomework, usually a short video tutorial or reading from the e-textbook, and then in class. Class is\\nconducted entirely in French, so it is essential to complete homework on time to be able to\\nparticipate. I will not correct this homework individually, but your preparation will help you\\nparticipate in class and ensure a high participation grade.\\nTIP: If you find the homework difficult, be proactive in contacting me or the BUGS tutor, so that\\nwe can work together to find solutions. We are always happy to help.\\n2) end-of-chapter homework (GRADED). This homework will be submitted on the Promenades\\nsupersite (part of the Vista Higher Learning platform) as a bundle at the end of each chapter.\\nThese homework assignments are graded on: 1) completion on time; 2) accuracy of your answers.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 10223,
+        "end": 10867,
+        "text": "Here are the details on your homework submissions:\\n- the Promenades supersite allows you to have 2 attempts at each submission of the chapter\\nhomework\\n- after the first attempt, the platform will provide you with feedback on your errors so that\\nyou can correct them/edit your answers BEFORE submitting them a second (final) time\\n- Late submissions: You are allowed to submit your homework late BUT for each additional\\nday, your homework grade for the chapter will be lowered by 5% (IT’S GONNA HURT!)\\n- Please consider this homework as part of each chapter’s review before the quiz. Therefore,\\n5\\n\\ndo not wait till the last minute to complete it.",
+        "label": "LATE"
+      },
+      {
+        "start": 10868,
+        "end": 11643,
+        "text": "INSTRUCTIONS ON HOW TO ACCESS PROMENADES AND THE SUPERSITE\\n(WHERE TO SUBMIT END OF CHAPTER HOMEWORK)\\nENROLLMENT INFORMATION\\nINSTRUCTOR COURSE SECTION\\nLerme, Loic French 10A French 10A - Spring 2026\\nRETURNING STUDENT\\nIf you have an existing vhlcentral account, complete these steps:\\n• Log in at www.vhlcentral.com\\n• Select \"Enroll in a Course\" from the Home page and move on to Step 3 below\\nNEW STUDENT\\n1. Create Account\\nNavigate to www.vhlcentral.com/register and create an account.\\n2. Select School\\nSearch for, and join, your school: Brandeis University Waltham, MA .\\n3. Enroll\\nRefer to the information at the top of this page to locate and enroll in the correct course and\\nsection.\\n4. Access\\nRedeem a code only if prompted to do so, to gain access to your course materials.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 11644,
+        "end": 12244,
+        "text": "ASSESSMENTS\\nAt the end of every 2 chapters, you will complete 1 writing and 1 speaking assessment to gauge\\nhow are you doing with regard to the 4 core skills (writing, listening, reading and speaking). These\\nassessments can involve tasks such as a doing a mock job interview, a short presentation, or\\nunderstanding a short dialogue. There will be a final cultural presentation scheduled in groups\\nduring the last week of classes and a final written exam during the finals period. Please note that\\nyou may not miss an assessment except in the case of an emergency. All assessments are taken in\\nperson.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 12245,
+        "end": 12510,
+        "text": "GRADE CALCULATION AND COURSE REQUIREMENTS\\n6\\n\\nCourse Requirements Grade Percentage\\nAttendance 10%\\nParticipation 5%\\nHomework (VHL) 10%\\nEnd of unit in-class quizzes (3) 25%\\nEnd of unit speaking assessments (3) 20%\\nFinal cultural presentation 10%\\nFinal written exam 20%",
+        "label": "GRADE"
+      },
+      {
+        "start": 12511,
+        "end": 12638,
+        "text": "GRADING SCALE\\nA 100-93 C+ 79-77 D- 62-60\\nA- 92-90 C 76-73 Fail 59 and below\\nB+ 89-87 C- 72-70\\nB 86-83 D+ 69-67\\nB- 82-80 D 66-63",
+        "label": "GRADE"
+      },
+      {
+        "start": 12639,
+        "end": 12805,
+        "text": "In order to complete the language requirement with French, you will need to complete FREN 10\\nand FREN 20 with a minimum grade of C-, and FREN 32 with a passing grade.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 12806,
+        "end": 13667,
+        "text": "New this semester! Proficiency in Language Transcript Notation after\\ncompleting two courses beyond the language requirement (FREN 32)\\n• Successful completion of FREN 105 (or your course, if appropriate) entitles you to receive\\nthe Proficiency in Language Transcript Notation, which is a note on your transcript that\\nformally documents your achievement in language learning at Brandeis.\\n• The Notation explicitly recognizes your success at demonstrating an Intermediate-High level\\nof language proficiency and cultural understanding in French beyond the Brandeis Core\\nrequirement, and it officially commends you on your efforts to expand and maintain your\\nmultilingualism.\\n• If you are interested in the Transcript Notation, please contact Prof. Harder\\n(harder@brandeis.edu), the Director of the language program in French. She will register\\nyou for the notation.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 13668,
+        "end": 13963,
+        "text": "STUDY ABROAD\\nBeing fully immersed in a French speaking culture for a semester, or a year, is an opportunity\\nunlike any other. Students who want to find out more about programs should contact Prof. Sophia\\n7\\n\\nNiehaus, sophianiehaus@brandeis.edu, or the Office of Study Abroad, abroad@brandeis.edu.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 13964,
+        "end": 14363,
+        "text": "MAJORING OR MINORING IN FRENCH AND FRANCOPHONE STUDIES\\nIf you are thinking about pursuing a major or minor in French and Francophone Studies, you\\nshould speak with our Undergraduate Advising Head, Sophia Niehaus,\\nsophianiehaus@brandeis.edu, to discuss the prerequisites and requirements. She would be thrilled\\nto speak with you about how studies in our department could benefit your life and career!",
+        "label": "ADMIN"
+      },
+      {
+        "start": 14364,
+        "end": 14976,
+        "text": "IMPORTANT COURSE POLICIES\\nAcademic honesty\\nYou are expected to be familiar with, and to follow, the University’s policies on academic integrity. You\\nare expected to be honest in all your academic work. Please consult Brandeis University Rights and\\nResponsibilities for all policies and procedures related to academic integrity. Allegations of alleged\\nacademic dishonesty will be forwarded to Student Rights and Community Standards. Sanctions for\\nacademic dishonesty can include failing grades and/or suspension from the university. Citation and\\nresearch assistance can be found on the university library website.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 14977,
+        "end": 15891,
+        "text": "Accommodations\\nBrandeis seeks to create a learning environment that is welcoming and inclusive of all students, and\\nI want to support you in your learning. If you think you may require disability accommodations,\\nyou will need to work with Student Accessibility Support (SAS). You can contact them at 781-736-\\n3470, access@brandeis.edu, or visit the Student Accessibility Support home page. You can find\\nhelpful student FAQs and other resources on the SAS website, including guidance on how to know\\nwhether you might be eligible for support from SAS.\\nIf you already have an accommodation letter from SAS, please provide me with a copy as soon as\\nyou can so that I can ensure effective implementation of accommodations for this class, and so that\\nwe can discuss a plan for the semester. In order to coordinate exam accommodations, ideally you\\nshould provide the accommodation letter at least 48 hours before an exam.",
+        "label": "ACCOM"
+      },
+      {
+        "start": 15892,
+        "end": 16277,
+        "text": "Respectful environment\\nBrandeis University is committed to providing its students, faculty, and staff with an environment\\nconducive to learning and working, where all people are treated with respect and dignity. Please\\nrefrain from any behavior toward members of our Brandeis community, including students,\\nfaculty, staff, and guests, that intimidates, threatens, harasses, or bullies.",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 16278,
+        "end": 16539,
+        "text": "Cell phone use\\nCell phone use during class is a distraction. I rely on your maturity to keep your devices turned off\\nand put away for the duration of class. Using devices during class time or leaving class to use them\\nwill result in a lower participation grade.",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 16540,
+        "end": 17831,
+        "text": "AI generative tools\\nTaking a language course requires a special commitment to academic integrity. Our goal in this course is for\\nyou to learn to speak, read, listen and write in French; using translation tools or other means in which\\nothers do the work of this course for you is an obstacle to learning.\\nEffective learning requires you to work through difficulties that you may have in expressing your ideas and\\nin understanding what you hear and read. Effective learning requires you to use resources to figure out\\n8\\n\\nsolutions in order to better internalize them so you can mentally retrieve them and use them in the future.\\nAll your coursework must be your own work. Help (such as editing, correcting, composing, or writing an\\nassignment) from anyone outside this course (a tutor, fellow student, friend, or relative), from a website,\\nfrom an online translation tool (such as Google Translate) or from an auto-correction tool (available for\\nexample on Google Docs) is not permitted. Assignments that are not the product of your own work will not\\nbe accepted.\\nMoreover, using phrases, ideas, or even fragments from undocumented Internet sources, native speakers,\\nor other “helpers” such as artificial intelligence (such as Chat GPT) and Chatbots in this course will be\\nconsidered cheating.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 17832,
+        "end": 18001,
+        "text": "For good quality vocabulary help, I suggest using online dictionaries such as:\\n- Lexilogos.com\\n- Wordreference.com\\nFor grammar practice, I suggest www.francaisfacile.com",
+        "label": "ADMIN"
+      },
+      {
+        "start": 18005,
+        "end": 19639,
+        "text": "Date Topics Homework\\nJanuary 12 Bienvenue !\\n(Monday/Lundi)\\nJanuary 14 Unité 1\\nJanuary 15 Unité 1\\nJanuary 16 Unité 1\\nJanuary 19 Martin Luther King Jr. Day No class\\nJanuary 21 Unité 1\\nJanuary 22 Unité 1\\nJanuary 23 Unité 1\\nHomework for Unit 1 due on\\nJanuary 26 Unité 2\\nVHL by 11:59pm\\nJanuary 28 Unité 2\\nJanuary 29 Unité 2\\nJanuary 30 Unité 2\\nFebruary 2nd Unité 2\\nFebruary 4 Unité 2\\nFebruary 5 Review Unités 1 et 2 Homework for Unit 2 due\\non VHL by 11:59pm\\nFebruary 6 Quiz Unités 1 et 2 In class\\nFebruary 9 Interviews\\nFebruary 11 Interviews\\nFebruary 12 Unit 3\\nFebruary 13 Unité 3\\nFebruary 16-20 February break No class\\nFebruary 23rd Unité 3\\nFebruary 25 Unité 3\\nFebruary 26 Unité 3\\nFebruary 27 Unité 3\\nMarch 2nd Unité 4 Homework for Unit 3 due\\non VHL by 11:59pm\\nMarch 4 Unité 4\\nMarch 5 Unité 4\\nMarch 6 Unité 4\\nMarch 9 Unité 4\\n10\\n\\nMarch 11 Unité 4\\nMarch 12 Review day Units 3-4 Homework for Unit 4 due\\non VHL by 11:59pm\\nMarch 13 Quiz Unités 3 et 4 In class\\nMarch 16 Interviews\\nMarch 18 Interviews\\nMarch 19 Unité 5\\nMarh 20 Unité 5\\nMarch 23rd Unité 5\\nMarch 25 Unité 5\\nMarch 26 Unité 5\\nMarch 27 Unité 5\\nMarch 30 Unité 6 Homework for Unit 5 due\\non VHL by 11:59pm\\nApril 1st - April 9 Passover No class\\nApril 10 Unité 6\\nApril 13 Unité 6\\nApril 15 Unité 6\\nApril 16 Unité 6\\nApril 17 Unité 6\\nApril 20 Review day Units 5 and 6 Homework for Unit 6 due\\non VHL by 11:59pm\\nApril 22nd Quiz Unités 5 et 6\\nApril 23rd Interviews\\nApril 24 Interviews\\nApril 27 Unité 7 Presentations in my office\\nApril 28 Brandeis Thursday / Unité 7 Presentations in my office\\nApril 29 Unité 7 Presentations in my office\\nApril 30 Study Day No class\\nMay 1st-12 Final exam period\\n11",
+        "label": "SCHEDULE"
+      }
+    ],
+    "validity": "Valid",
+    "notes": ""
+  },
+  {
+    "doc_id": "261BUS 297C 1 Leadership Internships in Social Impact Organizations Ian Roy",
+    "semester": "Spring Semester 2026 (261)",
+    "school": "School of Business and Economics",
+    "department": "Business",
+    "course_name": "261BUS 297C 1 Leadership Internships in Social Impact Organizations Ian Roy",
+    "annotator": "spencer",
+    "spans": [
+      {
+        "start": 49,
+        "end": 415,
+        "text": "Contact Details\\nProfessor: Ian Roy\\nEmail: ianroy@brandeis.edu\\nOffice in the Library, Farber 2\\nMeeting Times\\nClasses\\nWednesday 5:40-7:00PM - Lemnberg 54 Classroom\\nOffice Hours\\nOffice hours are by appointment. Use email or the booking link below\\nhttps://bit.ly/meetwithianroy\\nWe can always meet on zoom, in my office, in the Lemberg Building, or in one of the BDI Labs",
+        "label": "ADMIN"
+      },
+      {
+        "start": 416,
+        "end": 2782,
+        "text": "Course Description and Objectives\\nCourse Description\\n“Real-world challenges. Real community partners. Leadership through action.”\\nLeadership in Social Impact Innovation is a two-semester course offering a total of 4 academic\\ncredits, 2 each semester. Both semesters are required, not optional. The fall class is a traditional\\nacademic offering with a weekly class meeting time in addition to the board fellow assignment.\\nThe spring term is centered on experiential work, both the amplification of board fellow role\\nand participation in Deis Hacks, our 48 hour hackathon for social good.\\nThis experiential learning graduate level class provides an opportunity for students to\\nindividually assume high level strategic, tactical and/or leadership assignments in social impact\\norganizations. Students may become a non-voting board fellow as part of their assignment\\nand/or may be providing board level strategic and tactical consulting, depending on the nature\\nof the host organization and the scope of each student’s particular assignment. All\\nopportunities will provide a forum for students to develop and amplify their own unique brand\\nof high stakes contributions to real world social impact organizations. A limited number of\\nundergraduate business majors will be accepted into the class.\\nAs part of their work, students will be exposed to high level organizational as well as business\\nleadership from the community. Most partnership organizations will be not for profits, but some\\nmay be social for profit enterprises and there may also be foundations and other social funding\\nassignments. Students will emerge from this experience with a unique multifaceted lens into\\nthe social innovation sector and their own personal abilities to impact entities, whether it be\\ncommercial or not for profit oriented, at a high stakes level.\\n\\nEach student will be paired with a social impact organization with a somewhat defined\\nresponsibility. Through class discussions as well as individual mentorship with the instructor and\\norganization leadership, his or her assignment will be developed and advanced. The objective\\nis to not function as an intern but rather, tackle a challenge with potential strategic impact and\\ntactical feasibility at a senior level. Students will provide weekly communication to their host\\norganization as well as the professor as to their activities.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 2783,
+        "end": 3062,
+        "text": "Participation in this course is by application only, to apply go to\\nhttps://students.global.brandeis.edu/register/Field_Project_Fall_2025\\nA phone interview may be a part of the selection process. Class is limited to 18 participants,\\neither at the undergraduate or graduate level.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 3063,
+        "end": 3858,
+        "text": "The primary student outcome is to gain high-level leadership, strategy and tactical experience\\nin real world organizations. As part of this class, students will be tackling roles rooted in one or\\nmore of the academic tracks of marketing, real estate, entrepreneurship, finance and data\\nanalytics. All assignments will be with organizations striving for social impact. The course counts\\nas elective credits for the Brandeis School of Business and Economics MBA and undergraduate\\nbusiness degree and this course will fulfill the general work practicum requirement for the MA\\nstudents. In addition, with the approval of the relevant program director, this course may also\\nfulfill the work practicum and capstone requirement of the Real Estate, Data Analytics and\\nMarketing concentrations of the MA.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 3859,
+        "end": 4551,
+        "text": "Credit Hours/Workload Statement\\nSuccess in this two-term, four- credit course is based on the expectation that students will\\nspend in addition to the weekly class time of 1 hour and 20 minutes in the fall term, another\\n4-5 hours weekly developing their work and in meetings with their host organizations.\\nIn the spring semester, the weekly work around the board fellow assignment expands and there\\nis a heavy concentration of strategic and leadership involvement in preparation for and during\\nDeis Hacks. There will not be weekly class meeting during this term but there will however be\\nseveral boot camp type sessions and one on one mentoring times with Professor Miller during\\nthe semester.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 4552,
+        "end": 5740,
+        "text": "Learning Goals and Outcomes\\n▪ Opportunity to utilize classroom learnings in a real-world experience that focuses on\\nindividual professional and personal growth\\n▪ Chance to be individually responsible for a high stakes role assignment with strategic\\nimpact\\n▪ Class will function as a cohort and will include cross training and collaboration among\\nstudents\\n▪ Responsibilities will include a presentation(s) to the organization’s board and\\nmanagement\\n▪ Exposure for students to high level decision-making for an organization\\n1\\n\\n▪ Opportunity to advance personal leadership skills as well as tactics and strategy around\\nreal-world challenges, opportunities and problems.\\n▪ Develop comfort level with functioning around the high-level leadership in\\norganizations that will likely include the board room.\\n▪ Enhance students’ resumes and contacts with experience working with real\\norganizations\\n▪ This responsibility can be noted on your resume with the organization’s name but be\\ncareful to state your role and not suggest or state you were an employee of the\\nsponsoring organization. It provides very interesting topics to discuss at a job interview\\nand distinguishes you from the competition.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 5741,
+        "end": 5846,
+        "text": "Prerequisites\\nMaturity, self-motivation, desire to succeed and strong communication abilities in English.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 5847,
+        "end": 7831,
+        "text": "Course Plan\\nThis class differs in many ways from the conventional course, which will create a number of\\nchallenges during the semesters. In particular, unlike the traditional class with its well-defined\\nstudent-instructor role, you must deal with multiple people relationships. First, my role is more\\nof a manager and mentor than a traditional lecturer and, depending on how well the\\nassignment is progressing, I will have anywhere from moderate to heavy involvement in your\\nassignment. You must also deal with your cohort class members who may have different ideas\\nand work styles. You will also have the sponsor host organization, with multiple people playing\\ndifferent roles relating to yours. Your success in this course will depend on your ability to rise to\\nthe challenge presented, operating independently, but with mentorship and high-level\\nguidance from the instructor.\\nIn taking this class you will experience a number of real-world frustrations, including: Lack of\\ncomplete role clarity\\n▪ Delays in communications and deadlines\\n▪ Changing assignment scope: bigger, narrower, or different\\n▪ Organizations can be unsure of what they are seeking from your role\\n▪ Your assignment may not always seem important to your host\\n▪ Constituents not responding to calls and emails and requests\\n▪ Organization sponsors or leaders leave their organizations\\nI want to assure you that this is the reality of both the business and social sector worlds.\\nLeaders are very busy and, in some cases, various individuals in the client organization might\\nbe in survival mode to keep their jobs. It is essential that you apply personal motivation and\\nindividual leadership to your work – develop your path and demonstrate your impact.\\nThis course will expose you to these real-world leadership/management challenges and\\nfrustrations, and more importantly, teach you how to rise up to meet them. For example, you\\nwill learn how persistence and diplomacy is central to functioning at the right level.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 7835,
+        "end": 8418,
+        "text": "Course Requirements\\nAcademic Integrity\\nYou are expected to be honest in all of your academic work. Please consult Brandeis Rights and\\nResponsibilities for all policies and procedures related to academic integrity. Students may be\\nrequired to submit work to TurnItinl.com software to verify originality. Allegations of alleged\\nacademic dishonesty will be forwarded to the director of academic integrity. Sanctions for\\nacademic dishonesty can include failing grades and/or suspension from the university. Citation\\nand research assistance can be found on the university library website.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 8419,
+        "end": 8663,
+        "text": "Communications\\nAll communication outside of class will take place via email and LATTE. If you have another\\nstudent working with your non-profit board, please discuss with one another which platform\\nyou are most comfortable using to communicate.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 8664,
+        "end": 10240,
+        "text": "Assignments\\nAll weekly class assignments will be posted on LATTE at the beginning of each week.\\nThe on-going project assignments with your host organization might involve a variety of\\nhigh-level organizational challenges and opportunities, such as:\\n▪ Developing a social media strategy and plan to advance organizational impact and\\nfoster community engagement\\n▪ Construct and early adoption of analytics for measuring an organization’s impact\\n▪ Anchoring the strategic plan for board leadership to achieve its objectives\\n▪ Assuming a role in shaping the institutional advancement of an organization to attract\\nincreased resources\\n▪ Design and institute financial modeling for organizations with an asset development\\norientation\\n▪ Constructing a strategic partnership between organizations to expand impact\\n▪ Real estate support to include acquisitions/dispositions, tax credits and advancement of\\naffordable housing programming\\nThe assignments/projects will expose students to a wide array of organizational leadership\\nchallenges that are found in all types of entities. Sponsoring organizations will range in size\\nfrom small and local to larger and multi-regional. They may be social enterprises organized as\\ncommercial entities or social sector (not for profit) organizations. The scope of student activities\\nwill include meetings at the organization and may include a non-voting board fellow role\\ndepending on the host organization. Students will be individually accountable however, there\\nmay be another student tackling a different role for the same sponsor organization.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 10241,
+        "end": 10479,
+        "text": "During the course of the year the fellows will assume a leadership role in a social impact\\nhackathon in conjunction with the Brandeis MakerLab. DeisHacks will be held January 30-31st,\\n2025 and participation is a requirement of the course.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 10483,
+        "end": 11793,
+        "text": "A high degree of maturity and self-motivation are important prerequisites for acceptance into\\nthe program. Additionally, assignments will require extensive communication within an\\norganization and its community. Accordingly, English language skills and a strong comfort level\\nwith social interactions at various levels are critical.\\nParticipation\\nAttendance and active participation in class is essential. Interaction with the class cohort is an\\nimportant aspect of a successful experience and students will be expected to demonstrate\\ncollaborative approach, often cross training one another in this course. Individual meeting\\ntimes with organizations will be situationally tailored to the host’s meeting schedule and are\\ncritical to a successful engagement. Participation in the social impact two-week hackathon is\\nalso a requirement of the class. The class time will include of a combination of class meetings\\nas well as individual meetings with the instructor. During both terms, there will be a series of\\nguest presentations from social entrepreneurs, not for profit executives as well as business\\nleaders active in board leadership. Students must attend class during the scheduled class time\\nwith video cameras on (if attending virtually) , unless pre-approved by the professor (different\\ntime-zone, etc).",
+        "label": "ATTEND"
+      },
+      {
+        "start": 11794,
+        "end": 11954,
+        "text": "Portfolio\\nPlease submit all weekly reflections in their respective folders on Moodle. All other material\\nshould be submitted via Moodle unless stated otherwise.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 11955,
+        "end": 13140,
+        "text": "Evaluation\\nThe individual student grades will be based on contribution/participation, deliverables, host\\nfeedback, extra effort, and work product.\\n35%: DELIVERABLES (QUALITY AND TIMELINESS)\\n▪ Development of project timeline\\n▪ Overall project for host organization\\n▪ Self-reflections/evaluation and weekly updates and weekly assignments\\n30%: FEEDBACK FROM HOST ORGANIZATION\\n▪ Timeliness\\n▪ Detail\\n▪ Initiative\\n▪ Follow through\\n▪ Creativity\\n30%: CLASS, BOOTCAMPS and HACKATHON ATTENDANCE AND PARTICIPATION\\n▪ Leadership in class\\n▪ Sharing ideas with class colleagues\\n▪ Initiative and engagement\\n5 %: EFFORT ABOVE AND BEYOND WHAT IS ANTICIPATED\\n▪ The individual student grade will consider such factors as: did the student demonstrate\\nmotivation, commitment and collaboration, arrive on time to every class; did the\\nstudent demonstrate resourcefulness and creativity in generating ideas and strategies to\\npursue the ideas; did the student meet deadlines; did the student demonstrate critical\\n4\\n\\nthinking; did the student demonstrate mastery of the subject matter by the end of the\\nproject; did the student effectively participate in class; was; did the student make\\neffective presentations.",
+        "label": "GRADE"
+      },
+      {
+        "start": 13141,
+        "end": 14941,
+        "text": "Expectations\\nThe following is an elaboration of what the instructor expects from student teams and how\\ngrades will be determined (note that the first two items are of paramount importance to client\\nsatisfaction and avoiding getting a low grade). Remember, in this course you are each an\\nambassador of the Brandeis School of Business and Economics, the client organization you are\\nrepresenting and yourselves – so always leave favorable impressions.\\n▪ Error-free work\\no facts, figures, and spreadsheets must be error-free. The instructor and - - in\\nparticular - - the host organization must not become the quality control\\ndepartment. Consistent errors in work will lead to a loss of confidence and a low\\ngrade in the course.\\n▪ Professional conduct\\no You must maintain a high level of professionalism in undertaking your work\\nincluding: maintaining client confidentiality; showing up for meetings and\\nconference calls on time; dressing professionally and appropriately for meetings;\\nand fulfilling commitments (e.g., deadlines and deliverables).\\n▪ Self-motivation\\no Students should be eager to pursue their role and project work as a matter of\\nself-interest in helping the organization as well as expanding their own personal\\nleadership growth. Accordingly, students should be self-motivated to work\\nthroughout both terms pursuing deeper impact.\\n▪ Independence\\no Your ability to work self-sufficiently is critical. To the extent that the scope of\\nwork requires instructor input - - as most do - - then instructor/student\\nbrainstorming is important, with the student then working independently week\\nto week.\\n▪ Team orientation\\no A collaborative approach is an essential aspect of this class. Students are\\nexpected to collaborate and share learning with one another through\\ndiscussions and presentations.",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 14942,
+        "end": 15551,
+        "text": "Essential Resources\\nAccommodations\\nBrandeis seeks to welcome and include all students. If you are a student who needs\\naccommodations as outlined in an accommodations letter, please talk with me and present\\nyour letter of accommodation as soon as you can. I want to support you. In order to provide\\ntest accommodations, I need the letter more than 48 hours in advance. I want to provide your\\naccommodations, but cannot do so retroactively. If you have questions about documenting a\\n5\\n\\ndisability or requesting accommodations, please contact Student Accessibility Support at\\n781-736-3470 or access@brandeis.edu.",
+        "label": "ACCOM"
+      },
+      {
+        "start": 15552,
+        "end": 15802,
+        "text": "Course Materials/Readings\\nUnlike most classes, this class does not have any exams. Therefore, active participation is\\nrequired to thrive in our class setting.\\nMaterials recommended for purchase, including textbooks, case packets and online materials.",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 15803,
+        "end": 17049,
+        "text": "The costs of textbooks and other course materials can present financial challenges for many of\\nour students. Please consider ways you can reduce costs for your students and promote\\nstudent success while complying with copyright law. Submit course reserve requests: Course\\nreserves help ensure that all students have access to materials. If you have extra copies of any\\ncourse texts, we encourage you to place these on reserve at the library for the semester.\\nExplore open educational resources and affordable materials with a librarian: OER are learning\\nresources such as articles, books, audio recordings, images, video, software and digital tools\\nthat instructors can reuse, revise and redistribute. Contact Laura Laura Hibbler associate\\nuniversity librarian for research and instruction, to discuss possibilities for reducing the expense\\nof course materials for your students through the use of OER and materials available through\\nlibrary subscriptions. You are also strongly encouraged to add this sentence to your syllabus: \"If\\nyou are having difficulty purchasing course materials, please make an appointment with your\\nstudent financial services or academic services adviser to discuss possible funding options\\nand/or textbook alternatives.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 17050,
+        "end": 17446,
+        "text": "Privacy\\nThis class requires the use of tools that may disclose your coursework and identity to parties\\noutside the class. To protect your privacy, you may choose to use a pseudonym/alias rather\\nthan your name in submitting such work. You must share the pseudonym/alias with me and any\\nteaching assistants as needed. Alternatively, with prior consultation, you may submit such work\\ndirectly to me.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 17447,
+        "end": 18564,
+        "text": "AI use in class\\nBecause this class is about innovation, I think it is key to leverage AI in meaningful ways. This\\nwill be the future of work, and I think it is essential that you develop the skills to set yourself\\napart from your peers by leveraging emerging technologies. However, for writing assignments\\nwhere you are asked to write in your own words, such as weekly updates, reflections, and\\nreports it is essential that you write it yourself and not use an AI to write it. You can use AI as a\\nsounding board, or as a critic to review and improve your writing - as long as you do the\\ncritical thinking first. For example, It is okay if you send your writing to an AI and ask it\\nsomething like: “Can you critique how my writing reads to a non subject matter expert?” or\\n“What questions should I be considering that I have not covered on this topic?” - that is\\nappropriate use of AI. As long as it is your voice and not a copy/paste of AI content, it can be a\\nuseful research tool. This is the essential skill we want to encourage and develop - but for this\\nskill to work, you have to do the critical thinking first.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 18568,
+        "end": 18842,
+        "text": "Required Readings / Optional Readings\\nAll required readings will be posted on Moodle at the beginning of each week. There may also\\nbe required readings and research associated with each host assignment.\\nApps or Tools/Equipment\\nAll resources and links can be found on Moodle.",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 18843,
+        "end": 18967,
+        "text": "LATTE\\nLATTE is the Brandeis learning management system: https://moodle.brandeis.edu/. Login\\nusing your UNET ID and password.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 18968,
+        "end": 20361,
+        "text": "Library\\nThe Brandeis Library collections and staff offer resources and services to support Brandeis\\nstudents, faculty and staff. These include workshops, consultations, collaboration, materials and\\ninstruction on emerging trends in technologies such as machine learning, emerging trends in\\nresearch such as data visualization, and emerging trends in scholarship such as open access.\\nStudents will undertake their own research to support their individual work and will spend time\\nideating on how to tackle challenges in an entrepreneurial fashion. Librarians at the Circulation\\nDesk, Research Help Desk, Archives & Special Collections, Sound & Image Media Studios,\\nMakerLab, AutomationLab, and Digital Scholarship Lab are available to help you.\\nhttps://www.brandeis.edu/library/about/index.html.\\nStudent Support\\nBrandeis University is committed to supporting all our students so they can thrive. The\\nfollowing resources are available to help with the many academic and non-academic factors\\nthat contribute to student success (finances, health, food supply, housing, mental health\\ncounseling, academic advising, physical and social activities, etc.). Please explore the many\\nlinks on this Support at Brandeis page\\n(https://www.brandeis.edu/support/undergraduate-students/browse.html) to find out more\\nabout the resources that Brandeis provides to help you and your classmates to achieve success.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 20362,
+        "end": 20625,
+        "text": "Teaching Continuity\\nTo maintain teaching/learning continuity in the case of campus closures, long-term absences,\\nor other disruptions, all updates will be sent via Moodle or email. To learn more about our\\nTeaching Continuity, please feel free to access this link.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 20626,
+        "end": 21421,
+        "text": "All students in this class are required to observe the university's policies on physical distancing\\nand mask-wearing to support the health and safety of all classroom participants. Face\\ncoverings must be worn by all students and instructors in classes with in-person meetings.\\nStudents and faculty must also maintain the appropriate 6 feet of physical distance from one\\nanother when entering, exiting, or being in the classroom and continue to sit in seats assigned\\nby the professor to assist the university in its contract-tracing efforts. All faculty and\\nstudents must also clean their work areas before and after each class session, using the\\nsanitizing wipes provided by the University. (All classrooms will also be professionally cleaned\\nby Brandeis custodial staff multiple times per day.)",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 21425,
+        "end": 23661,
+        "text": "Topics by week:\\nFall Semester 2025: Defining a Problem Worthy of Tackling\\nClass1: August 27th - Class Overview & Mock Design Challenge\\nClass2: September 3th - Give & Take Book Discussion / Alumni Panel\\nClass3: September 10th - Host Org Guest Lecture\\nClass4: September 17th - Marketing and Fundraising Panel\\nNO CLASS September 24th (Rosh Hashana)\\nNO CLASS October 1st (Yom Kippur)\\nClass5: October 8th - Present your Host Org's Marketing Strategy and their WHY to class\\nClass6: October 15th - Logic Models: Read up on LMs and prepare a rough one for your host\\norg for class\\nClass7: October 22th - Present your Host Org's Logic Model to class\\nClass8: October 29rd - Checkins and Big Projects\\nClass9: November 5th - Guest Panel: Corporate Social Responsibility (CSR)\\nClass10: November 12th - Design Thinking: Hands On Activity\\nClass11: November 19th - Design Thinking: Tools for DeisHacks in the MakerLab/ Automation\\nLab/ Digital Scholarship Lab\\nNO CLASS November 26th (Thanksgiving)\\nClass 12: December 3rd - Mock Board Presentations: Group 1\\nClass 13: December 10th - Mock Board Presentations: Group 2\\nFinal Deliverables: Due by end of day Monday December 16th\\nSpring Semester 2026: Building & Implementation Strategy\\nClass 1: January 14th - Preparing for DeisHacks with Tim Hebert\\nClass 2: January 22th - Preparing for DeisHacks & Meet The Non Profits with BDI\\nClass 3: January 28th - Meet the NonProfits Event\\nFriday January 30-Sunday January 31th: DEISHACKS HACKATHON\\nClass 4: February 4th - Around the room: DeisHacks outcomes & Make Your Hack Happen\\nClass 5: February 11th - Hacking a Hackathon & Making Your Hack Happen\\nFebruary 18th: NO CLASS FEBRUARY BREAK\\nClass 6: February 25th - Host Project Update Presentations & Project Implementation\\nClass 7: March 4th - 1:1s with Ian Roy Landing the Ship Strategy\\nClass 8: March 11th - 1:1s with Ian Roy Landing the Ship Strategy\\nClass 9: March 18th - GUEST LECTURE\\nClass 10: April 1st - GUEST LECTURE\\nApril 8th: NO CLASS APRIL BREAK\\nClass 11: April 15th - 1:1s with Ian Roy - Final project Feedback & Tweaks\\nClass 12: April 22rd - Mock Final Presentations\\nClass 13: April 29th - The Last Lecture\\n8\\n\\nFinal Deliverables: Monday May 4 9am Final Exam/ End of year Celebration in World Court\\n9",
+        "label": "SCHEDULE"
+      }
+    ],
+    "validity": "Valid",
+    "notes": ""
+  },
+  {
+    "doc_id": "242ENG 149A 1 Screenwriting Workshop Writing the Streaming Series ",
+    "semester": "Summer Semester 2024",
+    "school": "College of Arts and Sciences",
+    "department": "English",
+    "course_name": "242ENG 149A 1 Screenwriting Workshop Writing the Streaming Series ",
+    "annotator": "spencer",
+    "spans": [
+      {
+        "start": 56,
+        "end": 324,
+        "text": "Contact Details\\nProfessor Marc Weinberg\\nmarcw@brandeis.edu\\nOffice Hours: Please contact me by email to set up an office meeting.\\nMeeting Locations & Times\\nShiffman 125 or Zoom (https://brandeis.zoom.us/j/96989237974)\\nMondays, Tuesdays, & Thursdays 11:10 AM-1:40 PM EST",
+        "label": "ADMIN"
+      },
+      {
+        "start": 325,
+        "end": 970,
+        "text": "Course Description\\nSkills and knowledge\\nCombining lectures, workshops, and screenings, this course examines the fundamentals of writing for\\nsituation comedy and episodic drama. The course will examine story structure, characterization, scene\\nwriting, and dialogue. Students will move from ideation to writing a detailed outline and the first draft\\nof an original pilot script.\\nThis class is both workshop and lecture. You will read scripts from existing television series, pitch ideas\\nfor pilots, and write frequently. Assignments will be reviewed in class, meaning you will receive\\ncriticism on your pages, as well as critique classmates' work.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 971,
+        "end": 1479,
+        "text": "Learning Goals\\nThis course is designed to provide you with the tools necessary to develop and write your television\\npilot. By the end of the class, you will be able to:\\n1. Display an understanding of effective pitching skills.\\n2. Create a 3-7 act beat sheet for your entire teleplay.\\n3. Write a complete teleplay for an original pilot.\\n4. Develop a teleplay that includes the following key elements:\\n• The three-act structure\\n• Character arc and story arc\\n• Visual storytelling\\n• Beat outline\\n• Script format",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 1538,
+        "end": 1764,
+        "text": "Class preparation time\\nOn average, you can expect to spend 4-6 hours a week preparing for class. This may be through writing\\nscript pages, reading the textbook and additional readings, or watching assigned television programs.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 1765,
+        "end": 1880,
+        "text": "Prerequisites\\nWhile there is no prerequisite for the class, students are expected to have basic grammatical skills.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 1881,
+        "end": 3061,
+        "text": "Course Requirements\\nAcademic Integrity\\nEvery member of the University community is expected to maintain the highest standards of academic\\nintegrity. A student shall not submit work that is falsified or is not the result of the student's own\\neffort. Infringement of academic honesty by a student subjects that student to serious penalties, which\\nmay include failure on the assignment, failure in the course, suspension from the University or other\\nsanctions (see section 20 of R&R). Please consult Brandeis University Rights and Responsibilities for all\\npolicies and procedures related to academic integrity. Students may be required to submit work to\\nTurnItIn.com software to verify originality.\\nA student who is in doubt regarding standards of academic honesty as they apply to a specific course\\nor assignment should consult the faculty member responsible for that course or assignment before\\nsubmitting the work. Allegations of alleged academic dishonesty will be forwarded to the Department\\nof Student Rights and Community Standards. Citation and research assistance can be found at Brandeis\\nLibrary Guides - Citing Sources (https://guides.library.brandeis.edu/c.php?g=301723).",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 3062,
+        "end": 3175,
+        "text": "Assignments\\nAll written assignments should be converted into PDF format and emailed to the class by the due\\ndate.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 3176,
+        "end": 3947,
+        "text": "Participation\\n• You must keep up with all readings and assigned viewings.\\n• All assignments, whether they are graded or not, are mandatory and are expected on time. To\\nprevent lost pages and avoid late submissions, please save your work to the cloud each time\\nyou finish writing. Computer malfunction is NOT an excuse for a late submission.\\n• All homework must be typed and include your name, the date, and the assignment title.\\n• All work must be proofread for grammar, spelling errors and typos. Your work will be graded\\ndown for mistakes.\\n• Students are allowed two unexcused absences. A third unexcused absence will result in no\\ncredit for the class.\\n• Students joining class more than 10 minutes late are considered tardy; two tardies count as one\\nunexcused absence.",
+        "label": "ATTEND"
+      },
+      {
+        "start": 4006,
+        "end": 4417,
+        "text": "Attendance and Participation\\nClass meets three times weekly (Mondays, Tuesdays & Thursdays, 11:10 AM – 1:40 PM EST). The\\nexpectation is that you will participate in all class meetings. If you cannot take part in a meeting\\nbecause of extenuating circumstances, please contact me by email. You will still be expected to meet\\ncourse requirements (i.e. submitting pages and writing notes of your classmates' pages).",
+        "label": "ATTEND"
+      },
+      {
+        "start": 4418,
+        "end": 4657,
+        "text": "Late Work Policy\\nPlease communicate with me in a reasonable amount of time (preferably 24 hours before an\\nassignment due) if you'd like to request an extension on a specific assignment. Extensions will be\\npermitted on a case-by-case basis.",
+        "label": "LATE"
+      },
+      {
+        "start": 4658,
+        "end": 5056,
+        "text": "Communication Policy\\nEmail is an appropriate and preferred method for official communication. If I need to contact you\\noutside of class, I will use your Brandeis email address, and expect that you will read and respond to\\nthis communication in a timely manner. I will attempt to respond to students within 24 hours. If you\\nhave not received a reply from me within 24 hours, please resend the email.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 5057,
+        "end": 5524,
+        "text": "Portfolio\\nThroughout the semester, you will be expected to complete writing assignments, designed to show\\nyour growing expertise in dramatic writing and screenplay format. In some instances, assignments will\\nbe assigned, completed, and discussed, all in the same class meeting. Other times, you will have\\nanywhere from 1 to 3 weeks to complete a more challenging writing assignment. These scripts will be\\nemailed to me and your classmates by a predetermined due date.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 5525,
+        "end": 5722,
+        "text": "Portfolios can be maintained through a Google folder. Consult Ivan Nieves (ivannieves@brandeis.edu),\\nLead Analyst Technologist, Information Technology, Portfolio Services, for help with portfolios.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 5723,
+        "end": 6284,
+        "text": "Essential Resources\\nAccommodations\\nBrandeis seeks to welcome and include all students. If you are a student who needs accommodations\\nas outlined in an accommodations letter, I want to support you. In order to provide test\\naccommodations, I need the letter more than 48 hours in advance. I want to provide your\\naccommodations, but cannot do so retroactively. If you have questions about documenting a disability\\nof requesting accommodations, please contact Student Accessibility Support (SAS Student Accessibility\\nSupport) at 781.736.3470 or access@brandeis.edu.",
+        "label": "ACCOM"
+      },
+      {
+        "start": 6343,
+        "end": 6700,
+        "text": "Course Materials\\nIf you are having difficulty purchasing course materials, please make an appointment with your\\nStudent Financial Services or Academic Services advisor to discuss possible funding options and/or\\ntextbook alternatives.\\nIf you do not have proper computer equipment, you should contact the Administration for help at\\nemergencyfunds@brandeis.edu",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 6701,
+        "end": 6838,
+        "text": "Required Readings & Viewings\\nNone\\nAny required readings and viewings will be available on Latte or by email:\\n• Abbott Elementary (S01E05)",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 6839,
+        "end": 7235,
+        "text": "Apps or Tools/Equipment\\nYou are required to use a screenwriting program for this class. The preferred program is Final Draft, which\\nyou can download and use this semester for free at (https://www.finaldraft.com/edu-trial/).\\nYou may also use another free scriptwriting program, Celtx (http://www.celtx.com).\\nDo not use a standard word processing software, such as Microsoft Word, to write scripts.",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 7236,
+        "end": 7357,
+        "text": "LATTE\\nLATTE is the Brandeis learning management system: http://latte.brandeis.edu. Login using your UNET\\nID and password.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 7358,
+        "end": 7937,
+        "text": "Library\\nThe Brandeis Library collections and staff offer resources and services to support Brandeis students,\\nfaculty and staff. These include workshops, consultations, collaboration, materials and instruction on\\nemerging trends in technologies such as machine learning, emerging trends in research such as data\\nvisualization, and emerging trends in scholarship such as open access. Librarians at the Circulation\\nDesk, Research Help Desk, Archives & Special Collections, Sound & Image Media Studios, MakerLab,\\nAutomationLab, and Digital Scholarship Lab are available to help you.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 7988,
+        "end": 8471,
+        "text": "Privacy\\nThis class requires the use of tools that may disclose your coursework and identity to parties outside\\nthe class. Should you choose to use the screenwriting program, Celtx, your classwork will be stored\\nonline. To protect your privacy, you may wish to use a pseudonym/alias rather than your name in\\nsubmitting such work. You must share the pseudonym/alias with me and your classmates as needed.\\nAlternatively, with prior consultation, you may submit such work directly to me.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 8530,
+        "end": 9047,
+        "text": "Class sessions may be recorded for educational purposes. You may decline to be recorded; if so, please\\ncontact me to identify suitable alternatives for class participation. These recordings will be deleted\\nwithin two months after the end of the semester. If you can be personally identified in a recording, no\\nother use is permitted without your formal permission. You may not record classes on your own\\nwithout my express permission, and may not share the URL and/or password to anyone unaffiliated\\nwith this course.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 9048,
+        "end": 9509,
+        "text": "Your behavior in these recordings, and in this class as a whole, must fulfill Brandeis\\nstandards:\\nBrandeis University is committed to providing its students, faculty and staff with an environment\\nconducive to learning and working, where all people are treated with respect and dignity. You must\\nrefrain from any behavior toward members of our Brandeis community, including students, faculty,\\nstaff, and guests, that intimidates, threatens, harasses, or bullies.",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 9510,
+        "end": 10108,
+        "text": "Student Support\\nBrandeis University is committed to supporting all our students so they can thrive. The following\\nresources are available to help with the many academic and non-academic factors that contribute to\\nstudent success (finances, health, food supply, housing, mental health counseling, academic advising,\\nphysical and social activities, etc.). Please explore the many links on this Support at Brandeis page\\n(https://www.brandeis.edu/support/undergraduate-students/browse.html) to find out more about the\\nresources that Brandeis provides to help you and your classmates to achieve success.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 10109,
+        "end": 10349,
+        "text": "Evaluation & Course grading\\nEvaluation\\n• This class, as well as all creative writing courses at Brandeis, are offered exclusively on a\\ncredit/non-credit basis.\\n• All students will be evaluated according to the same percentages and criteria.",
+        "label": "GRADE"
+      },
+      {
+        "start": 10350,
+        "end": 10875,
+        "text": "• You must keep up with all readings and assigned viewings.\\n• All assignments, whether they are graded or not, are mandatory and are expected on time. To\\nprevent lost pages and avoid late submissions, please save your work to the cloud each time\\nyou finish writing. Computer malfunction is NOT an excuse for late submission.\\n• All homework must be typed and include your name, the date, and the assignment title.\\n• All work must be proofread for grammar, spelling errors and typos. Your work will be graded\\ndown for mistakes.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 10876,
+        "end": 11106,
+        "text": "• Students are allowed one unexcused absences. A second unexcused absence will result in no\\ncredit for the class.\\n• Students joining class more than 10 minutes late are considered tardy; two tardies count as\\none unexcused absence.",
+        "label": "ATTEND"
+      },
+      {
+        "start": 11107,
+        "end": 11152,
+        "text": "Class Element Grade % Due Date Learning Goals",
+        "label": "GRADE"
+      },
+      {
+        "start": 11211,
+        "end": 11376,
+        "text": "In-class participation 20%\\nTeaser and first act of your teleplay 10%\\nSecond act of your teleplay 10%\\nAssigned viewing 10%\\nCompleted beatsheet 10%\\nCompleted pilot 40%",
+        "label": "GRADE"
+      },
+      {
+        "start": 11377,
+        "end": 15596,
+        "text": "Course Plan\\nWEEK 1: Monday 6/3/2024 - Sunday 6/9/2024\\nWeek 1 Objectives\\nAfter completing this unit, you will be able to:\\n• Access the course site in Latte, and navigate to the course Syllabus and Units.\\n• Define the course requirements and components of your final grade.\\nWeek 1: To-Do List:\\n• DUE MONDAY, 6/3: Review Abbott Elementary beatsheet.\\n• DUE TUESDAY, 6/4: Read Topic Notes: How to Pitch an Episodic Pilot.\\n• DUE TUESDAY, 6/4: Download Final Draft screenwriting program\\n(https://www.finaldraft.com/edu-trial/).\\n• DUE THURSDAY, 6/6: Develop 2 original ideas for pilots. After presenting the premise of the\\npilot, pitch ideas for 3 episodes.\\nMONDAY, 6/3\\n● Introduction\\n● Screen Abbott Elementary.\\n● Pair off with classmates to develop an idea for an episodic series\\nTUESDAY, 6/4\\n● View the first act of Fargo while reading the script.\\n● Final Draft introduction\\n● Conflict and theme discussion\\n● Script format lecture\\nENG 149A: Writing the Streaming Series Summer '24 Page 1\\n\\nTHURSDAY, 6/6\\n● Students pitch two original ideas for series, as well as three episodes for each series.\\n● In-class assignment: work on your beatsheet.\\nWEEK 2: Monday 6/10/2023 – Sunday 6/16/2023\\nWeek 2 Objectives:\\nAfter completing this unit, you will be able to:\\n• Identify the inciting event in an episode of any series.\\n• Develop a pitch for your original series pilot.\\n• Complete a beatsheet for your original series pilot.\\nWeek 2 To-Do List\\n• DUE MONDAY, 6/10: Review Week 1 Powerpoint\\n• DUE MONDAY, 6/10: Flesh out the A, B, & C stories for your pilot into a beat sheet. Detail\\nthe arc of each story. Email your beatsheet to the professor.\\n• DUE THURSDAY, 6/13: Email your teaser to the professor and your classmates prior to the\\nstart of class (maximum 4 pages).\\nMONDAY, 6/10\\n● Read and discuss writing exercise.\\nTUESDAY, 6/11\\n● Screen cold opens.\\n● In-class assignment: write your cold open.\\nTHURSDAY, 6/13\\n● Read and discuss cold opens.\\nWEEK 3: Monday 6/17/2023 – Sunday 6/23/2023\\nENG 149A: Writing the Streaming Series Summer '24 Page 1\\n\\nWeek 3 Objectives\\nAfter completing this unit, you will be able to:\\n• Understand what makes for a compelling teaser.\\n• Write the first act of an original pilot.\\n• Build conflict into scenes, both internal and external\\nWeek 3 To-Do List\\n• DUE MONDAY, 6/17: Email your first set of pages to the professor and classmates prior to\\nthe start of class.\\n• DUE TUESDAY, 6/18: Email your next set of pages to the professor and your classmates\\nprior to the start of class.\\n• DUE THURSDAY, 6/20: Email your first act to the professor and your classmates prior to the\\nstart of class.\\nMONDAY, 6/17\\n● Read and discuss pages.\\nTUESDAY, 6/18\\n● Read and discuss pages.\\nTHURSDAY, 6/20\\n● Read and discuss pages, completing your first act.\\nWEEK 4: Monday 6/24/2023 – Sunday 6/30/2023\\nWeek 4 Objectives\\nAfter completing this unit, you will be able to:\\n• Continue working on your original series pilot.\\n• Deepen your understanding of your characters and how they drive storytelling.\\n• Have a deeper understanding of proper script format and writing techniques\\nWeek 4 To-Do List\\nENG 149A: Writing the Streaming Series Summer '24 Page 1\\n\\n• DUE MONDAY, 6/24: In-class read and discussion of second act pages.\\n• DUE TUESDAY, 6/25: In-class read and discussion of second act pages.\\n• DUE THURSDAY, 6/27: Email your complete second act to the professor and your\\nclassmates prior to the start of class.\\nMONDAY, 6/24\\n● Read and discuss pages.\\nTUESDAY, 6/25\\n● In-class assignment.\\nTHURSDAY, 6/27\\n● Read and discuss pages, completing your second act.\\nWEEK 5: Monday 7/1/2023 – Tuesday 7/2/2023\\nWeek 5 Objectives\\nAfter completing this unit, you will be able to:\\n• Improve your dialogue based on examples we've studied.\\n• Analyze structure and pacing in a variety of episodic series.\\n• Finish the first draft of your teleplay.\\n• Dazzle friends and family with your knowledge of television series and structure.\\nWeek 5 To-Do List\\n• DUE MONDAY, 7/1: Wrap-up party.\\n• DUE TUESDAY, 7/2: Your completed teleplay is due by 11 AM.\\nMONDAY, 7/1\\n● Wrap-up\\nENG 149A: Writing the Streaming Series Summer '24 Page 1\\n\\nTUESDAY, 7/2\\n● Email your completed PDF-formatted teleplay by 11:00 AM.\\nASSIGNMENT DUE IN 2 WEEKS (MONDAY, 7/15, 8 AM):",
+        "label": "SCHEDULE"
+      },
+      {
+        "start": 15597,
+        "end": 16070,
+        "text": "• IF YOU NEED EXTRA TIME AND DO NOT CARE TO RECEIVE NOTES, YOU MAY EMAIL YOUR\\nPAGES TO ME (MARCEWEINBERG@GMAIL.COM) BY MONDAY, 7/15, 8 AM. IF YOUR\\nWORK ARRIVES AFTER THIS TIME, YOUR WORK IS LATE. YOU MUST BE AVAILABLE BY\\nPHONE AND EMAIL FOR 48 HOURS AFTER SUBMITTING YOUR WORK SO I CAN CONTACT\\nYOU IN THE EVENT I DON'T RECEIVE YOUR EMAIL OR CAN'T OPEN YOUR FILES. IF I AM\\nUNABLE TO READ YOUR WORK AND CANNOT REACH YOU, YOU WILL NOT RECEIVE CREDIT\\nFOR YOUR FINAL ASSIGNMENT.",
+        "label": "ADMIN"
+      }
+    ],
+    "validity": "Valid",
+    "notes": ""
   }
 ]
