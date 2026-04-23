@@ -215,11 +215,21 @@ def run_training(train_dataset, dev_dataset, lr, epochs, batch_size,
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--smoke-test", action="store_true",
-                        help="Run a quick CPU test with a small data subset and fewer HP combos.")
+                        help="Verify the script runs: 200/50/50 lines, 1 combo.")
+    parser.add_argument("--quick", action="store_true",
+                        help="Run a reduced 12-combo grid on the full dataset for a fast performance check.")
     args = parser.parse_args()
+
+    if args.smoke_test and args.quick:
+        print("ERROR: --smoke-test and --quick are mutually exclusive.")
+        sys.exit(1)
 
     print()
     print("=== ROBERTA SENTENCE CLASSIFIER ===")
+    if args.quick:
+        print("  [quick mode] Running reduced grid (12 combos) on full dataset.")
+    elif args.smoke_test:
+        print("  [smoke-test] Running 1 combo on 200/50/50 lines.")
     print()
 
     for path in ("data/train.jsonl", "data/dev.jsonl", "data/test.jsonl"):
@@ -256,6 +266,14 @@ def main():
         grid = {
             "lr":           [2e-5],
             "epochs":       [2],
+            "batch_size":   [32],
+            "warmup_ratio": [0.06],
+            "weight_decay": [0.01],
+        }
+    elif args.quick:
+        grid = {
+            "lr":           [1e-5, 2e-5, 5e-5],
+            "epochs":       [3, 5],
             "batch_size":   [32],
             "warmup_ratio": [0.06],
             "weight_decay": [0.01],

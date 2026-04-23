@@ -290,6 +290,14 @@ python train_roberta_crf.py
 
 Loads the pre-saved RoBERTa logits and trains a CRF transition matrix on top using PyTorch. Documents are decoded jointly (Viterbi), capturing label sequence patterns that the independent RoBERTa classifier misses. Saves the transition matrix to `models/roberta_crf_transitions.pt` and results to `results/roberta_crf_results.json`.
 
+### For a Progress Check
+
+```bash
+python convert_to_sentences.py && python split_data.py && python train_crf.py --quick && python train_roberta.py --quick && python train_roberta_crf.py --quick
+```
+
+Runs all steps above with minimal hyperparameter tuning to quickly see how the models are performing.
+
 ### Results
 
 All three models write their test-set metrics to `results/` as JSON files and save confusion matrix PNGs. A summary of the comparison:

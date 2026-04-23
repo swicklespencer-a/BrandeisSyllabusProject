@@ -16,6 +16,11 @@ EVERY TIME YOU ANNOTATE:
     2. Run: python annotate.py start
     3. Annotate in your browser
     4. When done, run: python annotate.py finish
+
+FOR INTER-ANNOTATOR AGREEMENT (IAA):
+    Fill in IAA_DOC_IDS near the top of this file, then every team
+    member runs: python annotate.py start --iaa
+    Finish with the normal: python annotate.py finish
 """
 
 import json
@@ -32,6 +37,19 @@ LS_URL = "http://localhost:8080"
 PROJECT_NAME = "Syllabus Topic Annotation"
 BATCH_SIZE = 50  # syllabi are longer than dialogue excerpts, smaller batch
 RANDOM_SEED_BASE = 42
+
+# ── IAA doc_ids ────────────────────────────────────────────────
+# Fill this list with the doc_ids every annotator should label.
+# Run: python annotate.py start --iaa
+# Each team member annotates these same docs so compute_iaa.py
+# can measure inter-annotator agreement.
+IAA_DOC_IDS = [
+    "251FIN 231F 1 Private Equity Philippe Wells",
+    "253LING 120B 1 Syntax I Lotus Goldberg",
+    "253PHIL 107B 1 Kant's Moral Theory Kate Moran",
+    "261FA 110B 1 Senior Studio II Lu Heintz & Joseph Wardwell",
+    "242HS 249F 1 Social Justice, Management, and Policy ",
+]
 # ───────────────────────────────────────────────────────────────
 
 
@@ -386,6 +404,100 @@ def cmd_start():
     webbrowser.open(f"{LS_URL}/projects/{project_id}")
 
 
+def cmd_start_iaa():
+    config = load_config()
+    if 'api_token' not in config:
+        print("ERROR: Run 'python annotate.py setup' first.")
+        return
+
+    token = config['api_token']
+    name = config['annotator_name']
+
+    print()
+    print(f"=== STARTING IAA ANNOTATION SESSION ({name}) ===")
+    print()
+
+    if not IAA_DOC_IDS:
+        print("  ERROR: IAA_DOC_IDS is empty.")
+        print("  Open annotate.py and fill in the IAA_DOC_IDS list at the top.")
+        return
+
+    git_pull()
+
+    if not os.path.exists(TASKS_SOURCE):
+        print(f"  ERROR: {TASKS_SOURCE} not found.")
+        print("  Run prepare_for_label_studio.py first.")
+        return
+
+    with open(TASKS_SOURCE, 'r', encoding='utf-8') as f:
+        all_tasks = json.load(f)
+
+    task_by_id = {t['data']['doc_id']: t for t in all_tasks}
+
+    missing = [doc_id for doc_id in IAA_DOC_IDS if doc_id not in task_by_id]
+    if missing:
+        print(f"  ERROR: {len(missing)} doc_id(s) not found in {TASKS_SOURCE}:")
+        for m in missing:
+            print(f"    {m}")
+        return
+
+    # Filter to docs this annotator hasn't finished yet
+    already_done_by_me = set()
+    if os.path.exists(SHARED_ANNOTATIONS):
+        with open(SHARED_ANNOTATIONS, 'r', encoding='utf-8') as f:
+            existing = json.load(f)
+        already_done_by_me = {
+            a['doc_id'] for a in existing if a.get('annotator') == name
+        }
+
+    remaining = [doc_id for doc_id in IAA_DOC_IDS if doc_id not in already_done_by_me]
+    already_done_count = len(IAA_DOC_IDS) - len(remaining)
+
+    if already_done_count:
+        print(f"  You have already annotated {already_done_count}/{len(IAA_DOC_IDS)} IAA doc(s).")
+
+    if not remaining:
+        print("  You have already annotated all IAA documents!")
+        print("  Run: python annotate.py finish  (if you haven't pushed yet)")
+        return
+
+    batch = [task_by_id[doc_id] for doc_id in remaining]
+    print(f"  Loading {len(batch)} remaining IAA syllabi (skipping {already_done_count} already done).")
+
+    status = check_label_studio(token)
+    if status == "not_running":
+        print("  Label Studio is not running.")
+        print("  Open a SEPARATE terminal and run: label-studio start")
+        print("  Then run this command again.")
+        return
+    if status == "auth_failed":
+        print("  Label Studio is running, but your token was rejected.")
+        print("  Go to Account & Settings > Personal Access Token,")
+        print("  create a new one, then run: python annotate.py setup")
+        return
+
+    client = get_client(token)
+    project_id = find_or_create_project(client)
+    config['project_id'] = project_id
+    save_config(config)
+
+    print(f"  Importing {len(batch)} IAA syllabi into Label Studio...")
+    import_tasks(client, project_id, batch)
+
+    print()
+    print("=" * 50)
+    print("  READY! Open your browser to:")
+    print(f"  {LS_URL}/projects/{project_id}")
+    print()
+    print('  Click "Label All Tasks" to start annotating.')
+    print("  When done, run: python annotate.py finish")
+    print("=" * 50)
+    print()
+
+    import webbrowser
+    webbrowser.open(f"{LS_URL}/projects/{project_id}")
+
+
 def cmd_finish():
     config = load_config()
     if 'api_token' not in config:
@@ -487,20 +599,25 @@ def main():
     if len(sys.argv) < 2:
         print()
         print("Usage:")
-        print("  python annotate.py setup    (one-time setup)")
-        print("  python annotate.py start    (begin annotation session)")
-        print("  python annotate.py finish   (save and push when done)")
-        print("  python annotate.py status   (check team progress)")
+        print("  python annotate.py setup         (one-time setup)")
+        print("  python annotate.py start         (begin annotation session)")
+        print("  python annotate.py start --iaa   (annotate the shared IAA set)")
+        print("  python annotate.py finish        (save and push when done)")
+        print("  python annotate.py status        (check team progress)")
         print()
         return
 
     command = sys.argv[1].lower()
-    commands = {'setup': cmd_setup, 'start': cmd_start, 'finish': cmd_finish, 'status': cmd_status}
-    if command in commands:
-        commands[command]()
+    iaa_flag = "--iaa" in sys.argv[2:]
+
+    if command == "start" and iaa_flag:
+        cmd_start_iaa()
+    elif command in ("setup", "start", "finish", "status"):
+        {"setup": cmd_setup, "start": cmd_start,
+         "finish": cmd_finish, "status": cmd_status}[command]()
     else:
         print(f"Unknown command: {command}")
-        print("Use: setup, start, finish, or status")
+        print("Use: setup, start [--iaa], finish, or status")
 
 
 if __name__ == '__main__':
