@@ -5152,5 +5152,539 @@
     ],
     "validity": "Valid",
     "notes": ""
+  },
+  {
+    "doc_id": "243MATH 10A 1 Techniques of Calculus (a) McKee Krumpak",
+    "semester": "Fall Semester 2024 (243)",
+    "school": "College of Arts and Sciences",
+    "department": "Mathematics",
+    "course_name": "243MATH 10A 1 Techniques of Calculus (a) McKee Krumpak",
+    "annotator": "sam",
+    "spans": [
+      {
+        "start": 59,
+        "end": 360,
+        "text": "MATH 10a: Techniques of Calculus (a)\\nFall 2024\\nSection 1\\nInstructor: Mac Krumpak\\ne-mail address: mkrumpak@brandeis.edu\\nMeeting Time & Recitations:\\nMath 10a-1 will meet T/Th, 3:55 - 5:15 pm in Goldsmith 317.\\nRecitations are on Fridays, 2:20–4:20 pm and are required (used for assessment). Location TBD.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 361,
+        "end": 1014,
+        "text": "Calculus:\\nCalculus is one of the greatest intellectual achievements of humankind.\\nThe beautiful idea at the heart of this subject allows us to explore both\\nthe infinite and the infinitesimal. This gives us the tools to model and then\\nanalyze phenomena that change, i.e. pretty much anything!\\nLearning Goals for Math 10a:\\n1. Identify and apply key ideas and skills of Differential Calculus. This\\nwill be done by mastering the Outcomes detailed on the Brandeis\\nMoodle page.\\nFigure1: TheFourWords\\nSee more on “Mastery Grading” below.\\nat the Heart of Calculus\\n2. Transfer familiar concepts to unfamiliar contexts. (link)\\n3. Hone your problem solving skills.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 1015,
+        "end": 1069,
+        "text": "4. Develop and leverage a learning community for math.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 1070,
+        "end": 1477,
+        "text": "Text:\\nCalculus,VolumeI,byGilbertStrang: https://openstax.org/details/books/calculus-volume-1\\nThe textbook is freely available online. However, we will be reading it through Perusall\\n(https://perusall.com/ – required). You will have to pay $10 to access the text through\\nPerusall.\\nBrandeis Moodle:\\nAll course materials will be available online on Brandeis Moodle: https://moodle.brandeis.edu/\\nmy/courses.php.",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 1478,
+        "end": 2323,
+        "text": "Prerequisite:\\nA solid working knowledge of precalculus. You can check whether your precalculus is sufficient by\\ntaking the online math placement self-test (see http://www.brandeis.edu/registrar/newstudent/\\ntesting.html#mathtest). You can take our Math 5a (Precalculus) course to learn these skills.\\nIMPORTANT! We want you to succeed and experience shows that most students who struggle\\nwith Math 10a lack a solid knowledge of precalculus. You will have to work with expressions like:\\n• ln (cid:0) 3sint(cid:1) • ln (cid:16) √ 1 (cid:17) • e2x−5ex+6\\n3e\\n(cid:18) (cid:19)\\nln(x+2)\\n• sec\\nx+2\\n• a−2log\\na\\n(2) • ln(x2−1)−ln(x+1)\\nWe want you to take the math class that is the best fit for you. We are happy to help you figure out\\nwhich class that is. Please contact the course coordinator, Becci Torrey (rtorrey@brandeis.edu) if you\\nhave any questions.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 2384,
+        "end": 3944,
+        "text": "Mastery Grading\\nWhat is Mastery Grading?\\nMastery Grading is a grading structure that is designed to maxi-\\nmize student learning. It rewards good study habits like hard work,\\npersistence, repeated practice, review and reflection.\\nHere’s how it works:\\nOurcoursehasalistofContent Outcomes–thesearemathemat-\\nical facts and skills that comprise the content we are learning in this\\nclass. (Content outcomes include things like “Evaluate trig functions\\nof special angles.” and “Solve a word problem that involves a log scale.” – see the end of this syllabus\\nfor a complete list.)\\nOur Friday Assessments give you the opportunity to demonstrate mastery of the content we have\\ncoveredsofarinthecourse. Problemswillbegradedonacredit/no-creditbasis. Yourworkwillbeheld\\nto a high standard: demonstrating clear mastery of the material as determined by the grader. If you\\ndemonstrate mastery on a particular outcome you no longer need to do those problems on subsequent\\nFAs.\\nRe-dos: If you do not earn credit on a particular outcome, it does not count against you. But this\\nmeans you need to review/study/practice that concept or skill further so you’re ready to try again on\\nthe next FA.\\nThis structure is known as “high-frequency, low-stakes” assessment: we have a high frequency\\nof tests (8 total) but they are low stakes because getting something wrong doesn’t count against you.\\nWiththisgradingstructure, youcanbeconfidentateverypointinthesemesterthatyouhavestrong\\nskills in all the outcomes you mastered, and you will know exactly which skills and ideas need more\\nwork.",
+        "label": "GRADE"
+      },
+      {
+        "start": 3945,
+        "end": 5751,
+        "text": "Why do we like it?\\nThere are so many reasons why we like this system better than a traditional grading structure. Here\\nare just a few:\\n1. Everyone can do well. There’s no curve, so there’s no limit on how many students can get A’s.\\nOur goal is for everyone to learn the material and succeed in the class. We believe you can do it\\nand we designed this course to help you succeed.\\n2. It avoids the “bad day” catastrophe. In a traditional low-frequency, high-stakes testing system,\\none bad day can tank your entire grade. In this system, you can make up for a bad day next time.\\n3. Studentscanlearnatdifferentpacesandstillsucceed. Ifyou’restrugglingwithaparticularconcept\\nand don’t get it right away but keep working on it, you’re rewarded for learning it eventually just\\nthe same as someone who learned it immediately. So keep working – persistence is rewarded.\\n4. Highstandards: thecredit/no-creditgradingmeansyouknowyouarebeingheldtohighstandards\\nand can (and should!) be really proud of each and every credit you earn.\\n5. Unveiling of hidden expectations: our Practice Assessments can help you prepare directly for each\\nOutcome even before they are first released but it is always possible that you may discover other\\nexpectations when first encountering a skill in a test environment. The re-do structure allows you\\nto learn from one test and apply those lessons to the next test to demonstrate your newfound\\nlearning.\\n6. Clarity about learning: In this system, you have a detailed list of all the things you will learn\\nthroughoutthecourse. AsyoumasterdifferentOutcomes, youhaveaclearunderstandingofwhat\\nyou have already learned and what you still need to work on.\\n7. This structure rewards good study habits, like regular practice, review of past work, and a focus\\non full understanding of the material.",
+        "label": "GRADE"
+      },
+      {
+        "start": 5814,
+        "end": 6195,
+        "text": "How to succeed in this course:\\nThis structure may be new to you. Succeeding may\\nrequire you to adjust your study habits. Since this\\nstructure rewards good study habits, we hope you\\nwill reflect on your approach and adjust as neces-\\nsary. This should help you to build better study\\nhabits that you can apply to future classes as well.\\nHere are some tips to get off to a great start:",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 6196,
+        "end": 8701,
+        "text": "1. Attend class. This is essential. All learning is social and this is your primary opportunity to\\nmeet classmates with whom you can discuss the material both in and out of class. It is also your\\nbest opportunity to hear how the expert (your teacher) presents the material, ask questions in\\nreal time, set a routine, and keep up with the class.\\n2. Do your homework. Mathematical intuition is not inborn; you have to develop it. Homework\\nis a great way to do this. These assignments are designed to help you build that intuition. All\\nassignments have a series of easier problems that build up to harder problems so that you can\\nrecognize patterns and deeply ingrain your learning. The assignments also include challenging\\nproblems and problems that approach the material from different ways, so this is a great way to\\nprepare for the Challenge Outcomes.\\n3. Attend RAPS (Review, Advising and Preparation Stations). These will take place on\\nthe Fridays when we don’t have FAs. Review your past work, compare to our provided solutions,\\ntalk to your classmates and our staff to make sure you fully understand the concepts and the\\ntechniques. Then practice, practice, practice to ingrain that learning.\\n4. Talk to people. There is compelling research showing that students who form social groups\\naround academics are much more successful in college math classes than those who work alone.\\nYou will have opportunities to meet and talk to other students in class and RAPS, as well as in\\ntutoring and your instructor’s office hours. Utilize all these resources and form your own study\\ngroups.\\n5. Utilize office hours and tutoring. Upper class students and alum regularly regret not making\\nbetter use of resources like these. Add them to your calendar and attend regularly, even if you\\ndon’t have questions. These are great places to work on homework: they eliminate distractions\\nso you can focus and there’s an expert on hand if you get stuck or have questions. Check your\\nBrandeis Moodle page for details on instructor office hours.\\n6. Utilize Practice Assessments. These provide sample practice problems, grading rubric infor-\\nmation, and additional resources (usually videos and more practice problems) on the last page.\\n7. Review and reflect. Reflection is the foundation of learning. Reviewing past mistakes and\\nunderstandingwhatwentwrongisthekeytocorrectinganymisunderstandings, avoidingcommon\\nmistakes, and meeting expectations. We provide solutions to all FAs so you can compare your\\nwork to our solutions.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 8774,
+        "end": 9629,
+        "text": "We will cover the following sections from our textbook this semester:\\nNote: Some topics may be added or omitted as time permits.\\nSection Topic\\n2.1 A Preview of Calculus\\n2.2 Limit of a Function\\n2.3 Limit Laws\\n2.4 Continuity\\n3.1 Defining the Derivative\\n3.2 Derivative as a Function\\n3.3 Differentiation Rules\\n3.4 Derivatives as Rates of Change\\n3.5 Derivatives of Trig Functions\\n3.6 Chain Rule\\n3.8 Implicit Differentiation\\n3.9 Derivatives of Exp and Log Functions\\n4.1 Related Rates\\n4.3 Maxima and Minima\\n4.5 Derivatives and the Shape of a Graph\\n4.6 Limits at Infinity and Asymptotes\\n4.7 Applied Optimization Problems\\n4.8 l’Hospital’s Rule\\n4.10 Antiderivatives\\n5.1 Approximating Areas\\n5.2 Definite Integral\\n5.3 Fundamental Theorem of Calculus\\n5.4 Integration Formulas and Net Change Theorem\\n5.5 Substitution\\n5.6 Integrals involving Exp and Log Functions\\nOVER →",
+        "label": "GRADE"
+      },
+      {
+        "start": 0,
+        "end": 10837,
+        "text": "egnahc\\not\\ntcejbus\\n–\\n)4202\\n,72\\ntsuguA(\\nsuballyS\\nyranimilerP\\nMATH 10a: Techniques of Calculus (a)\\nFall 2024\\nSection 1\\nInstructor: Mac Krumpak\\ne-mail address: mkrumpak@brandeis.edu\\nMeeting Time & Recitations:\\nMath 10a-1 will meet T/Th, 3:55 - 5:15 pm in Goldsmith 317.\\nRecitations are on Fridays, 2:20–4:20 pm and are required (used for assessment). Location TBD.\\nCalculus:\\nCalculus is one of the greatest intellectual achievements of humankind.\\nThe beautiful idea at the heart of this subject allows us to explore both\\nthe infinite and the infinitesimal. This gives us the tools to model and then\\nanalyze phenomena that change, i.e. pretty much anything!\\nLearning Goals for Math 10a:\\n1. Identify and apply key ideas and skills of Differential Calculus. This\\nwill be done by mastering the Outcomes detailed on the Brandeis\\nMoodle page.\\nFigure1: TheFourWords\\nSee more on “Mastery Grading” below.\\nat the Heart of Calculus\\n2. Transfer familiar concepts to unfamiliar contexts. (link)\\n3. Hone your problem solving skills.\\n4. Develop and leverage a learning community for math.\\nText:\\nCalculus,VolumeI,byGilbertStrang: https://openstax.org/details/books/calculus-volume-1\\nThe textbook is freely available online. However, we will be reading it through Perusall\\n(https://perusall.com/ – required). You will have to pay $10 to access the text through\\nPerusall.\\nBrandeis Moodle:\\nAll course materials will be available online on Brandeis Moodle: https://moodle.brandeis.edu/\\nmy/courses.php.\\nPrerequisite:\\nA solid working knowledge of precalculus. You can check whether your precalculus is sufficient by\\ntaking the online math placement self-test (see http://www.brandeis.edu/registrar/newstudent/\\ntesting.html#mathtest). You can take our Math 5a (Precalculus) course to learn these skills.\\nIMPORTANT! We want you to succeed and experience shows that most students who struggle\\nwith Math 10a lack a solid knowledge of precalculus. You will have to work with expressions like:\\n• ln (cid:0) 3sint(cid:1) • ln (cid:16) √ 1 (cid:17) • e2x−5ex+6\\n3e\\n(cid:18) (cid:19)\\nln(x+2)\\n• sec\\nx+2\\n• a−2log\\na\\n(2) • ln(x2−1)−ln(x+1)\\nWe want you to take the math class that is the best fit for you. We are happy to help you figure out\\nwhich class that is. Please contact the course coordinator, Becci Torrey (rtorrey@brandeis.edu) if you\\nhave any questions.\\n\\negnahc\\not\\ntcejbus\\n–\\n)4202\\n,72\\ntsuguA(\\nsuballyS\\nyranimilerP\\nMastery Grading\\nWhat is Mastery Grading?\\nMastery Grading is a grading structure that is designed to maxi-\\nmize student learning. It rewards good study habits like hard work,\\npersistence, repeated practice, review and reflection.\\nHere’s how it works:\\nOurcoursehasalistofContent Outcomes–thesearemathemat-\\nical facts and skills that comprise the content we are learning in this\\nclass. (Content outcomes include things like “Evaluate trig functions\\nof special angles.” and “Solve a word problem that involves a log scale.” – see the end of this syllabus\\nfor a complete list.)\\nOur Friday Assessments give you the opportunity to demonstrate mastery of the content we have\\ncoveredsofarinthecourse. Problemswillbegradedonacredit/no-creditbasis. Yourworkwillbeheld\\nto a high standard: demonstrating clear mastery of the material as determined by the grader. If you\\ndemonstrate mastery on a particular outcome you no longer need to do those problems on subsequent\\nFAs.\\nRe-dos: If you do not earn credit on a particular outcome, it does not count against you. But this\\nmeans you need to review/study/practice that concept or skill further so you’re ready to try again on\\nthe next FA.\\nThis structure is known as “high-frequency, low-stakes” assessment: we have a high frequency\\nof tests (8 total) but they are low stakes because getting something wrong doesn’t count against you.\\nWiththisgradingstructure, youcanbeconfidentateverypointinthesemesterthatyouhavestrong\\nskills in all the outcomes you mastered, and you will know exactly which skills and ideas need more\\nwork.\\nWhy do we like it?\\nThere are so many reasons why we like this system better than a traditional grading structure. Here\\nare just a few:\\n1. Everyone can do well. There’s no curve, so there’s no limit on how many students can get A’s.\\nOur goal is for everyone to learn the material and succeed in the class. We believe you can do it\\nand we designed this course to help you succeed.\\n2. It avoids the “bad day” catastrophe. In a traditional low-frequency, high-stakes testing system,\\none bad day can tank your entire grade. In this system, you can make up for a bad day next time.\\n3. Studentscanlearnatdifferentpacesandstillsucceed. Ifyou’restrugglingwithaparticularconcept\\nand don’t get it right away but keep working on it, you’re rewarded for learning it eventually just\\nthe same as someone who learned it immediately. So keep working – persistence is rewarded.\\n4. Highstandards: thecredit/no-creditgradingmeansyouknowyouarebeingheldtohighstandards\\nand can (and should!) be really proud of each and every credit you earn.\\n5. Unveiling of hidden expectations: our Practice Assessments can help you prepare directly for each\\nOutcome even before they are first released but it is always possible that you may discover other\\nexpectations when first encountering a skill in a test environment. The re-do structure allows you\\nto learn from one test and apply those lessons to the next test to demonstrate your newfound\\nlearning.\\n6. Clarity about learning: In this system, you have a detailed list of all the things you will learn\\nthroughoutthecourse. AsyoumasterdifferentOutcomes, youhaveaclearunderstandingofwhat\\nyou have already learned and what you still need to work on.\\n7. This structure rewards good study habits, like regular practice, review of past work, and a focus\\non full understanding of the material.\\n2\\n\\negnahc\\not\\ntcejbus\\n–\\n)4202\\n,72\\ntsuguA(\\nsuballyS\\nyranimilerP\\nHow to succeed in this course:\\nThis structure may be new to you. Succeeding may\\nrequire you to adjust your study habits. Since this\\nstructure rewards good study habits, we hope you\\nwill reflect on your approach and adjust as neces-\\nsary. This should help you to build better study\\nhabits that you can apply to future classes as well.\\nHere are some tips to get off to a great start:\\n1. Attend class. This is essential. All learning is social and this is your primary opportunity to\\nmeet classmates with whom you can discuss the material both in and out of class. It is also your\\nbest opportunity to hear how the expert (your teacher) presents the material, ask questions in\\nreal time, set a routine, and keep up with the class.\\n2. Do your homework. Mathematical intuition is not inborn; you have to develop it. Homework\\nis a great way to do this. These assignments are designed to help you build that intuition. All\\nassignments have a series of easier problems that build up to harder problems so that you can\\nrecognize patterns and deeply ingrain your learning. The assignments also include challenging\\nproblems and problems that approach the material from different ways, so this is a great way to\\nprepare for the Challenge Outcomes.\\n3. Attend RAPS (Review, Advising and Preparation Stations). These will take place on\\nthe Fridays when we don’t have FAs. Review your past work, compare to our provided solutions,\\ntalk to your classmates and our staff to make sure you fully understand the concepts and the\\ntechniques. Then practice, practice, practice to ingrain that learning.\\n4. Talk to people. There is compelling research showing that students who form social groups\\naround academics are much more successful in college math classes than those who work alone.\\nYou will have opportunities to meet and talk to other students in class and RAPS, as well as in\\ntutoring and your instructor’s office hours. Utilize all these resources and form your own study\\ngroups.\\n5. Utilize office hours and tutoring. Upper class students and alum regularly regret not making\\nbetter use of resources like these. Add them to your calendar and attend regularly, even if you\\ndon’t have questions. These are great places to work on homework: they eliminate distractions\\nso you can focus and there’s an expert on hand if you get stuck or have questions. Check your\\nBrandeis Moodle page for details on instructor office hours.\\n6. Utilize Practice Assessments. These provide sample practice problems, grading rubric infor-\\nmation, and additional resources (usually videos and more practice problems) on the last page.\\n7. Review and reflect. Reflection is the foundation of learning. Reviewing past mistakes and\\nunderstandingwhatwentwrongisthekeytocorrectinganymisunderstandings, avoidingcommon\\nmistakes, and meeting expectations. We provide solutions to all FAs so you can compare your\\nwork to our solutions.\\n3\\n\\negnahc\\not\\ntcejbus\\n–\\n)4202\\n,72\\ntsuguA(\\nsuballyS\\nyranimilerP\\nSyllabus:\\nWe will cover the following sections from our textbook this semester:\\nNote: Some topics may be added or omitted as time permits.\\nSection Topic\\n2.1 A Preview of Calculus\\n2.2 Limit of a Function\\n2.3 Limit Laws\\n2.4 Continuity\\n3.1 Defining the Derivative\\n3.2 Derivative as a Function\\n3.3 Differentiation Rules\\n3.4 Derivatives as Rates of Change\\n3.5 Derivatives of Trig Functions\\n3.6 Chain Rule\\n3.8 Implicit Differentiation\\n3.9 Derivatives of Exp and Log Functions\\n4.1 Related Rates\\n4.3 Maxima and Minima\\n4.5 Derivatives and the Shape of a Graph\\n4.6 Limits at Infinity and Asymptotes\\n4.7 Applied Optimization Problems\\n4.8 l’Hospital’s Rule\\n4.10 Antiderivatives\\n5.1 Approximating Areas\\n5.2 Definite Integral\\n5.3 Fundamental Theorem of Calculus\\n5.4 Integration Formulas and Net Change Theorem\\n5.5 Substitution\\n5.6 Integrals involving Exp and Log Functions\\nOVER →\\n4\\n\\negnahc\\not\\ntcejbus\\n–\\n)4202\\n,72\\ntsuguA(\\nsuballyS\\nyranimilerP\\nGrades:\\nLetter Grade:\\nEach skill mastered on FAs counts toward either your Fundamental Outcomes or General Outcomes\\nscore in the chart below. See the last page of this syllabus for a full list of Outcomes.\\nAt the end of the semester, your letter grade will be calculated using the following table.\\nFundamental General\\nLetter Grade\\nOutcomes Outcomes\\nA+ 9 32\\nA 9 30\\nA− 9 29\\nB+ 8 28\\nB 8 27\\nB− 8 26\\nC+ 7 25\\nC 7 24\\nC− 7 23\\nD+ 6 21\\nD 6 20\\nD− 6 19\\nMinimums: You have to get both the Fundamental and General Outcomes scores for any given\\ngrade. In particular, if you have 7 points on the Fundamental Outcomes, the highest grade you can\\nearn is a C+, even if your General Outcomes score is higher than 25. The scores listed are minimums,\\ne.g., with a score of 28 on the General Outcomes, the highest grade you can earn is a B+ (since 28 is\\nless than the minimum of 29 points for A-).\\nE Grades: Failure to meet either of the D− standards will result in an E.\\nExamples:\\nSome examples of using this grading scheme are shown below:\\nFundamental General Final\\nStudent\\nOutcomes Outcomes Grade\\nAngela Davis 9 31 A\\nLeonard Bernstein 7 29 C+\\nThomas Friedman 8 20 D",
+        "label": "GRADE"
+      },
+      {
+        "start": 10838,
+        "end": 10855,
+        "text": "More on grading →",
+        "label": "GRADE"
+      },
+      {
+        "start": 10918,
+        "end": 14573,
+        "text": "Friday Assessments\\n• Closed Book, No Calculators, Provided Formula Sheet: TheFAsareclosedbook,meaning\\nthat no notes, books, or internet-connected devices are allowed during the FA. You are also not\\nallowed to use a calculator. However, we will include a formula sheet with some basic information\\nto help alleviate the burden of memorization and mistakes due to anxiety-induced blanking out.\\nYou will have the formula sheet ahead of time so you know what is on it.\\n• Makeups for FAs: For most FAs (when the schedule allows), we will provide a makeup exam\\nduring the FA recitation period following the regularly scheduled test. If you need to miss an FA,\\nyou can take the corresponding makeup test (but you would have to miss that week’s RAPS).\\nIn this case, you can just show up to the makeup the following week (no need to contact us in\\nadvance). If you took the regularly scheduled test, you may not take the corresponding makeup.\\nNote that there may be one or two FAs that do not have an associated makeup. If you happen\\nto miss that FA you will not have a makeup for that test, though you will still have multiple\\nopportunities to try those problems on subsequent FAs. See schedule later in the syllabus for\\nprecise details.\\n• Regrade Requests: We are all human and sometimes make mistakes, so please check your test\\nand submit a regrade request on Gradescope if, e.g, you forgot to select a page or selected the\\nwrongpage; youthinkthegradermighthavemissedsomethingorclickedthewrongrubricbutton;\\nor if you don’t understand why you didn’t get credit. One of our instructors will take another look\\nat your work and will make a final decision on whether you earned credit on that problem. If you\\ndid not earn credit, the grader will try to provide additional feedback so you can better prepare\\nfor the next FA. The grader’s decision on your regrade request is final. Regrade requests are\\ndue by midnight on the Wednesday after you took the FA. Late regrades requests will\\nnot be considered; you can always try that problem on the next FA.\\n• Final: We will hold a final during the registrar’s scheduled final exam period. The exact date\\nand time is determined by the registrar after the add/drop period. Please do not make end-of-\\nsemester travel plans until you know the final exam schedule.\\nOur final will consist of one additional FA. (It is not a traditional comprehensive final.)\\nThe final is the end of the semester. There is no extra credit or additional work after the final. All\\nhomework and participation assignments must be completed by the last deadline for your section\\nbut certainly before the final.\\nHomework and Participation:\\nThese are the last two General Outcomes. They are the only Outcomes that are not tested on FAs.\\nInstead, these are cumulative throughout the semester. You earn points for each assignment and these\\nare all added together (not averaged). You have to meet a certain minimum score to earn the point for\\neach of these two Outcomes.\\n• Homework (General Outcome #31):\\nYou will earn the point for this Outcome if you accumulate at least 200 HW points.\\nThere will be 25 homework assignments. Each assignment is worth 15 points: 5 points for com-\\npleting the assignment and 10 points for accuracy (we will grade 5 of the questions, each worth 2\\npoints). There is a total of 375 possible points; the threshold of 200 is a little more than half of\\nthe total possible points.\\nLate HW Policy: If you submit your homework late (after the grader grades that set), you can\\nstill earn the completion points but not the accuracy points for the particular problems (i.e., you\\ncan earn at most 5 points out of 15 for that assignment).",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 14636,
+        "end": 15244,
+        "text": "• Participation (General Outcome #32):\\nYou will earn the point for this Outcome if you accumulate at least 60 Participation points.\\nYourparticipationforthisclasswillbeacombinationofworktoprepareforclass(Perusallreadings\\nand comments) and work during class (Concept Checks, FA/RAPS reflections, and group work).\\nThere will be 25 reading assignments throughout the semester, each worth 2 points, and you can\\nearn 2 points during class on 25 occasions, for a total of 100 possible Participation points.\\nThere are some additional opportunities to earn extra Participation points. See Brandeis Moodle\\nfor details.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 15245,
+        "end": 15342,
+        "text": "If you have questions about how this course is graded, please do not hesitate to reach out to me!",
+        "label": "GRADE"
+      },
+      {
+        "start": 15343,
+        "end": 16969,
+        "text": "Resources to Help you Succeed\\nStudy Hours:\\nThis is time that I have set aside explicitly to help you do the homework, review course material,\\nand prepare for your Friday Assessments. Please make use of this resource! You don’t have to have\\nquestions prepared; you can just show up. See Brandeis Moodle for details.\\nPractice Assessments:\\nWe have Practice Assessments for each Content Outcome to help you prepare for the Friday As-\\nsessments. Complete solutions are provided and many files also have helpful videos and/or links to\\nadditional problems. These files also have Grading Rubric information to help you better understand\\nour expectations and criteria for each outcome. These practice assessments are optional (but strongly\\nrecommended!) and are for your use only. They have no effect on your grade.\\nPast FAs and Solutions:\\nPast FAs and Solutions will be posted here so you can compare your work with our solutions.\\nReview, Advising and Preparation Stations (RAPS): Staff will be on hand to help you review\\nyour last FA, prepare for the next one and develop optimal study strategies. We’re here to help you\\nidentify mistakes, correct misunderstandings, and make a plan to prepare for the next FA.\\nTutoring:\\nThe department provides some drop-in tutoring at no cost. The tutors are math graduate students\\nor advanced undergrads. Please take advantage of this excellent resource!\\nOther Course Information\\nCalculators:\\nCalculators are not allowed during quizzes or Friday Assessments. You should have access to a\\nscientific calculator for homework (you can use a free online one), but you do not need a graphing\\ncalculator.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 16970,
+        "end": 17695,
+        "text": "Academic Honesty:\\nYou are expected to be familiar with, and to follow, the University?s policies on academic integrity.\\nYou are expected to be honest in all of your academic work. Please consult Brandeis University Rights\\nand Responsibilities for all policies and procedures related to academic integrity. Allegations of alleged\\nacademic dishonesty will be forwarded to Student Rights and Community Standards. Sanctions for\\nacademic dishonesty can include failing grades and/or suspension from the university. Citation and\\nresearch assistance can be found on the university library website.\\nIf you have any questions, please contact Alex Rosett (arossett@brandeis.edu), Assistant Dean,\\nStudent Rights and Community Standards.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 17758,
+        "end": 18847,
+        "text": "Accommodations:\\nBrandeis seeks to create a learning environment that is welcoming and inclusive of\\nall students, and I want to support you in your learning. If you think you may require\\ndisability accommodations, you will need to work with Student Accessibility Support\\n(SAS). You can contact them at 781-736-3470, email them at access@brandeis.edu, or\\nvisit the Student Accessibility Support home page. You can find helpful student FAQs\\nand other resources on the SAS website, including guidance on how to know whether you\\nmight be eligible for support from SAS.\\nIf you already have an accommodation letter from SAS, please provide me with a copy as soon as\\nyou can so that I can ensure effective implementation of accommodations for this class. In order to\\ncoordinate exam accommodations, ideally you should provide the accommodation letter at least 48\\nhours before an exam.\\nExpectations for student contributions to coursework:\\nSuccess in this four-credit course is based on the expectation that students will contribute at least 9\\nhours of study time per week in preparation for class.",
+        "label": "ACCOM"
+      },
+      {
+        "start": 18848,
+        "end": 20345,
+        "text": "Timely communication:\\nUse your Brandeis email to reach out to me. I am usually able to respond quickly to most messages,\\nwithin 24 hours, although during the weekends and over holidays it could take me longer. If I reach\\nout to you, with a query or comment or in response to an email from you, I would appreciate it if you\\nwould acknowledge receipt of my message and/or respond with 24 hours, unless it is during weekend or\\nover a holiday. Note that we will use your Brandeis email address, so you need to check it regularly.\\nAll course announcements can be found in the Course News & Announcements page on Brandeis\\nMoodle.\\nName/Pronouns:\\nFeel free to let me know (and/or update me on) your name and/or pronouns, either by email or in\\nperson. Thanks!\\nAbout Me: Mac Krumpak\\nMy name is Mac. I was born in Seoul, Korea, adopted by an\\nAmerican family and grew up in Chandler, Arizona. I went\\nto college in Chicago and grad school at Brandeis. I’ve spent\\nthe last three years at Boston College and now I’m excited\\nto be back at Brandeis! In my spare time, I watch a lot of\\nsports, movies, and TV shows. Mostly a basketball guy, but\\nthe Diamondbacks are good this year, so I’ve been watching\\na lot of baseball. You may see me very happy or very sad at\\nsome point in October, depending on how the Dbacks do. If\\nyou have any movie or show recs, please share! As of writing\\nthis, I’ve been catching up with the show Industry.\\nCourse coordinator:\\nProfessor Becci Torrey, rtorrey@brandeis.edu, Goldsmith 222.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 20408,
+        "end": 21633,
+        "text": "Friday Schedule for the Semester:\\nOur Friday meetings will alternate between:\\n• Friday Assessments (FAs): Opportunities to demonstrate mastery on material covered so far\\nin the course, and\\n• Review, Advising and Preparation Stations (RAPS): Staff will be on hand to help you\\nreview your last FA, prepare for the next one and develop optimal study strategies.\\nMakeups for FAs: If you need to miss an FA, you can take a makeup on the following Friday (but\\nyou have to miss the RAPS session). Note that:\\n1. You cannot take a makeup if you took the regular FA.\\n2. There is no makeup for the makeup: if you miss the regular FA and its corresponding makeup,\\nyou just reset and move on to the next FA.\\n3. There is no makeup for FA #3 (just because of the schedule). If you miss FA #3, you just reset\\nand move on to FA #4.\\nDate Activities Outcomes Released\\nAug 30 FA #1 F1 - F5\\nPlacement Test\\nSep 6\\nRAPS\\nSep 13 FA #2 G1-G4\\nSep 20 RAPS\\nSep 27 FA #3 (no makeup) F6, G5-G9\\nOct 4 No classes / No FA\\nOct 11 No classes / No FA\\nOct 18 FA #4 F7-F8, G10-G13\\nOct 25 RAPS\\nNov 1 FA #5 F9, G14 - G18\\nNov 8 RAPS\\nNov 15 FA #6 G19 - G25\\nNov 22 RAPS\\nNov 29 No classes / No FA\\nDec 6 FA #7 G26 - G30\\nDec 10 (Tues) RAPS\\nTBD by registrar FA #8 (final FA)",
+        "label": "SCHEDULE"
+      },
+      {
+        "start": 21696,
+        "end": 21710,
+        "text": "Number Outcome",
+        "label": "SCHEDULE"
+      },
+      {
+        "start": 21732,
+        "end": 24653,
+        "text": "F1 Factor polynomials.\\nF2 Evaluate trig functions of special angles.\\nF3 Evaluate logarithms.\\nF4 Draw a graph composed of basic functions (transformations and/or piecewise).\\nF5 Solve a rational inequality.\\nF6 Determine information about a function from the graph of its derivative (or vice\\nversa).\\nF7 Calculate derivatives of functions.\\nF8 Find the equation of a tangent line to a curve at a given point.\\nF9 Identify the intervals on which a function is increasing and/or decreasing, and find\\nand classify local extrema.\\nsemoctuO\\nlareneG\\nG1 Demonstrate an understanding of the underlying concept of a limit using graphs.\\nG2 Evaluate a finite limit using the limit laws.\\nG3 Determine whether a function is continuous at a point.\\nG4 Solve a challenging problem that combines different skills and/or presents material\\nfrom Chapter 2 + Pre-Reqs in a different way.\\nG5 Find the equation of a tangent line to a curve at a given point, from a graph or\\nindirect information about the function.\\nG6 Demonstrate understanding of differentiability of a function at a point.\\nG7 Find the derivative of a function from the limit definition of derivative.\\nG8 Calculate derivatives of functions involving several differentiation rules.\\nG9 Solve a word problem on Chapter 3 material.\\nG10 Correctly find the derivative of an implicit function.\\nG11 Solve a challenging problem that combines different skills and/or presents material\\nfrom Chapters 2-3 + Pre-Reqs in a different way.\\nG12 Analyze a function from an abstract presentation of information about the function.\\nG13 Solve a problem involving at least two related rates.\\nG14 Use the Extreme Value Theorem to find and classify the absolute (global) extrema\\nof a function on a closed interval.\\nG15 Identify the intervals on which a function is concave up and/or concave down and\\nfind inflection points.\\nG16 Evaluate a limit at infinity using only properties of elementary functions (no LH).\\nG17 Evaluate an infinite limit using only properties of elementary functions (no LH).\\nG18 Graph a function using all our calculus techniques.\\nG19 Solve an optimization word problem using the methods of Calculus.\\nG20 Evaluate a limit using L’Hospital’s rule.\\nG21 Find horizontal and vertical asymptotes of a function.\\nG22 Calculate a direct antiderivative (indefinite integral).\\nG23 Solve a challenging problem that combines different skills and/or presents material\\nfrom Chapters 2-4 + Pre-Reqs in a different way.\\nG24 Solve a word problem on Chapter 4 material.\\nG25 Use a finite summation to approximate the area under a curve.\\nG26 Demonstrateanunderstandingoftheunderlyingconceptofanintegralusinggraphs.\\nG27 Use properties of integrals to compute an integral.\\nG28 Solve a word problem on Chapter 5 material.\\nG29 Evaluate a definite integral using the Fundamental Theorem of Calculus.\\nG30 Calculate an antiderivative (indefinite integral) involving u-substitution.\\nG31 Homework\\nG32 Participation",
+        "label": "SCHEDULE"
+      }
+    ],
+    "validity": "Valid",
+    "notes": ""
+  },
+  {
+    "doc_id": "251MATH 10B 3 Techniques of Calculus (b) Alan Hou",
+    "semester": "Spring Semester 2025 (251)",
+    "school": "College of Arts and Sciences",
+    "department": "Mathematics",
+    "course_name": "251MATH 10B 3 Techniques of Calculus (b) Alan Hou",
+    "annotator": "sam",
+    "spans": [
+      {
+        "start": 59,
+        "end": 427,
+        "text": "MATH 10b: Techniques of Calculus (b)\\nSpring 2025\\nSection 3\\nInstructor: Alan Hou\\nOffice: Goldsmith 102\\ne-mail address: hou@brandeis.edu\\nMeeting Times & Recitations:\\nThis section will meet T / Th 3:55 PM – 5:15 PM in Goldsmith 300 pm in-person.\\nRecitations are required (used for assessment) and will also be held in-person. They are Friday\\n2:20-4:20 pm in Schwartz 112.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 428,
+        "end": 1122,
+        "text": "Calculus:\\nCalculus is one of the greatest intellectual achievements of humankind.\\nThe beautiful idea at the heart of this subject allows us to explore both\\nthe infinite and the infinitesimal. This gives us the tools to model and then\\nanalyze phenomena that change, i.e. pretty much anything!\\nLearning Goals for Math 10b:\\n1. Identify and apply key ideas and skills of Integral Calculus. This will\\nbe done by mastering the Outcomes detailed on the Latte page. See\\nmore on “Mastery Grading” below.\\nFigure1: TheFourWords\\n2. Transfer familiar concepts to unfamiliar contexts. at the Heart of Calculus\\n(link)\\n3. Hone your problem solving skills.\\n4. Develop and leverage a learning community for math.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 1123,
+        "end": 1529,
+        "text": "Prerequisite:\\nMath 10a, equivalent credit, or a satisfactory score on the math depart-\\nment’s calculus placement self-test:\\nhttp://www.brandeis.edu/registrar/newstudent/testing.html\\nWe want you to take the math class that is the best fit for you. We are happy to help you figure out\\nwhich class that is. Please contact the course coordinator, Becci Torrey (rtorrey@brandeis.edu), if you\\nhave any questions.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 1530,
+        "end": 2009,
+        "text": "Text:\\nCalculus,VolumeII,byGilbertStrang: https://openstax.org/details/books/calculus-volume-2\\nThetextbookisfreelyavailableonline, however, we will be reading it through Perusall (https:\\n//perusall.com/ – required). You will have to pay $10 to access the text through Perusall.\\nPlease note: this is a different text than we have used in past semesters.\\nBrandeis Moodle:\\nAll course materials will be available online on Brandeis Moodle: https://moodle.brandeis.edu/\\nmy/courses.php.",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 2070,
+        "end": 5437,
+        "text": "Mastery Grading\\nWhat is Mastery Grading?\\nMastery Grading is a grading structure that is designed to maxi-\\nmize student learning. It rewards good study habits like hard work,\\npersistence, repeated practice, review and reflection.\\nHere’s how it works:\\nOurcoursehasalistofContent Outcomes–thesearemathemat-\\nical facts and skills that comprise the content we are learning in this\\nclass. (Content outcomes include things like “Evaluate trig functions\\nof special angles.” and “Solve a word problem that involves a log scale.” – see the end of this syllabus\\nfor a complete list.)\\nOur Friday Assessments give you the opportunity to demonstrate mastery of the content we have\\ncoveredsofarinthecourse. Problemswillbegradedonacredit/no-creditbasis. Yourworkwillbeheld\\nto a high standard: demonstrating clear mastery of the material as determined by the grader. If you\\ndemonstrate mastery on a particular outcome you no longer need to do those problems on subsequent\\nFAs.\\nRe-dos: If you do not earn credit on a particular outcome, it does not count against you. But this\\nmeans you need to review/study/practice that concept or skill further so you’re ready to try again on\\nthe next FA.\\nThis structure is known as “high-frequency, low-stakes” assessment: we have a high frequency\\nof tests (8 total) but they are low stakes because getting something wrong doesn’t count against you.\\nWiththisgradingstructure, youcanbeconfidentateverypointinthesemesterthatyouhavestrong\\nskills in all the outcomes you mastered, and you will know exactly which skills and ideas need more\\nwork.\\nWhy do we like it?\\nThere are so many reasons why we like this system better than a traditional grading structure. Here\\nare just a few:\\n1. Everyone can do well. There’s no curve, so there’s no limit on how many students can get A’s.\\nOur goal is for everyone to learn the material and succeed in the class. We believe you can do it\\nand we designed this course to help you succeed.\\n2. It avoids the “bad day” catastrophe. In a traditional low-frequency, high-stakes testing system,\\none bad day can tank your entire grade. In this system, you can make up for a bad day next time.\\n3. Studentscanlearnatdifferentpacesandstillsucceed. Ifyou’restrugglingwithaparticularconcept\\nand don’t get it right away but keep working on it, you’re rewarded for learning it eventually just\\nthe same as someone who learned it immediately. So keep working – persistence is rewarded.\\n4. Highstandards: thecredit/no-creditgradingmeansyouknowyouarebeingheldtohighstandards\\nand can (and should!) be really proud of each and every credit you earn.\\n5. Unveiling of hidden expectations: our Practice Assessments can help you prepare directly for each\\nOutcome even before they are first released but it is always possible that you may discover other\\nexpectations when first encountering a skill in a test environment. The re-do structure allows you\\nto learn from one test and apply those lessons to the next test to demonstrate your newfound\\nlearning.\\n6. Clarity about learning: In this system, you have a detailed list of all the things you will learn\\nthroughoutthecourse. AsyoumasterdifferentOutcomes, youhaveaclearunderstandingofwhat\\nyou have already learned and what you still need to work on.\\n7. This structure rewards good study habits, like regular practice, review of past work, and a focus\\non full understanding of the material.",
+        "label": "GRADE"
+      },
+      {
+        "start": 5500,
+        "end": 8387,
+        "text": "How to succeed in this course:\\nThis structure may be new to you. Succeeding may\\nrequire you to adjust your study habits. Since this\\nstructure rewards good study habits, we hope you\\nwill reflect on your approach and adjust as neces-\\nsary. This should help you to build better study\\nhabits that you can apply to future classes as well.\\nHere are some tips to get off to a great start:\\n1. Attend class. This is essential. All learning is social and this is your primary opportunity to\\nmeet classmates with whom you can discuss the material both in and out of class. It is also your\\nbest opportunity to hear how the expert (your teacher) presents the material, ask questions in\\nreal time, set a routine, and keep up with the class.\\n2. Do your homework. Mathematical intuition is not inborn; you have to develop it. Homework\\nis a great way to do this. These assignments are designed to help you build that intuition. All\\nassignments have a series of easier problems that build up to harder problems so that you can\\nrecognize patterns and deeply ingrain your learning. The assignments also include challenging\\nproblems and problems that approach the material from different ways, so this is a great way to\\nprepare for the Challenge Outcomes.\\n3. Attend RAPS (Review, Advising and Preparation Stations). These will take place on\\nthe Fridays when we don’t have FAs. Review your past work, compare to our provided solutions,\\ntalk to your classmates and our staff to make sure you fully understand the concepts and the\\ntechniques. Then practice, practice, practice to ingrain that learning.\\n4. Talk to people. There is compelling research showing that students who form social groups\\naround academics are much more successful in college math classes than those who work alone.\\nYou will have opportunities to meet and talk to other students in class and RAPS, as well as in\\ntutoring and your instructor’s office hours. Utilize all these resources and form your own study\\ngroups.\\n5. Utilize office hours and tutoring. Upper class students and alum regularly regret not making\\nbetter use of resources like these. Add them to your calendar and attend regularly, even if you\\ndon’t have questions. These are great places to work on homework: they eliminate distractions\\nso you can focus and there’s an expert on hand if you get stuck or have questions. Check your\\nBrandeis Moodle page for details on instructor office hours.\\n6. Utilize Practice Assessments. These provide sample practice problems, grading rubric infor-\\nmation, and additional resources (usually videos and more practice problems) on the last page.\\n7. Review and reflect. Reflection is the foundation of learning. Reviewing past mistakes and\\nunderstandingwhatwentwrongisthekeytocorrectinganymisunderstandings, avoidingcommon\\nmistakes, and meeting expectations. We provide solutions to all FAs so you can compare your\\nwork to our solutions.",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 8450,
+        "end": 9549,
+        "text": "Syllabus:\\nWe will cover the following sections from our textbook this semester:\\nNote: Some topics may be added or omitted as time permits.\\nSection Topic\\nInverse Functions & Derivatives of\\n1.1 Approximating Areas\\n1.2 The Definite Integral\\n1.3 Fundamental Theorem of Calculus\\n1.4 Integration Formulas and the Net Change Theorem\\n1.5 Substitution\\n1.6 Integrals involving exp & log functions\\n1.7 Integrals resulting in Inverse Trig Functions\\n2.1 Areas Between Curves\\n2.2 Determining Volumes by Slicing\\n3.1 Integration by Parts\\n3.4 Partial Fractions\\n3.7 Improper Integrals\\n4.1 Basics of Differential Equations\\n4.3 Separable Equations\\n5.1 Sequences\\n5.2 Infinite Series\\n5.3 Divergence and Integral Tests\\n5.4 Comparison Tests\\n5.5 Alternating Series\\n5.6 Ratio and Root Tests\\n6.1 Power Series and Functions\\n6.2 Properties of Power Series\\n6.3 Taylor and Maclaurin Series\\n6.4 Working with Taylor Series\\nText:\\nCalculus,VolumeII,byGilbertStrang: https://openstax.org/details/books/calculus-volume-2\\nThe textbook is freely available online. Please note: this is a different text than we have used in past\\nsemesters.",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 9627,
+        "end": 10757,
+        "text": "Letter Grade:\\nEach credit (1 point on Gradescope) will count towards your mastery of either your Fundamental\\nOutcomes or General Outcomes in the chart below.\\nAt the end of the semester, your letter grade will be calculated using the following table.\\nFundamental General\\nLetter Grade Outcomes Outcomes\\nMastered Mastered\\nA+ 10 32\\nA 10 30\\nA- 10 29\\nB+ 9 28\\nB 9 27\\nB- 9 26\\nC+ 8 25\\nC 8 24\\nC- 8 23\\nD+ 7 21\\nD 7 20\\nD- 7 19\\nMinimums: You have to get both the Fundamental and General Outcomes scores for any given\\ngrade. In particular, if you have 8 points on the Fundamental Outcomes, the highest grade you can\\nearn is a C+, even if your General Outcomes score is higher than 25. The scores listed are minimums,\\ne.g., with a score of 28 on the General Outcomes, the highest grade you can earn is a B+ (since 28 is\\nless than the minimum of 29 points for A-).\\nFailure to meet any of the D-range standards will result in an E.\\nExamples:\\nSome examples of using this grading scheme are shown below:\\nFundamental General\\nFinal\\nStudent Outcomes Outcomes\\nGrade\\nMastered Mastered\\nAngela Davis 8 26 C+\\nLeonard Bernstein 10 24 C\\nThomas Friedman 9 19 D−",
+        "label": "GRADE"
+      },
+      {
+        "start": 10820,
+        "end": 14475,
+        "text": "Friday Assessments\\n• Closed Book, No Calculators, Provided Formula Sheet: TheFAsareclosedbook,meaning\\nthat no notes, books, or internet-connected devices are allowed during the FA. You are also not\\nallowed to use a calculator. However, we will include a formula sheet with some basic information\\nto help alleviate the burden of memorization and mistakes due to anxiety-induced blanking out.\\nYou will have the formula sheet ahead of time so you know what is on it.\\n• Makeups for FAs: For most FAs (when the schedule allows), we will provide a makeup exam\\nduring the FA recitation period following the regularly scheduled test. If you need to miss an FA,\\nyou can take the corresponding makeup test (but you would have to miss that week’s RAPS).\\nIn this case, you can just show up to the makeup the following week (no need to contact us in\\nadvance). If you took the regularly scheduled test, you may not take the corresponding makeup.\\nNote that there may be one or two FAs that do not have an associated makeup. If you happen\\nto miss that FA you will not have a makeup for that test, though you will still have multiple\\nopportunities to try those problems on subsequent FAs. See schedule later in the syllabus for\\nprecise details.\\n• Regrade Requests: We are all human and sometimes make mistakes, so please check your test\\nand submit a regrade request on Gradescope if, e.g, you forgot to select a page or selected the\\nwrongpage; youthinkthegradermighthavemissedsomethingorclickedthewrongrubricbutton;\\nor if you don’t understand why you didn’t get credit. One of our instructors will take another look\\nat your work and will make a final decision on whether you earned credit on that problem. If you\\ndid not earn credit, the grader will try to provide additional feedback so you can better prepare\\nfor the next FA. The grader’s decision on your regrade request is final. Regrade requests are\\ndue by midnight on the Wednesday after you took the FA. Late regrades requests will\\nnot be considered; you can always try that problem on the next FA.\\n• Final: We will hold a final during the registrar’s scheduled final exam period. The exact date\\nand time is determined by the registrar after the add/drop period. Please do not make end-of-\\nsemester travel plans until you know the final exam schedule.\\nOur final will consist of one additional FA. (It is not a traditional comprehensive final.)\\nThe final is the end of the semester. There is no extra credit or additional work after the final. All\\nhomework and participation assignments must be completed by the last deadline for your section\\nbut certainly before the final.\\nHomework and Participation:\\nThese are the last two General Outcomes. They are the only Outcomes that are not tested on FAs.\\nInstead, these are cumulative throughout the semester. You earn points for each assignment and these\\nare all added together (not averaged). You have to meet a certain minimum score to earn the point for\\neach of these two Outcomes.\\n• Homework (General Outcome #31):\\nYou will earn the point for this Outcome if you accumulate at least 200 HW points.\\nThere will be 25 homework assignments. Each assignment is worth 15 points: 5 points for com-\\npleting the assignment and 10 points for accuracy (we will grade 5 of the questions, each worth 2\\npoints). There is a total of 375 possible points; the threshold of 200 is a little more than half of\\nthe total possible points.\\nLate HW Policy: If you submit your homework late (after the grader grades that set), you can\\nstill earn the completion points but not the accuracy points for the particular problems (i.e., you\\ncan earn at most 5 points out of 15 for that assignment).",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 14538,
+        "end": 14861,
+        "text": "• Participation (General Outcome #32):\\nYou will earn the point for this Outcome if you accumulate at least 30 Participation points.\\nYour participation for this class will be taking attendance during the class. You can earn up to 3\\npoint during each week’s class on 13 weeks, for a total of 50 possible Participation points.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 14526,
+        "end": 14537,
+        "text": "yranimilerP",
+        "label": "ADMIN"
+      },
+      {
+        "start": 14862,
+        "end": 14959,
+        "text": "If you have questions about how this course is graded, please do not hesitate to reach out to me!",
+        "label": "GRADE"
+      },
+      {
+        "start": 14960,
+        "end": 16449,
+        "text": "Resources to Help you Succeed\\nStudy Hours:\\nThis is time that I have set aside explicitly to help you do the homework, review course material,\\nand prepare for your Friday Assessments. Please make use of this resource! You don’t have to have\\nquestions prepared; you can just show up. See LATTE for details.\\nPractice Assessments:\\nWe have Practice Assessments for each Content Outcome to help you prepare for the Friday As-\\nsessments. Complete solutions are provided and many files also have helpful videos and/or links to\\nadditional problems. These practice assessments are optional (but strongly recommended!) and are for\\nyour use only. They have no effect on your grade.\\nPast FAs and Solutions:\\nPast FAs and Solutions will be posted here so you can compare your work with our solutions.\\nReview, Advising and Preparation Stations (RAPS): Staff will be on hand to help you review\\nyour last FA, prepare for the next one and develop optimal study strategies. We’re here to help you\\nidentify mistakes, correct misunderstandings, and make a plan to prepare for the next FA.\\nTutoring:\\nThe department provides some drop-in tutoring at no cost. The tutors are math graduate students\\nor advanced undergrads. Please take advantage of this excellent resource!\\nOther Course Information\\nCalculators:\\nCalculators are not allowed during quizzes or Friday Assessments. You should have access to a\\nscientific calculator for homework (you can use a free online one), but you do not need a graphing\\ncalculator.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 16450,
+        "end": 17175,
+        "text": "Academic Honesty:\\nYou are expected to be familiar with, and to follow, the University’s policies on academic integrity.\\nYou are expected to be honest in all of your academic work. Please consult Brandeis University Rights\\nand Responsibilities for all policies and procedures related to academic integrity. Allegations of alleged\\nacademic dishonesty will be forwarded to Student Rights and Community Standards. Sanctions for\\nacademic dishonesty can include failing grades and/or suspension from the university. Citation and\\nresearch assistance can be found on the university library website.\\nIf you have any questions, please contact Alex Rosett (arossett@brandeis.edu), Assistant Dean,\\nStudent Rights and Community Standards.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 17176,
+        "end": 17361,
+        "text": "Accommodations:\\nBrandeis seeks to create a learning environment that is welcoming and inclusive of\\nall students, and I want to support you in your learning. If you think you may require",
+        "label": "ACCOM"
+      },
+      {
+        "start": 17424,
+        "end": 18114,
+        "text": "disability accommodations, you will need to work with Student Accessibility Support\\n(SAS). You can contact them at 781-736-3470, email them at access@brandeis.edu, or\\nvisit the Student Accessibility Support home page. You can find helpful student FAQs\\nand other resources on the SAS website, including guidance on how to know whether you\\nmight be eligible for support from SAS.\\nIf you already have an accommodation letter from SAS, please provide me with a copy as soon as\\nyou can so that I can ensure effective implementation of accommodations for this class. In order to\\ncoordinate exam accommodations, ideally you should provide the accommodation letter at least 48\\nhours before an exam.",
+        "label": "ACCOM"
+      },
+      {
+        "start": 18115,
+        "end": 19558,
+        "text": "Expectations for student contributions to coursework:\\nSuccess in this four-credit course is based on the expectation that students will contribute at least 9\\nhours of study time per week in preparation for class.\\nTimely communication:\\nUse your Brandeis email to reach out to me. I am usually able to respond quickly to most messages,\\nwithin 24 hours, although during the weekends and over holidays it could take me longer. If I reach\\nout to you, with a query or comment or in response to an email from you, I would appreciate it if you\\nwould acknowledge receipt of my message and/or respond with 24 hours, unless it’s during weekend or\\nover a holiday. Note that we will use your Brandeis email address, so you need to check it regularly.\\nAll course announcements can be found in the Course News & Announcements page on Latte.\\nAvailable Resources:\\nMany resources are available to help with the academic and non-academic factors that contribute to\\nstudent success (finances, health, food supply, housing, mental health counseling, academic advising,\\nphysical and social activities, etc.). Please explore the links on the Support at Brandeis to find out\\nmore about the resources that the University provides to help you and your classmates achieve success.\\nName/Pronouns:\\nIf your name and/or pronouns differ from those in your official Brandeis records, please let me know.\\nThanks!\\nCourse coordinator:\\nProfessor Becci Torrey rtorrey@brandeis.edu.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 19621,
+        "end": 20754,
+        "text": "Friday Schedule for the Semester:\\nOur Friday meetings will alternate between:\\n• Friday Assessments (FAs): Opportunities to demonstrate mastery on material covered so far\\nin the course, and\\n• Review, Advising and Preparation Stations (RAPS): Staff will be on hand to help you\\nreview your last FA, prepare for the next one and develop optimal study strategies.\\nMakeups for FAs: If you need to miss an FA, you can take a makeup on the following Friday (but\\nyou have to miss the RAPS session). Note that:\\n1. You cannot take a makeup if you took the regular FA.\\n2. There is no makeup for the makeup: if you miss the regular FA and its corresponding makeup,\\nyou just reset and move on to the next FA.\\n3. The makeup for FA #7 is on the Study Day (Thursday, May 1).\\nDate Activities Outcomes Released\\nJan 17 FA #1 F1 - F5\\nPlacement Test\\nJan 24\\nRAPS\\nJan 31 FA #2 F6, G1-G5\\nFeb 7 RAPS\\nFeb 14 FA #3 G6-G9\\nFeb 21 No classes / No FA\\nFeb 28 RAPS\\nMar 7 FA #4 F8-F9, G10-G17\\nMar 14 RAPS\\nMar 21 FA #5 F10, G18\\nMar 28 RAPS\\nApr 4 FA #6 G19-G25\\nApr 11 RAPS\\nApr 18 No classes / No FA\\nApr 25 FA #7 G26-G30\\nMay 1 (Thu) RAPS\\nTBD by registrar FA #8 (final FA)",
+        "label": "SCHEDULE"
+      },
+      {
+        "start": 20853,
+        "end": 23734,
+        "text": "F1 Compute derivatives of functions.\\nF2 Compute antiderivatives of functions.\\nF3 Evaluate limits.\\nF4 Evaluate a limit using L’Hospital’s rule.\\nF5 Add or subtract rational expressions and simplify.\\nF6 Evaluate an integral using only basic techniques (power rule, trig rules, etc.)\\nF7 Evaluate an integral using substitution.\\nF8 Evaluate an integral using integration by parts.\\nF9 Find the general solution to a separable differential equation.\\nF10 Evaluate a geometric series.\\nsemoctuO\\nlareneG\\nG1 Evaluate inverse trig functions.\\nG2 Use a finite summation to approximate the area under a curve.\\nG3 Demonstrate an understanding of the underlying concept of an integral.\\nG4 Calculate a definite integral using the Riemann Sum.\\nG5 Calculate a derivative using FTC.\\nG6 Set up an integral to compute the area between curves.\\nG7 Set up an integral to compute volume using the disk method.\\nG8 Set up an integral to compute volume using the washer method.\\nG9 Solve a challenging problem that combines different skills and/or presents material\\nfrom Chapters 1-2 + Pre-Reqs in a different way.\\nG10 Evaluate an integral using basic partial fractions.\\nG11 Identify and apply a proper method(s) to evaluate an integral when not given a\\nspecific method.\\nG12 Solve a word problem on Chapter 3 material.\\nG13 Determine whether an improper integral over an infinite interval converges or di-\\nverges, and evaluate if possible.\\nG14 Determinewhetheranimproperintegralwithadiscontinuousintegrandconvergesor\\ndiverges, and evaluate if possible.\\nG15 Solve a challenging problem that combines different skills and/or presents material\\nfrom Chapters 1-3 + Pre-Reqs in a different way.\\nG16 Find the particular solution to a separable differential equation.\\nG17 Solve a word problem involving a differential equation.\\nG18 Demonstrate an understanding of the definition of an infinite series.\\nG19 Use the integral test to determine the convergence of a series.\\nG20 Use the divergence test to determine the divergence of a series.\\nG21 Use the direct comparison test to determine the convergence of a series.\\nG22 Use the alternating series test to determine the convergence of a series.\\nG23 Use the ratio test to determine the convergence of a series.\\nG24 Identify and apply a proper method to determine the convergence of a series when\\nnot given a specific method.\\nG25 Solve a challenging problem that combines different skills and/or presents material\\nfrom Chapters 1-5 + Pre-Reqs in a different way.\\nG26 Determine the radius of convergence of a power series.\\nG27 Determine the interval of convergence of a power series.\\nG28 Compute terms of a Taylor series using differentiation or integration.\\nG29 Compute a Taylor series from a known series.\\nG30 Solve a challenging problem that combines different skills and/or presents material\\nfrom Chapters 1-6 + Pre-Reqs in a different way.\\nG31 Homework\\nG32 Participation",
+        "label": "SCHEDULE"
+      }
+    ],
+    "validity": "Valid",
+    "notes": ""
+  },
+  {
+    "doc_id": "243POL 119A 1 Seminar Red States, Blue States Understanding Contemporary American Voters and Parties Lucy Goodhart",
+    "semester": "Fall Semester 2024 (243)",
+    "school": "College of Arts and Sciences",
+    "department": "Politics",
+    "course_name": "243POL 119A 1 Seminar Red States, Blue States Understanding Contemporary American Voters and Parties Lucy Goodhart",
+    "annotator": "sam",
+    "spans": [
+      {
+        "start": 0,
+        "end": 226,
+        "text": "Professor Lucy Goodhart Fall 2024\\nLocation: Rabb Graduate Center, 85-355 Room: Olin-Sang 124\\nPhone: (781) 736-2742 Time: Mon/Weds, 2:30 – 3:50 pm\\nEmail: lgoodhar@brandeis.edu Office Hours: Tues 1- 3 pm\\nPOL119: RESEARCH SEMINAR",
+        "label": "ADMIN"
+      },
+      {
+        "start": 227,
+        "end": 3425,
+        "text": "RED STATES, BLUE STATES: AMERICAN VOTERS AND PARTIES\\nLearning Goals: The extraordinary drama of the current presidential campaign, and new strains in\\nAmerican politics, have many scratching their heads. The core goal of this seminar is to become more\\nknowledgeable about voting and party behavior in the US, so that we can come understand what drives\\ngrowing partisanship, increasing polarization, the emergence of populism and the politics of identity.\\nThere are two intellectual aspirations for the course that follow from this. The first goal is to read, and\\ncritically appraise, selections from the scholarly literature on voters and parties so that we understand the\\nroot causes of contemporary political developments. We start with the behavioral and “spatial” analysis of\\nvoter choices and then address core theoretical results about where parties will position themselves given\\nvoters. From there, we start on more focused material on the increasing polarization of US parties, the\\nrealignment of party electorates and the populist issues that have contributed to party realignment. We\\nreview this scholarship, and popular works, to critically consider why these developments should have\\noccurred in the US and what they mean for trust, stability, and effective democracy.\\nThe second intellectual goal is to become familiar with the research tools that help you to conduct your own\\nresearch on these topics. Thus, the seminar includes multiple sessions on research methods. In addition,\\nand since your research paper will consider data, most often accessed digitally, we will also review the\\nsteps to analyzing the validity and reliability of primary and secondary data. Based on that review, and an\\nassociated assignment, this course satisfies the requirements for digital literacy.\\nThe course is designed to meet the following four objectives.\\n1) To increase our understanding of contemporary American voter and party behavior.\\n2) To develop and reinforce habits of digital literacy.\\n3) To foster confidence and develop skills in public speaking and presentation.\\n4) To teach the basics of independent research in political science, with a focus on deriving\\nquestions from theory and conducting quantitative and qualitative analysis.\\nExpectations: POL 119A is a Four-Credit Course (with three hours of class-time per week). Success in\\nthe course is based on the expectation that students will spend a minimum of nine hours of study per week\\nin preparation for class including readings, responses to readings, and research assignments. There are no\\npre-requisites for the class, but it is very helpful to have taken a prior course in research and statistics and\\nalmost essential to have some academic background in American Politics if you are not familiar with the\\nfield. Because interaction for the colloquium is intensive, the class size is capped at eighteen students.\\nModality: POL 119A is an in-person class. Zoom participation will be available for those who are\\nunable to attend because of immediate health issues, but the class will be conducted as a seminar and\\nZoom may not capture class interaction well. Office hours will be in-person, but you can also request a\\nZoom meeting.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 3449,
+        "end": 4085,
+        "text": "Textbook: Akan Malici and Elizabeth S. Smith, 2018, Political Science Research in Practice (Second\\nEdition). I will set a number of chapters from this text for the methods slam assignment. All other\\nmaterial for the course can be found on the class Latte site. In addition, we read many chapters from two\\nbooks written in response to Trump: Morris Fiorina’s 2017 book, Unstable Majorities: Polarization,\\nParty Sorting and Political Stalemate, and Alan Abramowitz’s 2018 book, The Great Alignment: Race,\\nParty Transformation and the Rise of Donald Trump. Relevant chapters are on Latte, but you may want\\nto purchase the books secondhand.",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 3427,
+        "end": 3448,
+        "text": "COURSE ADMINISTRATION",
+        "label": "ADMIN"
+      },
+      {
+        "start": 4086,
+        "end": 4787,
+        "text": "Academic Integrity: You are expected to follow the University's policies on academic integrity:\\nhttp://www.brandeis.edu/svpse/academicintegrity/. Suspected instances of dishonesty will be referred to\\nthe Director of Academic Integrity. You may also have your assignments reviewed by Compilatio to verify\\noriginality. During the course, you will work together to refine your empirical research, but are expected\\nto write up that research independently. If your work appears to have been generated, in whole or part, by\\nAI, I will give you one opportunity to re-write an assignment. Repeated indications of text generated by\\nChatGPT or other LLM’s will be referred to the Director of Academic Integrity.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 4788,
+        "end": 5191,
+        "text": "Missed Classes or Assignments: Please note that I do not give “extra-credit assignments.” Attendance\\nin class is strongly encouraged and will influence your participation grade. If you know that you cannot\\nattend class on a particular day please email me in advance to let me know. If you know you may be\\ndelayed in submitting an assignment, for a given reason, please let me know in advance, via email.",
+        "label": "LATE"
+      },
+      {
+        "start": 5192,
+        "end": 5533,
+        "text": "Use of cell phones and laptops in the classroom: Use of cell phones in class is prohibited, but you may\\ncarry your phone with you in 'silent' mode. You are permitted to use laptops for academic purposes. If\\nyour screen use distracts you or others, your participation grade will be reduced and permission to use your\\nlaptop will be withdrawn.",
+        "label": "CONDUCT"
+      },
+      {
+        "start": 5534,
+        "end": 5877,
+        "text": "Special Accommodations: If you are a student with a documented disability on record at Brandeis\\nUniversity and wish to have reasonable accommodations made for you, please see me as soon as possible.\\nI will be pleased to adopt accommodations that will help you flourish. Please keep in mind that\\naccommodations cannot be provided retroactively.",
+        "label": "ACCOM"
+      },
+      {
+        "start": 5878,
+        "end": 6087,
+        "text": "Excused Absence Policy: If you face a family emergency or severe health problem, please contact your\\nadvisor at the Office of Academic Services so that they can communicate confidentially with your\\nprofessors.",
+        "label": "ATTEND"
+      },
+      {
+        "start": 6088,
+        "end": 6409,
+        "text": "Calendar of Sessions: In the Course Outline on the following page, sessions shaded in purple address the\\nsubstantive, political science literature. Sessions shaded in green address political science research methods.\\nThe outline indicates the topic for each session, the readings we cover and any assignment due that day.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 6698,
+        "end": 7085,
+        "text": "Required Course Materials: The minimal set of hardware, software, and course supplies required to be\\nsuccessful in this course includes access to a laptop or desktop and the ability to print online materials. Any\\nundergraduate facing financial constraints should contact Student Financial Services to discuss options\\navailable to purchase equipment and other technology and supply needs.",
+        "label": "MATERIAL"
+      },
+      {
+        "start": 6410,
+        "end": 6697,
+        "text": "Course Assignments: The goal of the course is to unpack the process of writing a research paper into\\nsmall, concrete increments. As such, there are multiple, short assignments throughout the semester. These\\nassignments are noted on the course outline below and in the table on page five.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 7089,
+        "end": 10966,
+        "text": "COURSE OUTLINE\\nGreen = Research tools Purple = Literature\\nWeek Topic Readings Assignment\\n• Who are we and what do we bring? Submit paragraph on\\n• Minkoff, “Writing a Political Science Research Paper” potential research\\nAug 28th Intro Class • Mullaney & Rea, 2022, Where Research Begins, Intro\\nand Chapter One\\n• Cohn, NYT, “New Battleground Polls…”\\n• Theiss-Morse & Wagner, Political Behavior, 15th\\nVoters: The edition, Chapters One, Two, Three, and Five\\nSept 4th\\nBehavioral View • Burn-Murdoch, “Millennials Shattering Oldest rule…\\n• Derek Thompson, “Does your Wage Predict…”\\n• Malici and Smith, Chapters One and Two.\\nSept 9th • Youtube: https://www.youtube.com/watch?v=-\\nPolitical Science?\\nX8Xfl0JdTQ\\n• Popper, “Science as Falsification”\\n• Johnson et al, Political Science Research & Methods, Sign up for two\\nSept 11th How to Research:\\npp. 78-82 Reading Responses\\nwith Aimee Slater\\n• Jill Lepore, “After the Fact”\\n• Hershey, Party Politics in America, Chs 1-2\\nParties: Behavior • Maskett, “Why Political Parties never Die.”\\nSept 16th\\nand Roles • Azari, “The Puzzle of Weak Parties and Strong\\nPartisanship.”\\nSpatial Analysis • Downs, An Economic Theory of Democracy, Chapters Digital Literacy\\nSept 18th of Voters and Two, Three, Seven and Eight. Assignment Due\\nParties\\n• Poole, “Changing Minds? Not in Congress…” Meet with Professor\\nSept 23rd\\nPolarized Parties? • Hill and Tausanovitch, “Southern Realignment…” or librarian about data\\n• Barber & McCarty, “Causes & Consequences of…”\\n• Kinder & Kalmoe, Neither Liberal nor Conservative,\\nSept 25th Polarized Voters? • Abramowitz, The Great Alignment, Ch. 1\\n• Fiorina, Unstable Majorities, Ch. 2\\nRoots of • Fiorina, Unstable Majorities, Ch. 3 Paper Proposal due\\nSept 30th\\nPolarization • Abramawitz, The Great Alignment, Chs 3, 5\\n• Edsall, “Donald Trump’s Political Stew”\\n• Molyneux, “Mapping the White Working Class.”\\nPopulism and • Edsall, “The End of Left and Right…”\\nOct 2nd\\nRealignment • Rodrik, “Populism and the Economics of\\nGlobalization”\\n• WSJ analysis of Congressional Districts\\nOct 7th • Johnson et al, Ch. 6 Method Slam slides\\nMethods Slam 1\\n• Malici & Smith, pick one of six chapters due Oct 6th\\nOct 9th • Malici & Smith, pick one of six chapters\\nMethods Slam 2\\n3\\n\\nWeek Topic Readings Assignments\\n• Thompson, “What is America’s Gender War…”\\n• Burn-Murdoch, “American Politics is Undergoing a\\nOct 21st Identity and Racial Realignment.”\\nVoting • Hout & Maggio, “Immigration, Race and Political\\nPolarization.”\\n• Hajnal, Dangerously Divided, Ch. 1\\n• Fowler et al, “Moderates.”\\nOct 23rd Moderates and\\n• Groenendyk et al, “Selecting out of ‘Politics’”\\nthe Uninvolved\\n• Citizen Data, “Who are the Moderates?”\\n• Liu, Stata Basics\\nOct 28th Using Stata • Corral, Stata Handout\\n• Pollock, Chapters One and Two\\nOct 30th Descriptive • Pollock, Chapters Three and Four Stata Competence\\nStatistics in Stata Test starts\\n• Cohn, “What the Latest Presidential Polls…”\\nNov 4th Predicting Votes\\n• Freedlander, “An Unsettling New Theory…”\\nNov 6th Election Debrief\\nStatistical • Pollock Chapter Six\\nNov 11th\\nInference\\n• Pollock Chapter Seven Stata Hypothesis Test\\nTesting\\nNov 13th Starts\\nRelationships\\n• Lilliana Mason, Uncivil Agreement, Chs 1-3.\\nConsequences:\\nNov 18th • Ripley, “The Least Politically Prejudiced Place…”\\nTrust\\n• Edsall, “Is Politics a War of Ideas or…”\\n• Lee, “Populism and the American Party System” Data and Methods\\nConsequences:\\n• Carnegie Endowment, “Polarization, Democracy and Section due\\nNov 20th Extremism &\\nPolitical Violence.”\\nDemocracy\\n• Schreckhise et al, “Civility, Gridlock, Polarization…”\\nNov 25th\\nResearch Huddle • Bring Draft Slides and Questions\\nPresentation slides\\nDec 2nd Presentations\\ndue by Nov 30th\\nDec 4th Presentations\\n• Fiorina, Unstable Majorities, Ch. 12\\nThe View from Final paper due\\nDec 9th • Tetlock, Super Forecasters…\\nHere December 18th\\n• Additional sources from post-Election analysis!\\n4\\n",
+        "label": "SCHEDULE"
+      },
+      {
+        "start": 10968,
+        "end": 12098,
+        "text": "Assignments and Weightings:\\nThe table below describes each assignment and indicates the percent of your final grade that is associated\\nwith it. Responses to readings are due by 9 am on the day of the class. Two are due and may be\\nsubmitted on any day with a substantive reading assignment (highlighted in purple) between September\\n23rd and November 20th. Other assignments are due on the indicated date via Moodle unless they are\\nstarted as in-class assignments, in which case they will be submitted on Moodle within three days. The\\nfinal paper is due by December 18th.\\nTen percent of your overall grade is based on participation in class.\\nAssignment Description Due Weight\\nWrite a paragraph on one to two potential topics that you could research in this\\nContributes to\\nResearch Topics course. Topics must be related to American political behavior. Please submit Aug 26\\nparticipation.\\non Moodle and bring a hard copy to class on Wednesday, August 28th.\\nWrite approx. 500 words following the assignment prompt and submit them on\\nMoodle by 9 am on the day of class. You must select two days for which you\\nRespond to Readings Various",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 12099,
+        "end": 12173,
+        "text": "respond to readings from among the eight substantive sessions (purple) 10%",
+        "label": "GRADE"
+      },
+      {
+        "start": 12174,
+        "end": 12493,
+        "text": "and Lead Discussions dates\\nbetween September 23rd and November 20th that are not the election week.\\nSign up for readings by September 11th.\\nYou are required to meet with me or Aimee Slater by Sept 23rd to discuss literature sources and data.\\nYou can participate through discussion in class but also by commenting on the",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 12494,
+        "end": 12515,
+        "text": "Participation All 10%",
+        "label": "GRADE"
+      },
+      {
+        "start": 12516,
+        "end": 12713,
+        "text": "Reading Responses that your peers post online.\\nSubmit one to two pages describing how you searched for and obtained (1) a\\nliterature review source and (2) a data set and list both. Explain why that",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 12714,
+        "end": 12742,
+        "text": "Digital Literacy Sept 18 10%",
+        "label": "GRADE"
+      },
+      {
+        "start": 12743,
+        "end": 12951,
+        "text": "search engine or process should yield a source that scholars would consider\\nreliable and appropriate for your research question.\\nSubmit two to three pages describing your revised question, its relationship to",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 12952,
+        "end": 13052,
+        "text": "Paper Proposal the literature, and any theory you have developed to guide your analysis. Sept 30 10%",
+        "label": "GRADE"
+      },
+      {
+        "start": 13053,
+        "end": 13107,
+        "text": "Attach a bibliography of at least six related sources.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 13108,
+        "end": 13204,
+        "text": "Method Slams Submit a presentation on one of the methods outlined in Malici and Smith. Oct 6 10%",
+        "label": "GRADE"
+      },
+      {
+        "start": 13205,
+        "end": 13281,
+        "text": "Run through a series of commands and explain the meaning and significance of",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 13282,
+        "end": 13313,
+        "text": "Stata Competence Test Nov 2 10%",
+        "label": "GRADE"
+      },
+      {
+        "start": 13314,
+        "end": 13456,
+        "text": "the output. You will start in class and submit within three days.\\nPerform a hypothesis test in Stata and explain in writing the meaning of the",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 13457,
+        "end": 13483,
+        "text": "Hypothesis Test Nov 16 10%",
+        "label": "GRADE"
+      },
+      {
+        "start": 13546,
+        "end": 13645,
+        "text": "Submit a two-page version of the “Data and Methods” section of your final\\nData & Methods Nov 20 10%",
+        "label": "GRADE"
+      },
+      {
+        "start": 13484,
+        "end": 13545,
+        "text": "result. You will start in class and submit within three days.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 13646,
+        "end": 13904,
+        "text": "paper which explains your choice of data and the methods you use.\\nThe content of your presentation is ungraded, but you must prepare and present Contributes to\\nPresentation Slides Nov 30\\na five-minute presentation on your project and findings. participation.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 13905,
+        "end": 13973,
+        "text": "Final Paper Put it all together in a 12 to 20-page paper. Dec 18 20%",
+        "label": "GRADE"
+      }
+    ],
+    "validity": "Valid",
+    "notes": ""
+  },
+  {
+    "doc_id": "261FA 178B 1 Seminar on Chinese Calligraphy and Practice Aida Wong",
+    "semester": "Spring Semester 2026 (261)",
+    "school": "School of Arts, Humanities, and Culture",
+    "department": "Fine Arts",
+    "course_name": "261FA 178B 1 Seminar on Chinese Calligraphy and Practice Aida Wong",
+    "annotator": "sam",
+    "spans": [
+      {
+        "start": 0,
+        "end": 519,
+        "text": "Hengshan Calligraphy Museum, Taiwan\\nFA 178b: Seminar on Chinese Calligraphy: History and Practice\\nSpring 2026\\nMondays and Wednesdays: 2:30-3:50pm\\nSchwartz 103\\nProfessor Aida Yuen Wong\\nEmail: aida@brandeis.edu Responses can be expected in 24-48 hours, except during holidays\\nand weekends when a longer response time is possible.\\nOffice: Room 212, Mandel Center for the Humanities\\nOffice hours: Thurs 11:30am-1:30pm (or by appointment)\\nZoom by appointment only: https://brandeis.zoom.us/my/aywong\\nEmail: aida@brandeis.edu",
+        "label": "ADMIN"
+      },
+      {
+        "start": 520,
+        "end": 2659,
+        "text": "Course Description and Objectives\\nThis seminar examines the art and history of Chinese calligraphy. The main goal is to introduce\\nstudents of different Chinese-language levels (not limited to native-speakers) to canonical works\\nof calligraphy as well as the enthusiasm and creativity these works have inspired through the\\nages. From anonymous oracle bones and stone inscriptions to famed masterpieces, such as Wang\\nXizhi’s “Lanting Pavilion Preface,” and from original renderings to copies of others’\\ncompositions, this course showcases the kaleidoscopic range that makes calligraphy a visual-\\nlinguistic art form beyond “words.” The multifaceted functions of stylized writing—such as for\\npolitical, religious, and expressive purposes—will also be explored.\\nIn addition to acquiring knowledge of history, students engage in hands-on study through\\ncopying and creating calligraphy. We will discuss and reflect on calligraphic aesthetics through\\nthe ages. Students will gain a better appreciation from concept to product. This course which\\ncrosses between art history and studio art aims to train visual thinking and improve hand-eye\\n1\\n\\ncoordination. Students will also learn the rudiments of the main script types (seal, clerical,\\nrunning, regular, and cursive) and to produce calligraphy for evaluation.\\nA calligraphy supply list is provided. Students are responsible for bringing the tools to relevant\\nclass meeting, usually on Wednesdays. A laptop will be needed occasionally for class activities.\\nThis “oral communication” course requires two Powerpoint presentations: one on assigned\\nreadings and the other related to the final research paper. There is also a short\\npresentation about the final art project.\\nSeparate from these, each student will create an original work of calligraphy, applying the ideas\\nand skills learned while developing a theme that brings the text, style, and script choice together\\nas a coherent unit. The material, size, and format are open. The work will be presented in class\\nwith the concept explained briefly, approximately 5 minutes. A write-up of this explanation (1-2\\npages) will be due on the same day.",
+        "label": "DESCRIP"
+      },
+      {
+        "start": 2660,
+        "end": 2756,
+        "text": "Success in this course requires at least nine hours of work for every three hours of class time.",
+        "label": "ADMIN"
+      },
+      {
+        "start": 2757,
+        "end": 3745,
+        "text": "Requirements\\n1. Attendance and Participation 25%\\nActive, earnest, thoughtful and prepared: 22% or up\\nMostly passive but diligent and attentive: 20% or up\\nLittle apparent sign of engagement and preparedness: below 20%\\nTwo or more unexcused absences will significantly affect your grade; explain your\\nabsences in writing.\\n2. Reading Introductions (PPT) (20 minutes each including Q&A and 1 per student; dates to\\nbe assigned) 10%\\n3. Calligraphy Homework (weekly on average) 25%\\n4. Final Art Project: Original Work of Calligraphy (Due last day of class) 10%\\n5. Research Paper with Written and Oral Components 20+10=30%\\nPowerpoint presentation on your topic. 15 minutes. (Graded for clarity, time\\nmanagement, and organization).\\nThe written component is an elaboration, expansion, and refinement of the oral\\npresentation. More instructions will be given around the middle of the semester. (Graded\\nfor research effort, presentation such as proper footnoting and illustration, and writing\\nstyle.)",
+        "label": "GRADE"
+      },
+      {
+        "start": 3746,
+        "end": 4220,
+        "text": "8-10 text pages, illustrations are required (not part of the text-page count), 12 pt\\n2\\n\\nfont, Times New Roman, 1” margins, double-spacing, footnotes and bibliography in\\nChicago Style).\\nImportant Dates\\nMarch 30 A preliminary annotated bibliography of your final project (submit in Moodle)\\nApril 15: Final Art Project due (Bring to Class)\\nApril 20, 22, 27, and 29: Oral Presentations with PPT of Final Papers (approx. 15 mins each)\\nMay 4: Research Paper Due (Submit on MOODLE)",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 5025,
+        "end": 5488,
+        "text": "You are expected to be honest in all of your academic work. The University policy on academic\\nhonesty is distributed annually as section 5 of the Rights and Responsibilities\\nhandbook. Instances of alleged dishonesty will be forwarded to the Office of Campus Life for\\npossible referral to the Student Judicial System. Potential Sanctions include failure in the course\\nand suspension from the University. If you have any questions about my expectations, please\\nask.",
+        "label": "INTEGRITY"
+      },
+      {
+        "start": 4815,
+        "end": 5024,
+        "text": "If you are a student with a documented disability on record at Brandeis University and wish to\\nhave a reasonable accommodation made for you in this class, please provide the relevant\\ndocumentation immediately.",
+        "label": "ACCOM"
+      },
+      {
+        "start": 4221,
+        "end": 4814,
+        "text": "About the Readings\\nWeekly readings are available on MOODLE (assignments are listed in the calendar below).\\nBefore coming to class students should have already done the readings assigned for the day.\\nStudents will be asked to discuss the main points and be ready to pose questions regarding their\\ncontents and assumptions. Students are expected to approach the materials thoughtfully and\\ncritically. Some of the readings are meant to provide the relevant historical background for\\nunderstanding the topic of the week, while others advance specific viewpoints. Peer assessment\\nwill be solicited.",
+        "label": "ASSIGN"
+      },
+      {
+        "start": 5489,
+        "end": 15766,
+        "text": "Calendar is Subject to Change; please check MOODLE for updates\\nUnit 1: Historical Overview and Introduction (January 12 and 14)\\n1. Calligraphy and the Popular Imagination\\n2. Language (Written and Spoken) vs. Calligraphy\\n3. Four Treasures of the Literati Studio (Paper, Brush, Ink, Inkstone)\\nBring Calligraphy Supplies (Jan 14)*\\n4. How to hold the brush and your posture; making your first strokes\\n5. Practice center-tipped and even strokes (Seal Script Worksheet 1); writing your own name in\\ntraditional Chinese in proper stroke order\\nReading (First week):\\nHollman, Thomas O. “Calligraphy.” In Chinese Script: History, Characters, Calligraphy, 91-\\n112. New York: Columbia University Press, 2017.\\n3\\n\\nhttps://drive.google.com/file/d/1ZdcMWtQwEeYJlTsqljSZptfZi8Pjs9X0/view?usp=sharing\\nHomework: Seal Script Worksheet 1 (due January 21)\\nUnit 2: Age of Pre-paper and Oracle Bone Script (January 21)\\nJanuary 19 (Martin Luther King Jr.’s Day): Class in Recess\\nJanuary 21: Bring Seal Carving Supplies\\n1. Shang Dynasty Oracle Bones Script\\n2. Seal Carving using Oracle Bone Script\\nReadings (Jan 21):\\nBoltz William G. “The Invention of Writing in China.” Oriens Extremus 42 (2000/2001): 1-17.\\nhttps://drive.google.com/file/d/1f0-ZcwxBmyyTl2ExvWQ1sLc4eswlDquJ/view?usp=sharing\\nBrown, Shana. “The Discovery of the Oracle Bone Inscriptions.” Pastimes: From Art and\\nAntiquarianism to Modern Chinese Historiography, 87-102. Honolulu: University of Hawaii\\nPress, 2011.\\nhttps://drive.google.com/file/d/1-iJBk8LKPwq_vIaCs64dqNY5owLzXp-z/view?usp=sharing\\nHomework: Oracle Bone Script Seal Carving due (January 28)\\nUnit 3: Seal Script (January 26 and 28)\\n1. Seal Script History\\n2. Qin Dynasty: Small Seal Script\\n3. Shuowen jiezi dictionary\\nJanuary 28: Bring Calligraphy Supplies\\n4. Seal Script Practice (Yishan Bei)\\nReadings:\\nLi, Wendan. “The Development of Chinese Calligraphy I: The Seal Scripts.” Chinese Writing\\nand Calligraphy, 100-114. Honolulu: University of Hawaii Press, 2009. (Jan 26)\\nhttps://drive.google.com/file/d/1H6bjf-SmaPJfsWdWLGETs7YywL2FODg9/view?usp=sharing\\nBottero, Francoise and Christoph Harbsmeier, “The ‘Shuowen Jiezi’ Dictionary and the Human\\nSciences in China.” Asia Major, 3rd series. Vol. 21, no. 1 (2008): 249-71. (Jan 26)\\nhttps://drive.google.com/file/d/19pQYHf1doRAaAUypjH2rl-6mQRid-W7H/view?usp=sharing\\nHomework: Seal Script Worksheet 2 (due Feb 4)\\nUnit 4: Seal Carving and Clerical Script (February 2 and 4)\\n4\\n\\n1. History of Seal Carving\\n2. Han Dynasty (Engraved Stones and Bamboo Strips)\\nBring Seal Carving Supplies and Calligraphy Supplies\\n3. Carve Seal Script Seal\\n4. Practice Clerical Script (Caoquan Bei)\\nReadings:\\nLi, T. Y. “Chinese Seals: A Lecture delivered on Monday, 12 June 1961.” Journal of the Hong\\nKong Branch of the Royal Asiatic Society 2 (1962): 49-53.\\nhttps://drive.google.com/file/d/1TN4BXblmfBjN4c6gi_ScVdBNjwytVp3x/view?usp=sharing\\nLi, Wendan. “The Development of Chinese Calligraphy II: The Clerical Script.” Chinese Writing\\nand Calligraphy, 115-28. Honolulu: University of Hawaii Press, 2009. (February 2)\\nhttps://drive.google.com/file/d/1_YjkX9mkynlgLkzQgwbOHZmHME4kBFyR/view?usp=sharin\\ng\\nWong, Dorothy C. “The Origins and Rise of Han Steles.” In Pre-Buddhist and Buddhist Use of a\\nSymbolic Form, 25-41. Honolulu: University of Hawai’i Press, 2004. (February 2)\\nhttps://drive.google.com/file/d/15ZSqCqduaeOwCe0eMP81Bf7bhO73S8ew/view?usp=sharing\\nHomework: Clerical Script Strokes (due February 11)\\nUnit 5: Running Script (February 9 and 11)\\n1. Question of Copying\\n2. Wang Xizhi, “Preface of the Lanting Pavilion”\\n3. Papermaking\\nFebruary 11: Bring Calligraphy Supplies\\n4. Writing New Year’s Sayings with Master Mike Mei\\nVideo: How to write running script:\\nhttps://www.youtube.com/watch?v=KVr9CD1nQuE\\nReadings:\\nHarrist, Jr., Robert. “Replication and Deception in Calligraphy of the Six Dynasties\\nPeriod.” Chinese Aesthetics: The Ordering of Literature, The Arts, and the Universe in\\nthe Six Dynasties, edited by Zong-qi Cai, 31-59. Honolulu: University of Hawaii Press,\\n2004. (February 9)\\nhttps://drive.google.com/file/d/10Jd7xnhOkzDLZ8_vpSRyjAGh1aguKTp9/view?usp=sharing\\n5\\n\\nTsien, Tsuen-Hsuin. “Raw Materials for Old Papermaking in China.” Journal of the American\\nOriental Society 93, no. 4 (1973): 510–19. (Everyone)\\nhttps://drive.google.com/file/d/1PA0AcN83PK1whPSIuAL2YIvFTSvLbsP2/view?usp=sharing\\nHomework: Clerical Script Homework (Yiying Bei, due February 25)\\nHappy Spring Break! (Feb 16 and 18): Class in Recess\\nUnit 6: Yan Zhenqing and History of Ink (February 23-25)\\n1. Yan Zhenqing’s “Draft Eulogy for Nephew Jiming”\\n2. Story of Ink\\nFebruary 18: Bring your own Ink Stick and Ink Stone*\\n3. Grinding your own ink to practice Yan Zhenqing Style\\nReadings:\\nMcNair, Amy. “’The Nest Tipped and the Eggs Overturned’: The An Lushan Rebellion.” The\\nUpright Brush: Yan Zhenqing’s Calligraphy and Song Literati Politics, 38-59. Honolulu:\\nUniversity of Hawaii Press, 1998. (Feb 23)\\nhttps://drive.google.com/file/d/170AMSfsTUd7VqX_RSQcoP0ykmUwpOXXP/view?usp=shari\\nng\\nMcNair, Amy. “Public Values in Calligraphy and Orthography in the Tang\\nDynasty.” Monumenta Serica 43 (1995): 263-78. (Feb 23)\\nhttps://drive.google.com/file/d/1SYPklKMjhXVlgeUQM_OIjqd5Fywe5mNF/view?usp=sharing\\nHomework: Standard Script in Yan Zhenqing Style (due March 4)\\nVideos on How to Write like Yan Zhenqing:\\nhttps://www.youtube.com/watch?v=_1Soypish60&list=PLbQxRmo7pEdKIlh9HxRisbdA4l9-sj-\\ndK&index=1\\nhttps://www.youtube.com/watch?v=5GdjegBJDvI&list=PLbQxRmo7pEdKIlh9HxRisbdA4l9-sj-\\ndK&index=2\\nhttps://www.youtube.com/watch?v=ZmbNbz-Kfag&list=PLbQxRmo7pEdKIlh9HxRisbdA4l9-\\nsj-dK&index=3\\nhttps://www.youtube.com/watch?v=J601Xi_9osQ&list=PLbQxRmo7pEdKIlh9HxRisbdA4l9-sj-\\ndK&index=6\\n6\\n\\nhttps://www.youtube.com/watch?v=7fdSJbXo1c8&list=PLbQxRmo7pEdKIlh9HxRisbdA4l9-sj-\\ndK&index=8\\nUnit 7: Standard/Regular Script Continues, Sutra Copying and Printing\\n(March 2-4)\\n1. Sutra Copying\\n2. History of Printing\\nMarch 4: Bring Calligraphy Supplies*\\n3. Copying the Heart Sutra in Standard Script\\nReadings:\\nTsien, Tsuen-hsun. \"Techniques of Woodblock Printing.\" Collected Writings on Chinese\\nCulture, 129-144. Hong Kong: Chinese University Press, 2011. (Everyone)\\nhttps://drive.google.com/file/d/1MCPNMMgXXH1pgxPG5zbzL53c1B4bBNve/view?usp=shari\\nng\\nLowe, Bryan D. “The Discipline of Writing: Scribes and Purity in Eighth-Century\\nJapan.” Japanese Journal of Religious Studies 39, no. 2 (2012): 201–39. (March 2)\\nhttps://drive.google.com/file/d/1Xtz5rjtymxeMnCkihfYt48YLboSjPdFm/view?usp=sharing\\nHomework: Copy of the \"Heart Sutra\" in Standard Script (due March 11)\\nUnit 8: Art of Rubbings and Cursive Script; Librarian’s Session (March 9-11)\\n1. Art of Rubbings\\n2. Xiyue Huashan Miao Bei (Stele Temple of Western Marchmount Hua）\\n3. History of Cursive Script (Sun Guoting’s Shupu)\\n4. Final paper explained; Librarian’s Session and Chicago Style Tutorial\\nReadings:\\nHarrist, Jr. Robert E. “Mountain as Material: Landscape Inscriptions in China.” In Cultural\\nHistories of the Material World, edited by Peter N. Miller, 151-64. Ann Arbor:\\nUniversity of Michigan Press, 2013. (March 9)\\nhttps://drive.google.com/file/d/154VZbQEimhJ36NhZ5RRZQr2uHUwJ1eO1/view?usp=sharing\\nWu Hung. “On Rubbings: Their Materiality and Historicity.” Writing and Materiality in\\nChina, edited by Judith T. Zeitlin, Lydia H. Liu and Ellen Widmer, 29-72. Cambridge:\\nHarvard University Asia Center, 2003. (March 9)\\n7\\n\\nhttps://drive.google.com/file/d/1NBB0YY8OsoBnKPO1rWiD-\\n1UFjwvGTEHi/view?usp=sharing\\nHomework: Explore and Choose Your Research Topic (due March 18)\\nUnit 9: Introduction to Japanese Calligraphy; Cursive Script Continues\\n(March 16-18)\\nMarch 16: Bring your calligraphy supplies\\n1. Lecture and Guided Practice of Japanese Kana Calligraphy by Megumi Barringer Sensei of\\nthe Japan Society of New York\\nMarch 18\\n2. Huaisu's Autobiographical Essay (Wild Cursive Script)\\n3. Su Shi: Hanshi tie (Cold Food Festival)\\nHomework: Cursive Script Exercise (due March 25)\\nIn the file \"Yu Youren's Standard Cursive Script,\" you see a reproduction of a letter written in\\ncursive script from the modern period (Handout). It includes the complete transcription in the\\nlower left-hand corner, and the passage in the transcription begins in the second to the last\\ncolumn on the first page. For the homework, you are to find the cursive characters in this letter\\nfor several designated words and write them out several times in the grid provided, either in pen\\nor Chinese ink (Handout). If in doubt about the structure of these characters, look them up in the\\ndigital dictionary.\\nUnit 10: Yuan and Ming Dynasties: Refinement and Eccentricity (March 23\\nand 25)\\n1. Zhao Mengfu\\n2. Wen Zhengming\\n3. Fu Shan\\nMarch 25 : Bring Calligraphy Supplies\\n4. Sutra Copying of Zhao Mengfu’s Running Script\\nBai, Qianshen. “Illness, Disability, and Deformity in Seventeenth-Century Art.” In Body and\\nFace in Chinese Visual Culture, edited by Wu Hung and Katherine R. Tsiang, 147-70.\\nCambridge: Harvard University Asia Center 2005. (March 23)\\nhttps://drive.google.com/file/d/1_RbpqrzsUBYFAed41kDuAIrMJ_byp-L4/view?usp=sharing\\nHomework: Annotated bibliography of your paper (at least five sources) in Chicago Style (due\\nMarch 30):\\nUnit 11: Qing Dynasty: Calligraphy Theory (March 30)\\nGuest lecture by Liu Xiaoxuan (PhD candidate from Zhejiang University)\\n8\\n\\nHappy Passover Break (April 1, 6, and 8)\\nHomework: Calligraphy Art Project (Due April 15)\\nUnit 12: Late Qing to Modern and Contemporary Periods (April 13 and 15)\\n1. Calligraphy as Nationalist Reform\\n2. Modern/Contemporary Trends\\nApril 15: Bring Calligraphy Supplies (practice with Contemporary Chinese and Japanese\\nmodels)*\\n3. Presentations of Calligraphy Art Projects\\nReadings:\\nWong, Aida Yuen. “Calligraphy Theory, National Strengthening\\nand Gongyang Philosophy.” The Other Kang Youwei: Calligrapher, Art Activist, and\\nAesthetic Reformer in Modern China, 11-35. Leiden: Brill Academic Pub., 2016. (April\\n13)\\nhttps://drive.google.com/file/d/1JbxtZgJ7t_NUrmKQKZk12rR0s0Aw6GP1/view?usp=sharing\\nYang, Chia-Ling. “Never Mind the Translation: Tong Yang-tze’s Art of Writing in Dialogical\\nPerspective.” Art in Translation 11, no. 1 (2019): 97-118. (April 13)\\nhttps://drive.google.com/file/d/1afFI1B1XWboqhDuVtAJuUoBG1HW81ks1/view?usp=sharing\\nStudents’ Presentations\\nApril 20\\nApril 22\\nApril 27\\nApril 29",
+        "label": "SCHEDULE"
+      }
+    ],
+    "validity": "Valid",
+    "notes": ""
   }
 ]
