@@ -28,9 +28,11 @@ Output:
   results/crf_confusion_matrix.png
 
 Run:
-  python train_crf.py
+  python train_crf.py              # full grid (432 combos)
+  python train_crf.py --quick      # reduced grid (18 combos) for a fast sanity check
 """
 
+import argparse
 import itertools
 import json
 import os
@@ -228,8 +230,15 @@ def train_and_eval(X_train, y_train, X_dev, y_dev, algorithm, c1, c2, max_iter):
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--quick", action="store_true",
+                        help="Run a reduced 18-combo grid for a fast performance check.")
+    args = parser.parse_args()
+
     print()
     print("=== CRF BASELINE TRAINING ===")
+    if args.quick:
+        print("  [quick mode] Running reduced grid (18 combos).")
     print()
 
     for path in ("data/train.jsonl", "data/dev.jsonl", "data/test.jsonl"):
@@ -256,12 +265,20 @@ def main():
     X_test  = [doc_to_feature_sequence(seq, vocab) for seq in test_seqs]
 
     # ── Hyperparameter grid search ─────────────────────────────────────────────
-    grid = {
-        "c1":            [0.0, 0.01, 0.05, 0.1, 0.5, 1.0],
-        "c2":            [0.0, 0.01, 0.05, 0.1, 0.5, 1.0],
-        "max_iterations": [100, 200, 500, 1000],
-        "algorithm":     ["lbfgs", "l2sgd", "pa"],
-    }
+    if args.quick:
+        grid = {
+            "c1":             [0.01, 0.1, 1.0],
+            "c2":             [0.01, 0.1, 1.0],
+            "max_iterations": [200],
+            "algorithm":      ["lbfgs", "pa"],
+        }
+    else:
+        grid = {
+            "c1":             [0.0, 0.01, 0.05, 0.1, 0.5, 1.0],
+            "c2":             [0.0, 0.01, 0.05, 0.1, 0.5, 1.0],
+            "max_iterations": [100, 200, 500, 1000],
+            "algorithm":      ["lbfgs", "l2sgd", "pa"],
+        }
 
     combos = list(itertools.product(
         grid["algorithm"],

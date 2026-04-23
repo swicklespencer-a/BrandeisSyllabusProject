@@ -32,9 +32,11 @@ Output:
   results/roberta_crf_confusion_matrix.png
 
 Run (after train_roberta.py has completed):
-  python train_roberta_crf.py
+  python train_roberta_crf.py           # full grid (900 combos)
+  python train_roberta_crf.py --quick   # reduced grid (12 combos) for a fast check
 """
 
+import argparse
 import itertools
 import json
 import os
@@ -245,8 +247,15 @@ def evaluate_f1(model, doc_seqs, doc_lbls, device):
 # ── Main ───────────────────────────────────────────────────────────────────────
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--quick", action="store_true",
+                        help="Run a reduced 12-combo grid for a fast performance check.")
+    args = parser.parse_args()
+
     print()
     print("=== ROBERTA + CRF ===")
+    if args.quick:
+        print("  [quick mode] Running reduced grid (12 combos).")
     print()
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -259,13 +268,22 @@ def main():
     print(f"  Docs — train: {len(train_seqs)}  dev: {len(dev_seqs)}  test: {len(test_seqs)}")
 
     # ── Hyperparameter grid ────────────────────────────────────────────────────
-    grid = {
-        "lr":             [1e-3, 5e-3, 1e-2, 5e-2, 1e-1],
-        "epochs":         [10, 20, 50, 100, 200],
-        "batch_size":     [8, 16, 32],
-        "optimizer":      ["adam", "adamw", "sgd"],
-        "l2_reg":         [0.0, 1e-4, 1e-3, 1e-2],
-    }
+    if args.quick:
+        grid = {
+            "lr":         [1e-2, 1e-1],
+            "epochs":     [50, 100],
+            "batch_size": [16],
+            "optimizer":  ["adam", "adamw", "sgd"],
+            "l2_reg":     [1e-3],
+        }
+    else:
+        grid = {
+            "lr":         [1e-3, 5e-3, 1e-2, 5e-2, 1e-1],
+            "epochs":     [10, 20, 50, 100, 200],
+            "batch_size": [8, 16, 32],
+            "optimizer":  ["adam", "adamw", "sgd"],
+            "l2_reg":     [0.0, 1e-4, 1e-3, 1e-2],
+        }
 
     combos = list(itertools.product(
         grid["lr"], grid["epochs"], grid["batch_size"],

@@ -192,6 +192,16 @@ This will:
 In Label Studio, click **Label All Tasks** to start. For each syllabus, highlight spans of text and assign labels from
 the toolbar (ACCOM, ATTEND, GRADE, etc.). Click **Submit** after each document.
 
+### Annotate for IAA
+
+```bash
+python annotate.py start --iaa
+```
+
+This will load a predefined set of syllabuses that each annotator will annotate so that inter-annotator agreement can be computed.
+
+**Make sure this is done.**
+
 ### Finish a session
 
 When you're done, go back to your terminal and run:
@@ -289,6 +299,14 @@ python train_roberta_crf.py
 ```
 
 Loads the pre-saved RoBERTa logits and trains a CRF transition matrix on top using PyTorch. Documents are decoded jointly (Viterbi), capturing label sequence patterns that the independent RoBERTa classifier misses. Saves the transition matrix to `models/roberta_crf_transitions.pt` and results to `results/roberta_crf_results.json`.
+
+### For a Progress Check
+
+```bash
+python convert_to_sentences.py && python split_data.py && python train_crf.py --quick && python train_roberta.py --quick && python train_roberta_crf.py --quick
+```
+
+Runs all steps above with minimal hyperparameter tuning to quickly see how the models are performing.
 
 ### Results
 
